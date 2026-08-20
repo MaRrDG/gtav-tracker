@@ -1,12 +1,14 @@
 'use client';
 
 import {
+  AnchorIcon,
   BridgeIcon,
   CarProfileIcon,
   FlyingSaucerIcon,
   KnifeIcon,
   MapPinIcon,
   NoteIcon,
+  PackageIcon,
   RadioactiveIcon,
   ScrollIcon,
 } from '@phosphor-icons/react';
@@ -26,6 +28,8 @@ const CATEGORY_ICONS: Record<string, Icon> = {
   knife: KnifeIcon,
   bridge: BridgeIcon,
   epsilon: ScrollIcon,
+  submarine: AnchorIcon,
+  package: PackageIcon,
 };
 
 /** Categories added later render this until they are given a glyph of their own. */
