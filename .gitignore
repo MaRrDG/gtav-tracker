@@ -1,3 +1,6 @@
-tiles/
 node_modules/
+.next/
+tiles/
+public/tiles/
+.env*.local
 .DS_Store

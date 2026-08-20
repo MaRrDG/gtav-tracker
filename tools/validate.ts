@@ -1,20 +1,22 @@
-import { readFile, realpath } from 'node:fs/promises';
-import { fileURLToPath } from 'node:url';
+import { readFile } from 'node:fs/promises';
+import type { Achievement, Category, Objective } from '@/lib/types';
 
 // Leaflet's default CRS clamps latitude to the Web Mercator limit.
 const LAT_LIMIT = 85.06;
 const LNG_LIMIT = 180;
 
-export function validateData({ locations, achievements, categories }) {
-  const errors = [];
+type Input = { locations: Objective[]; achievements: Achievement[]; categories: Category[] };
+
+export function validateData({ locations, achievements, categories }: Input): string[] {
+  const errors: string[] = [];
   const categoryIds = new Set(categories.map((c) => c.id));
   const achievementIds = new Set(achievements.map((a) => a.id));
-  const seen = new Set();
-  const counts = new Map();
+  const seen = new Set<string>();
+  const counts = new Map<string, number>();
 
   for (const item of locations) {
     const where = item.id || '(missing id)';
-    if (!item.id) errors.push('location with no id');
+    if (!item.id) errors.push('objective with no id');
     else if (seen.has(item.id)) errors.push(`duplicate id: ${item.id}`);
     else seen.add(item.id);
 
@@ -23,17 +25,21 @@ export function validateData({ locations, achievements, categories }) {
     if (!categoryIds.has(item.cat)) {
       errors.push(`${where}: unknown category: ${item.cat}`);
     } else {
-      counts.set(item.cat, (counts.get(item.cat) || 0) + 1);
+      counts.set(item.cat, (counts.get(item.cat) ?? 0) + 1);
     }
 
-    const hasCoords = typeof item.lat === 'number' && typeof item.lng === 'number';
-    if (!hasCoords) {
-      errors.push(`${where}: missing coordinates`);
-    } else if (Math.abs(item.lat) > LAT_LIMIT || Math.abs(item.lng) > LNG_LIMIT) {
-      errors.push(`${where}: coordinates out of bounds (${item.lat}, ${item.lng})`);
+    // Coordinates are optional: an objective without them is checklist-only.
+    const hasLat = typeof item.lat === 'number';
+    const hasLng = typeof item.lng === 'number';
+    if (hasLat !== hasLng) {
+      errors.push(`${where}: has only one of lat/lng`);
+    } else if (hasLat && hasLng) {
+      if (Math.abs(item.lat!) > LAT_LIMIT || Math.abs(item.lng!) > LNG_LIMIT) {
+        errors.push(`${where}: coordinates out of bounds (${item.lat}, ${item.lng})`);
+      }
     }
 
-    for (const ref of item.counts_for || []) {
+    for (const ref of item.counts_for ?? []) {
       if (ref === '100%') continue;
       if (!ref.startsWith('ach:')) {
         errors.push(`${where}: malformed counts_for entry: ${ref}`);
@@ -46,7 +52,7 @@ export function validateData({ locations, achievements, categories }) {
 
   for (const category of categories) {
     if (category.expected == null) continue;
-    const found = counts.get(category.id) || 0;
+    const found = counts.get(category.id) ?? 0;
     if (found !== category.expected) {
       errors.push(`${category.id}: expected ${category.expected}, found ${found}`);
     }
@@ -65,23 +71,28 @@ export function validateData({ locations, achievements, categories }) {
   return errors;
 }
 
-const readJson = async (path) => JSON.parse(await readFile(new URL(path, import.meta.url), 'utf8'));
+async function main(): Promise<void> {
+  const read = async (name: string) =>
+    JSON.parse(await readFile(new URL(`../data/${name}.json`, import.meta.url), 'utf8'));
 
-// Runs the checks against the real data files when invoked directly, not when imported.
-const invokedDirectly = process.argv[1]
-  && (await realpath(process.argv[1])) === (await realpath(fileURLToPath(import.meta.url)));
-
-if (invokedDirectly) {
   const [locations, achievements, categories] = await Promise.all([
-    readJson('../data/locations.json'),
-    readJson('../data/achievements.json'),
-    readJson('../data/categories.json'),
+    read('locations'),
+    read('achievements'),
+    read('categories'),
   ]);
+
   const errors = validateData({ locations, achievements, categories });
-  if (errors.length) {
+  if (errors.length > 0) {
     console.error(`${errors.length} problem(s):`);
     for (const error of errors) console.error(`  ${error}`);
     process.exit(1);
   }
-  console.log(`Data is valid: ${locations.length} objectives across ${categories.length} categories.`);
+  console.log(
+    `Data is valid: ${locations.length} objectives across ${categories.length} categories.`,
+  );
+}
+
+// tsx sets argv[1] to this file when it is run directly, not when it is imported.
+if (process.argv[1]?.endsWith('validate.ts')) {
+  await main();
 }

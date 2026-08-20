@@ -2,10 +2,27 @@
   "name": "gta5-tracker",
   "version": "0.1.0",
   "private": true,
-  "type": "module",
   "scripts": {
-    "test": "node --test tests/",
-    "validate": "node tools/validate.js",
-    "serve": "npx --yes serve ."
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "test": "vitest run",
+    "validate": "tsx tools/validate.ts"
+  },
+  "dependencies": {
+    "next": "16.3.1",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.1",
+    "tsx": "^4.23.12",
+    "typescript": "^5",
+    "vitest": "^4.1.11"
   }
 }
