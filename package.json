@@ -1,0 +1,11 @@
+{
+  "name": "gta5-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/",
+    "validate": "node tools/validate.js",
+    "serve": "npx --yes serve ."
+  }
+}

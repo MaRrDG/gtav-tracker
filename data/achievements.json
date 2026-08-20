@@ -1,0 +1,30 @@
+[
+  {
+    "id": "from-beyond-the-stars",
+    "name": "From Beyond the Stars",
+    "desc": "Collect and return all spaceship parts.",
+    "platform": "sp",
+    "auto": { "cat": "spaceship", "require": "all" }
+  },
+  {
+    "id": "a-mystery-solved",
+    "name": "A Mystery, Solved",
+    "desc": "Collect and return all letter scraps.",
+    "platform": "sp",
+    "auto": { "cat": "letter", "require": "all" }
+  },
+  {
+    "id": "waste-management",
+    "name": "Waste Management",
+    "desc": "Collect all nuclear waste.",
+    "platform": "sp",
+    "auto": { "cat": "waste", "require": "all" }
+  },
+  {
+    "id": "show-off",
+    "name": "Show Off",
+    "desc": "Complete all stunt jumps.",
+    "platform": "sp",
+    "auto": { "cat": "stunt", "require": "all" }
+  }
+]

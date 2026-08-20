@@ -1,0 +1,7 @@
+[
+  { "id": "spaceship", "name": "Spaceship Parts", "expected": 50 },
+  { "id": "letter", "name": "Letter Scraps", "expected": 50 },
+  { "id": "waste", "name": "Nuclear Waste", "expected": 30 },
+  { "id": "stunt", "name": "Stunt Jumps", "expected": 50 },
+  { "id": "knife", "name": "Knife Flights", "expected": null }
+]
