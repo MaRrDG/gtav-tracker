@@ -12,6 +12,10 @@
   --primary: #c4550f;
   --primary-ink: #ffffff;
 
+  /* The ocean the tiles sit in. Part of the map artwork, so it is the same in both
+     themes and is never used for interface chrome. */
+  --water: #0fa7d1;
+
   --font-display: var(--font-archivo), system-ui, sans-serif;
   --font-body: var(--font-geist-sans), system-ui, sans-serif;
   --font-mono: var(--font-geist-mono), ui-monospace, monospace;
@@ -174,7 +178,13 @@ a {
 
 .map {
   height: 100%;
-  background: var(--bg);
+  background: var(--water);
+}
+
+/* Leaflet gives its container a grey background of its own, and the order of the two
+   stylesheets is not guaranteed. The doubled class wins either way. */
+.map.leaflet-container {
+  background: var(--water);
 }
 
 .pin__body {
