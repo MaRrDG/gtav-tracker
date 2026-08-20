@@ -24,13 +24,15 @@ const toNormalized = (lat, lng) => {
 };
 
 const COLORS = {
-  letter: [220, 40, 40],
+  letter: [140, 20, 20],
   stunt: [255, 140, 0],
   waste: [40, 220, 60],
   spaceship: [140, 60, 220],
   knife: [0, 0, 0],
   bridge: [255, 0, 200],
   epsilon: [255, 255, 0],
+  submarine: [255, 0, 0],
+  package: [0, 0, 255],
 };
 
 async function main() {
@@ -89,7 +91,7 @@ async function main() {
   const encoded = jpeg.encode({ data: canvas, width: SIZE, height: SIZE }, 82);
   await writeFile(out, encoded.data);
   console.log(`Drew ${drawn} objectives onto ${out} (${SIZE}x${SIZE}).`);
-  console.log('red letters, orange stunts, green waste, purple spaceship, black knife, pink bridge, yellow epsilon');
+  console.log('red submarine, blue packages, green waste, orange stunts, purple spaceship, pink bridge, yellow epsilon, dark red letters, black knife');
 }
 
 await main();

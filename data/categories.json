@@ -5,5 +5,7 @@
   { "id": "stunt", "name": "Stunt Jumps", "expected": 50 },
   { "id": "knife", "name": "Knife Flights", "expected": 15 },
   { "id": "bridge", "name": "Under the Bridge", "expected": 50 },
-  { "id": "epsilon", "name": "Epsilon Tracts", "expected": 10 }
+  { "id": "epsilon", "name": "Epsilon Tracts", "expected": 10 },
+  { "id": "submarine", "name": "Submarine Parts", "expected": 30 },
+  { "id": "package", "name": "Hidden Packages", "expected": null }
 ]

@@ -107,7 +107,9 @@ async function main(source: string): Promise<void> {
   if (skipped.length > 0) console.log(`Skipped upstream types: ${skipped.join(', ')}`);
 }
 
-if (process.argv[2]) {
+// Guarded on the entry point, not merely on an argument: this module is imported by
+// tools/build-catalog.ts, which is itself run with arguments.
+if (process.argv[1]?.endsWith('import-danharper.ts') && process.argv[2]) {
   main(process.argv[2]).catch((error: unknown) => {
     console.error(error);
     process.exit(1);

@@ -57,8 +57,27 @@ Per-user progress lives in Supabase Postgres, one row per completed objective, p
 by row-level security. The browser reaches progress only through this app's `/api` routes;
 it talks to Supabase directly for authentication alone.
 
+## Rebuilding the catalog
+
+    curl -sLO https://raw.githubusercontent.com/Mobius1/collectathon/master/collectathon/config.lua
+    curl -sL -o markers.json https://raw.githubusercontent.com/danharper/GTAV/master/locations.json
+    npx tsx tools/build-catalog.ts config.lua markers.json
+    npx tsx tools/validate.ts
+
+Two sources, treated differently on purpose. Collectathon publishes GTA V game world
+coordinates, which are canonical, so it supplies every category it covers. The older marker
+set was placed by hand on a different map, so it is used only for Stunt Jumps, Knife
+Flights and Under the Bridge, which nothing else publishes.
+
+Both are calibrated onto our tiles by fitted transforms rather than guesses:
+
+    node tools/calibrate-game-coords.mjs config.lua   # game coordinates, ~12 m residual
+    node tools/fit-alignment.mjs                      # the hand-placed marker set
+    node tools/preview-alignment.mjs 1 0 0 check.jpg  # renders the result to look at
+
 ## Credits
 
-Coordinates adapted from [danharper/GTAV](https://github.com/danharper/GTAV) (WTFPL).
+Collectible coordinates from [Mobius1/collectathon](https://github.com/Mobius1/collectathon)
+(GPL-3.0) and [danharper/GTAV](https://github.com/danharper/GTAV) (WTFPL).
 Map tiles from [meesvrh/GTAV-Map-Tiles](https://github.com/meesvrh/GTAV-Map-Tiles); the
 artwork is Rockstar's.

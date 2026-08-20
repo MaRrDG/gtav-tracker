@@ -1,371 +1,1579 @@
 [
   {
-    "id": "waste-01",
-    "cat": "waste",
-    "name": "Nuclear Waste #1",
-    "lat": 71.91804403858747,
-    "lng": -51.90073894638971,
-    "notes": "Depth: 83",
+    "id": "bridge-01",
+    "cat": "bridge",
+    "name": "Under the Bridge #1",
+    "lat": 75.20894926432233,
+    "lng": 39.30808869566158,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-02",
-    "cat": "waste",
-    "name": "Nuclear Waste #2",
-    "lat": 75.48713997994055,
-    "lng": -43.978883313581605,
-    "notes": "Depth: 96",
+    "id": "bridge-02",
+    "cat": "bridge",
+    "name": "Under the Bridge #2",
+    "lat": 64.09822245390201,
+    "lng": 61.86038632060752,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-03",
-    "cat": "waste",
-    "name": "Nuclear Waste #3",
-    "lat": 78.92132132618312,
-    "lng": -31.429675102858084,
-    "notes": "Depth: 85",
+    "id": "bridge-03",
+    "cat": "bridge",
+    "name": "Under the Bridge #3",
+    "lat": 62.579332805440096,
+    "lng": 58.23267088495939,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-04",
-    "cat": "waste",
-    "name": "Nuclear Waste #4",
-    "lat": 80.15835366843022,
-    "lng": 15.77362070647169,
-    "notes": "Depth: 443",
+    "id": "bridge-04",
+    "cat": "bridge",
+    "name": "Under the Bridge #4",
+    "lat": 27.74021573228208,
+    "lng": 50.7353923179532,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-05",
-    "cat": "waste",
-    "name": "Nuclear Waste #5",
-    "lat": 78.81420835542507,
-    "lng": 23.725035502088616,
-    "notes": "Depth: 122",
+    "id": "bridge-05",
+    "cat": "bridge",
+    "name": "Under the Bridge #5",
+    "lat": 9.97722789913947,
+    "lng": 54.72587929716616,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-06",
-    "cat": "waste",
-    "name": "Nuclear Waste #6",
-    "lat": 79.43018848023348,
-    "lng": 31.133636580667826,
-    "notes": "Depth: 432",
+    "id": "bridge-06",
+    "cat": "bridge",
+    "name": "Under the Bridge #6",
+    "lat": 5.364613459832805,
+    "lng": 35.25713979252117,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-07",
-    "cat": "waste",
-    "name": "Nuclear Waste #7",
-    "lat": 79.13790665662815,
-    "lng": 53.63084667492424,
-    "notes": "Depth: 462",
+    "id": "bridge-07",
+    "cat": "bridge",
+    "name": "Under the Bridge #7",
+    "lat": -17.217025092004235,
+    "lng": 49.34476806762143,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-08",
-    "cat": "waste",
-    "name": "Nuclear Waste #8",
-    "lat": 79.16067064055291,
-    "lng": 58.16683456779393,
-    "notes": "Depth: 496",
+    "id": "bridge-08",
+    "cat": "bridge",
+    "name": "Under the Bridge #8",
+    "lat": -18.253599365843193,
+    "lng": 48.01460574121711,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-09",
-    "cat": "waste",
-    "name": "Nuclear Waste #9",
-    "lat": 77.09042007323777,
-    "lng": 67.90254791842591,
-    "notes": "Depth: 70",
+    "id": "bridge-09",
+    "cat": "bridge",
+    "name": "Under the Bridge #9",
+    "lat": -25.485527162445575,
+    "lng": 66.15318291945778,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-10",
-    "cat": "waste",
-    "name": "Nuclear Waste #10",
-    "lat": 77.00912157773287,
-    "lng": 71.13793264770013,
-    "notes": "Depth: 97",
+    "id": "bridge-10",
+    "cat": "bridge",
+    "name": "Under the Bridge #10",
+    "lat": -51.43105608699648,
+    "lng": 49.52615383940386,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-11",
-    "cat": "waste",
-    "name": "Nuclear Waste #11",
-    "lat": 46.37069303785068,
-    "lng": 95.51080598201776,
-    "notes": "Depth: 113",
+    "id": "bridge-11",
+    "cat": "bridge",
+    "name": "Under the Bridge #11",
+    "lat": -56.64200307428924,
+    "lng": 37.252383282127624,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-12",
-    "cat": "waste",
-    "name": "Nuclear Waste #12",
-    "lat": 45.19008831628809,
-    "lng": 90.00742730630856,
-    "notes": "Depth: 32",
+    "id": "bridge-12",
+    "cat": "bridge",
+    "name": "Under the Bridge #12",
+    "lat": -48.234709038555586,
+    "lng": 15.365166820383877,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-13",
-    "cat": "waste",
-    "name": "Nuclear Waste #13",
-    "lat": 44.50422961415908,
-    "lng": 89.160960371324,
-    "notes": "Depth: 68",
+    "id": "bridge-13",
+    "cat": "bridge",
+    "name": "Under the Bridge #13",
+    "lat": -49.78128633953176,
+    "lng": 13.793156798269735,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-14",
-    "cat": "waste",
-    "name": "Nuclear Waste #14",
-    "lat": -63.078066663280694,
-    "lng": 59.85976843776305,
-    "notes": "Depth: 55",
+    "id": "bridge-14",
+    "cat": "bridge",
+    "name": "Under the Bridge #14",
+    "lat": -51.95574733169314,
+    "lng": 5.812182839843814,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-15",
-    "cat": "waste",
-    "name": "Nuclear Waste #15",
-    "lat": -67.04053923773392,
-    "lng": 68.78126121283827,
-    "notes": "Depth: 465",
+    "id": "bridge-15",
+    "cat": "bridge",
+    "name": "Under the Bridge #15",
+    "lat": -53.52947494155128,
+    "lng": 3.2123201109626507,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-16",
-    "cat": "waste",
-    "name": "Nuclear Waste #16",
-    "lat": -73.92565166640095,
-    "lng": 53.99361821848905,
-    "notes": "Depth: 351",
+    "id": "bridge-16",
+    "cat": "bridge",
+    "name": "Under the Bridge #16",
+    "lat": -58.04469249676183,
+    "lng": 2.184467404195658,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-17",
-    "cat": "waste",
-    "name": "Nuclear Waste #17",
-    "lat": -77.05661632221869,
-    "lng": 42.59453016069688,
-    "notes": "Depth: 153",
+    "id": "bridge-17",
+    "cat": "bridge",
+    "name": "Under the Bridge #17",
+    "lat": -57.94856369855621,
+    "lng": 13.188537558995023,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-18",
-    "cat": "waste",
-    "name": "Nuclear Waste #18",
-    "lat": -78.1463873947812,
-    "lng": 35.185929082117696,
-    "notes": "Depth: 144",
+    "id": "bridge-18",
+    "cat": "bridge",
+    "name": "Under the Bridge #18",
+    "lat": -59.853016806451045,
+    "lng": 14.15592834183434,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-19",
-    "cat": "waste",
-    "name": "Nuclear Waste #19",
-    "lat": -63.78118188513935,
-    "lng": -62.18195321067827,
-    "notes": "Depth: 58",
+    "id": "bridge-19",
+    "cat": "bridge",
+    "name": "Under the Bridge #19",
+    "lat": -62.11028903814801,
+    "lng": 19.29519187566939,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-20",
-    "cat": "waste",
-    "name": "Nuclear Waste #20",
-    "lat": -61.619286019357936,
-    "lng": -65.87147416856337,
-    "notes": "Depth: 109",
+    "id": "bridge-20",
+    "cat": "bridge",
+    "name": "Under the Bridge #20",
+    "lat": -60.42497313632344,
+    "lng": 2.244929328123135,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-21",
-    "cat": "waste",
-    "name": "Nuclear Waste #21",
-    "lat": -60.27592599878119,
-    "lng": -74.6102375735469,
-    "notes": "Depth: 210",
+    "id": "bridge-21",
+    "cat": "bridge",
+    "name": "Under the Bridge #21",
+    "lat": -62.72614841395576,
+    "lng": 2.1240054802682096,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-22",
-    "cat": "waste",
-    "name": "Nuclear Waste #22",
-    "lat": -52.28688191304396,
-    "lng": -83.59084867424028,
-    "notes": "Depth: 84",
+    "id": "bridge-22",
+    "cat": "bridge",
+    "name": "Under the Bridge #22",
+    "lat": -65.47045205119466,
+    "lng": 3.4541678066725297,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-23",
-    "cat": "waste",
-    "name": "Nuclear Waste #23",
-    "lat": -47.61567487918723,
-    "lng": -94.98993673203242,
-    "notes": "Depth: 62",
+    "id": "bridge-23",
+    "cat": "bridge",
+    "name": "Under the Bridge #23",
+    "lat": -68.5588368282075,
+    "lng": 4.361096665584569,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-24",
-    "cat": "waste",
-    "name": "Nuclear Waste #24",
-    "lat": -26.675175527311875,
-    "lng": -105.48343952922203,
-    "notes": "Depth: 30",
+    "id": "bridge-24",
+    "cat": "bridge",
+    "name": "Under the Bridge #24",
+    "lat": -71.44846999211487,
+    "lng": 3.575091654527455,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-25",
-    "cat": "waste",
-    "name": "Nuclear Waste #25",
-    "lat": 8.304105713636552,
-    "lng": -99.28407692919221,
-    "notes": "Depth: 84",
+    "id": "bridge-25",
+    "cat": "bridge",
+    "name": "Under the Bridge #25",
+    "lat": -74.90157018681677,
+    "lng": 2.5472389477604906,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-26",
-    "cat": "waste",
-    "name": "Nuclear Waste #26",
-    "lat": 28.008151490459632,
-    "lng": -94.14346979704784,
-    "notes": "Depth: 82",
+    "id": "bridge-26",
+    "cat": "bridge",
+    "name": "Under the Bridge #26",
+    "lat": -75.41264076090219,
+    "lng": 4.300634741657063,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-27",
-    "cat": "waste",
-    "name": "Nuclear Waste #27",
-    "lat": 33.32933481838237,
-    "lng": -102.85267403922238,
-    "notes": "Depth: 167",
+    "id": "bridge-27",
+    "cat": "bridge",
+    "name": "Under the Bridge #27",
+    "lat": -75.48858512663766,
+    "lng": 5.812182839843814,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-28",
-    "cat": "waste",
-    "name": "Nuclear Waste #28",
-    "lat": 42.039473951362304,
-    "lng": -100.79696862568844,
-    "notes": "Depth: 181",
+    "id": "bridge-28",
+    "cat": "bridge",
+    "name": "Under the Bridge #28",
+    "lat": -75.71410398485315,
+    "lng": 7.626040557667864,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-29",
-    "cat": "waste",
-    "name": "Nuclear Waste #29",
-    "lat": 53.43795241819168,
-    "lng": -87.73450586073615,
-    "notes": "Depth: 354",
+    "id": "bridge-29",
+    "cat": "bridge",
+    "name": "Under the Bridge #29",
+    "lat": -73.5719018881377,
+    "lng": -4.164034608188587,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
-      "100%",
-      "ach:waste-management"
+      "100%"
     ]
   },
   {
-    "id": "waste-30",
-    "cat": "waste",
-    "name": "Nuclear Waste #30",
-    "lat": 54.01032080569051,
-    "lng": -86.76711507789663,
-    "notes": "Depth: 477",
+    "id": "bridge-30",
+    "cat": "bridge",
+    "name": "Under the Bridge #30",
+    "lat": -73.52052588171941,
+    "lng": -7.791750043836714,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "bridge-31",
+    "cat": "bridge",
+    "name": "Under the Bridge #31",
+    "lat": -73.8264540097649,
+    "lng": -23.814159884615975,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "bridge-32",
+    "cat": "bridge",
+    "name": "Under the Bridge #32",
+    "lat": -71.35204702969708,
+    "lng": -12.265932414469404,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "bridge-33",
+    "cat": "bridge",
+    "name": "Under the Bridge #33",
+    "lat": -69.19072753237388,
+    "lng": -18.977205970418453,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "bridge-34",
+    "cat": "bridge",
+    "name": "Under the Bridge #34",
+    "lat": -67.97680499881223,
+    "lng": -23.45138834105117,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "bridge-35",
+    "cat": "bridge",
+    "name": "Under the Bridge #35",
+    "lat": -67.09908446478701,
+    "lng": -25.44663183065765,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "bridge-36",
+    "cat": "bridge",
+    "name": "Under the Bridge #36",
+    "lat": -66.23711111119954,
+    "lng": -30.283585744855145,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "bridge-37",
+    "cat": "bridge",
+    "name": "Under the Bridge #37",
+    "lat": -66.38286796168096,
+    "lng": -31.311438451622138,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "bridge-38",
+    "cat": "bridge",
+    "name": "Under the Bridge #38",
+    "lat": -66.57589958961185,
+    "lng": -32.702062701953906,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "bridge-39",
+    "cat": "bridge",
+    "name": "Under the Bridge #39",
+    "lat": -27.64844945841961,
+    "lng": -95.88477320615895,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "bridge-40",
+    "cat": "bridge",
+    "name": "Under the Bridge #40",
+    "lat": 15.109972645444373,
+    "lng": -53.13819298943841,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "bridge-41",
+    "cat": "bridge",
+    "name": "Under the Bridge #41",
+    "lat": 20.85784707364827,
+    "lng": -51.26387334768688,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "bridge-42",
+    "cat": "bridge",
+    "name": "Under the Bridge #42",
+    "lat": 26.556632859312092,
+    "lng": -18.312124807216293,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "bridge-43",
+    "cat": "bridge",
+    "name": "Under the Bridge #43",
+    "lat": 29.016878116539875,
+    "lng": -24.60016489567309,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "bridge-44",
+    "cat": "bridge",
+    "name": "Under the Bridge #44",
+    "lat": 20.291796992820046,
+    "lng": -84.8807030513596,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "bridge-45",
+    "cat": "bridge",
+    "name": "Under the Bridge #45",
+    "lat": 38.06986938894017,
+    "lng": -10.270688924862924,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "bridge-46",
+    "cat": "bridge",
+    "name": "Under the Bridge #46",
+    "lat": 39.06260465557092,
+    "lng": -9.90791738129812,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "bridge-47",
+    "cat": "bridge",
+    "name": "Under the Bridge #47",
+    "lat": 54.19671668126815,
+    "lng": -18.070277111506442,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "bridge-48",
+    "cat": "bridge",
+    "name": "Under the Bridge #48",
+    "lat": 56.83149754457608,
+    "lng": -27.441875320264103,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "bridge-49",
+    "cat": "bridge",
+    "name": "Under the Bridge #49",
+    "lat": 59.995854474428015,
+    "lng": -63.779491600672955,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "bridge-50",
+    "cat": "bridge",
+    "name": "Under the Bridge #50",
+    "lat": 61.27063006275011,
+    "lng": -41.46904167143691,
+    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "epsilon-01",
+    "cat": "epsilon",
+    "name": "Epsilon Tract #1",
+    "lat": 70.43025993496974,
+    "lng": -0.17194228994722494,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "epsilon-02",
+    "cat": "epsilon",
+    "name": "Epsilon Tract #2",
+    "lat": -64.56709692402502,
+    "lng": 57.121157836149536,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "epsilon-03",
+    "cat": "epsilon",
+    "name": "Epsilon Tract #3",
+    "lat": 82.37647874432005,
+    "lng": -12.847642085934297,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "epsilon-04",
+    "cat": "epsilon",
+    "name": "Epsilon Tract #4",
+    "lat": 60.9332701475118,
+    "lng": -20.514181690006126,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "epsilon-05",
+    "cat": "epsilon",
+    "name": "Epsilon Tract #5",
+    "lat": -55.632745134736226,
+    "lng": -34.026956000822565,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "epsilon-06",
+    "cat": "epsilon",
+    "name": "Epsilon Tract #6",
+    "lat": 67.07401237830672,
+    "lng": -56.16292650408721,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "epsilon-07",
+    "cat": "epsilon",
+    "name": "Epsilon Tract #7",
+    "lat": -35.618712244497694,
+    "lng": -61.46439843133966,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "epsilon-08",
+    "cat": "epsilon",
+    "name": "Epsilon Tract #8",
+    "lat": 70.5462129327279,
+    "lng": -0.6502705841353986,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "epsilon-09",
+    "cat": "epsilon",
+    "name": "Epsilon Tract #9",
+    "lat": -57.608351148363056,
+    "lng": -15.505021498090912,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "epsilon-10",
+    "cat": "epsilon",
+    "name": "Epsilon Tract #10",
+    "lat": -47.43956423081772,
+    "lng": -59.36506869573594,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "knife-01",
+    "cat": "knife",
+    "name": "Knife Flight #1",
+    "lat": -43.04043582260548,
+    "lng": -7.428978500271882,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "knife-02",
+    "cat": "knife",
+    "name": "Knife Flight #2",
+    "lat": -44.091821547570206,
+    "lng": -3.619877292841352,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "knife-03",
+    "cat": "knife",
+    "name": "Knife Flight #3",
+    "lat": -55.937350969270874,
+    "lng": -10.028841229153073,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "knife-04",
+    "cat": "knife",
+    "name": "Knife Flight #4",
+    "lat": -56.64200307428924,
+    "lng": -15.833185926190083,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "knife-05",
+    "cat": "knife",
+    "name": "Knife Flight #5",
+    "lat": -57.038850811620726,
+    "lng": -19.27951559005581,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "knife-06",
+    "cat": "knife",
+    "name": "Knife Flight #6",
+    "lat": -58.1086350809817,
+    "lng": -21.093373307879887,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "knife-07",
+    "cat": "knife",
+    "name": "Knife Flight #7",
+    "lat": -55.32297748400664,
+    "lng": -20.005058677185446,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "knife-08",
+    "cat": "knife",
+    "name": "Knife Flight #8",
+    "lat": -54.45361891622244,
+    "lng": -32.46021500624403,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "knife-09",
+    "cat": "knife",
+    "name": "Knife Flight #9",
+    "lat": -48.99417152166511,
+    "lng": -38.86917894255575,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "knife-10",
+    "cat": "knife",
+    "name": "Knife Flight #10",
+    "lat": -50.363361882572974,
+    "lng": -44.79444748744771,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "knife-11",
+    "cat": "knife",
+    "name": "Knife Flight #11",
+    "lat": -54.02963928470963,
+    "lng": -53.38004068514829,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "knife-12",
+    "cat": "knife",
+    "name": "Knife Flight #12",
+    "lat": -53.421520280872805,
+    "lng": -54.95205070726247,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "knife-13",
+    "cat": "knife",
+    "name": "Knife Flight #13",
+    "lat": -49.42864516476065,
+    "lng": -63.114410437470795,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "knife-14",
+    "cat": "knife",
+    "name": "Knife Flight #14",
+    "lat": -38.88802564328707,
+    "lng": -33.367143865156066,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "knife-15",
+    "cat": "knife",
+    "name": "Knife Flight #15",
+    "lat": -38.27358909965521,
+    "lng": -33.66945348479342,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "letter-01",
+    "cat": "letter",
+    "name": "Letter Scrap #1",
+    "lat": 77.34763870416234,
+    "lng": 25.538203522668084,
+    "notes": "",
     "counts_for": [
       "100%",
-      "ach:waste-management"
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-02",
+    "cat": "letter",
+    "name": "Letter Scrap #2",
+    "lat": 76.01370745699329,
+    "lng": 24.7409896990211,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-03",
+    "cat": "letter",
+    "name": "Letter Scrap #3",
+    "lat": 66.22198730823582,
+    "lng": 77.80885655978886,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-04",
+    "cat": "letter",
+    "name": "Letter Scrap #4",
+    "lat": 65.15571268880043,
+    "lng": 36.36702462720632,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-05",
+    "cat": "letter",
+    "name": "Letter Scrap #5",
+    "lat": 54.96209834425514,
+    "lng": 22.01717580156057,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-06",
+    "cat": "letter",
+    "name": "Letter Scrap #6",
+    "lat": 42.070824345880894,
+    "lng": 28.17432389952745,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-07",
+    "cat": "letter",
+    "name": "Letter Scrap #7",
+    "lat": 29.777828934014927,
+    "lng": 20.874502654333213,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-08",
+    "cat": "letter",
+    "name": "Letter Scrap #8",
+    "lat": 16.0991458795763,
+    "lng": 11.188354697022334,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-09",
+    "cat": "letter",
+    "name": "Letter Scrap #9",
+    "lat": 10.067494799143997,
+    "lng": 67.88354445538386,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-10",
+    "cat": "letter",
+    "name": "Letter Scrap #10",
+    "lat": -4.93581233236808,
+    "lng": 68.38844654369359,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-11",
+    "cat": "letter",
+    "name": "Letter Scrap #11",
+    "lat": -16.537720012434853,
+    "lng": 4.624627548995477,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-12",
+    "cat": "letter",
+    "name": "Letter Scrap #12",
+    "lat": -40.57504186447374,
+    "lng": 14.443644476914216,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-13",
+    "cat": "letter",
+    "name": "Letter Scrap #13",
+    "lat": -47.80854112431825,
+    "lng": 15.612891418263132,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-14",
+    "cat": "letter",
+    "name": "Letter Scrap #14",
+    "lat": -47.61087733978917,
+    "lng": -6.456644599697626,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-15",
+    "cat": "letter",
+    "name": "Letter Scrap #15",
+    "lat": -51.6716202985412,
+    "lng": -11.213353747457973,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-16",
+    "cat": "letter",
+    "name": "Letter Scrap #16",
+    "lat": -59.79527874023832,
+    "lng": -16.67958319826414,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-17",
+    "cat": "letter",
+    "name": "Letter Scrap #17",
+    "lat": -60.569393562122,
+    "lng": 3.5749626811936253,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-18",
+    "cat": "letter",
+    "name": "Letter Scrap #18",
+    "lat": -64.69866670153078,
+    "lng": 62.621933219313746,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-19",
+    "cat": "letter",
+    "name": "Letter Scrap #19",
+    "lat": -71.99973532766055,
+    "lng": 26.587868390469964,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-20",
+    "cat": "letter",
+    "name": "Letter Scrap #20",
+    "lat": -73.40825097594025,
+    "lng": 6.391784858079632,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-21",
+    "cat": "letter",
+    "name": "Letter Scrap #21",
+    "lat": -78.14161164730379,
+    "lng": 13.779299623875062,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-22",
+    "cat": "letter",
+    "name": "Letter Scrap #22",
+    "lat": -76.38389490097684,
+    "lng": -15.664464262820303,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-23",
+    "cat": "letter",
+    "name": "Letter Scrap #23",
+    "lat": -76.43096566999114,
+    "lng": -41.37461007543561,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-24",
+    "cat": "letter",
+    "name": "Letter Scrap #24",
+    "lat": -75.06793714686515,
+    "lng": -37.906729942571246,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-25",
+    "cat": "letter",
+    "name": "Letter Scrap #25",
+    "lat": -70.71989536149773,
+    "lng": -11.492378585734428,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-26",
+    "cat": "letter",
+    "name": "Letter Scrap #26",
+    "lat": -68.52269581836234,
+    "lng": -13.51198693897345,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-27",
+    "cat": "letter",
+    "name": "Letter Scrap #27",
+    "lat": -63.53899268093248,
+    "lng": -41.042437648916035,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-28",
+    "cat": "letter",
+    "name": "Letter Scrap #28",
+    "lat": -65.0558035112933,
+    "lng": -50.19710972379559,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-29",
+    "cat": "letter",
+    "name": "Letter Scrap #29",
+    "lat": -62.66926550562829,
+    "lng": -61.90286603434551,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-30",
+    "cat": "letter",
+    "name": "Letter Scrap #30",
+    "lat": -52.864537395440585,
+    "lng": -46.45020475265477,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-31",
+    "cat": "letter",
+    "name": "Letter Scrap #31",
+    "lat": -47.54782707510197,
+    "lng": -59.33849490161438,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-32",
+    "cat": "letter",
+    "name": "Letter Scrap #32",
+    "lat": -43.163675666871434,
+    "lng": -93.8073632566979,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-33",
+    "cat": "letter",
+    "name": "Letter Scrap #33",
+    "lat": -39.56346839303536,
+    "lng": -74.738008595062,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-34",
+    "cat": "letter",
+    "name": "Letter Scrap #34",
+    "lat": -42.82772344886241,
+    "lng": -22.74638039621769,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-35",
+    "cat": "letter",
+    "name": "Letter Scrap #35",
+    "lat": -24.93222427419326,
+    "lng": -17.20574432187115,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-36",
+    "cat": "letter",
+    "name": "Letter Scrap #36",
+    "lat": -11.996886724511963,
+    "lng": -54.66150713621872,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-37",
+    "cat": "letter",
+    "name": "Letter Scrap #37",
+    "lat": -6.291204704348065,
+    "lng": -24.991865999490045,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-38",
+    "cat": "letter",
+    "name": "Letter Scrap #38",
+    "lat": 6.898373258711304,
+    "lng": -29.29682064718378,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-39",
+    "cat": "letter",
+    "name": "Letter Scrap #39",
+    "lat": 11.43175254996195,
+    "lng": -8.715417100030749,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-40",
+    "cat": "letter",
+    "name": "Letter Scrap #40",
+    "lat": 26.588958429545727,
+    "lng": -6.443357702636831,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-41",
+    "cat": "letter",
+    "name": "Letter Scrap #41",
+    "lat": 26.170285929772152,
+    "lng": -21.191813440106102,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-42",
+    "cat": "letter",
+    "name": "Letter Scrap #42",
+    "lat": 23.847194752964977,
+    "lng": -36.39202367764196,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-43",
+    "cat": "letter",
+    "name": "Letter Scrap #43",
+    "lat": 21.481713815485183,
+    "lng": -76.75761694830102,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-44",
+    "cat": "letter",
+    "name": "Letter Scrap #44",
+    "lat": 54.45295510908746,
+    "lng": -56.255934783512686,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-45",
+    "cat": "letter",
+    "name": "Letter Scrap #45",
+    "lat": 55.404265958136236,
+    "lng": -13.551847630155805,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-46",
+    "cat": "letter",
+    "name": "Letter Scrap #46",
+    "lat": 62.471052627219215,
+    "lng": -40.13892864878278,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-47",
+    "cat": "letter",
+    "name": "Letter Scrap #47",
+    "lat": 69.19575973081766,
+    "lng": -28.898213735360287,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-48",
+    "cat": "letter",
+    "name": "Letter Scrap #48",
+    "lat": 70.14200189212453,
+    "lng": -1.6467878636941293,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-49",
+    "cat": "letter",
+    "name": "Letter Scrap #49",
+    "lat": 75.91006368693613,
+    "lng": -24.22122596996462,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "letter-50",
+    "cat": "letter",
+    "name": "Letter Scrap #50",
+    "lat": 77.9807864502246,
+    "lng": -11.744829629889296,
+    "notes": "",
+    "counts_for": [
+      "100%",
+      "ach:a-mystery-solved"
+    ]
+  },
+  {
+    "id": "package-01",
+    "cat": "package",
+    "name": "Hidden Package #1",
+    "lat": 77.26842981252129,
+    "lng": -40.04592036935733,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "package-02",
+    "cat": "package",
+    "name": "Hidden Package #2",
+    "lat": 76.48029724626774,
+    "lng": 73.31788535324415,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "package-03",
+    "cat": "package",
+    "name": "Hidden Package #3",
+    "lat": 42.61952644696797,
+    "lng": 99.17418703352803,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "package-04",
+    "cat": "package",
+    "name": "Hidden Package #4",
+    "lat": -49.548663359990584,
+    "lng": 70.62596000872949,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "package-05",
+    "cat": "package",
+    "name": "Hidden Package #5",
+    "lat": -65.08956945373608,
+    "lng": 57.97151924803964,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "package-06",
+    "cat": "package",
+    "name": "Hidden Package #6",
+    "lat": -77.91170318120004,
+    "lng": 33.762792803292854,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "package-07",
+    "cat": "package",
+    "name": "Hidden Package #7",
+    "lat": -73.25890189895458,
+    "lng": -6.536365982062335,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "package-08",
+    "cat": "package",
+    "name": "Hidden Package #8",
+    "lat": -77.25731542936398,
+    "lng": -17.09944914538488,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "package-09",
+    "cat": "package",
+    "name": "Hidden Package #9",
+    "lat": -52.21486062547085,
+    "lng": -88.82211947949207,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "package-10",
+    "cat": "package",
+    "name": "Hidden Package #10",
+    "lat": 30.620261750211775,
+    "lng": -97.99007845143242,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "package-11",
+    "cat": "package",
+    "name": "Hidden Package #11",
+    "lat": 43.93184644650831,
+    "lng": -99.66422748109109,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "package-12",
+    "cat": "package",
+    "name": "Hidden Package #12",
+    "lat": 63.178414234373655,
+    "lng": -43.96555500228831,
+    "notes": "",
+    "counts_for": [
+      "100%"
+    ]
+  },
+  {
+    "id": "package-13",
+    "cat": "package",
+    "name": "Hidden Package #13",
+    "lat": 63.0395111793205,
+    "lng": -42.092102516717915,
+    "notes": "",
+    "counts_for": [
+      "100%"
     ]
   },
   {
     "id": "spaceship-01",
     "cat": "spaceship",
-    "name": "Spaceship Part #1 - Mount Chiliad",
-    "lat": 76.92471459446095,
-    "lng": -2.6524865100018644,
-    "notes": "You will come to a farm area with two large barns. One of the barns has a “Zancudo Grain Growers” logo painted on the side of it, and in the back of this barn on the floor is the Spaceship Part.",
+    "name": "Spaceship Part #1",
+    "lat": -76.60219621526586,
+    "lng": -4.516757628823285,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -374,10 +1582,10 @@
   {
     "id": "spaceship-02",
     "cat": "spaceship",
-    "name": "Spaceship Part #2 - Mount Chiliad",
-    "lat": 70.17131241315523,
-    "lng": 45.233357240553545,
-    "notes": "This is located in another farm area. The Spaceship Part is located inside the large shed with a red crate outside the entrance.",
+    "name": "Spaceship Part #2",
+    "lat": -80.4624306913286,
+    "lng": -45.90544197316265,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -386,10 +1594,10 @@
   {
     "id": "spaceship-03",
     "cat": "spaceship",
-    "name": "Spaceship Part #3 - Grapeseed",
-    "lat": 61.55991249386693,
-    "lng": 51.279549633300434,
-    "notes": "There will be a field filled with metal pens in which cows are grazing. In the middle of this area lying on the floor is the Spaceship Part.",
+    "name": "Spaceship Part #3",
+    "lat": -79.22552030737457,
+    "lng": 3.3623723282210847,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -398,10 +1606,10 @@
   {
     "id": "spaceship-04",
     "cat": "spaceship",
-    "name": "Spaceship Part #4 - San Chianski Mountain Range",
-    "lat": 57.389628995310694,
-    "lng": 88.2822470769114,
-    "notes": "At the top of the mountain trail there will be a circular road. By the side of it is a wrecked red boat next to a barn. Inside this barn is the Part.",
+    "name": "Spaceship Part #4",
+    "lat": -76.8960023487921,
+    "lng": 28.75363261137761,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -410,10 +1618,10 @@
   {
     "id": "spaceship-05",
     "cat": "spaceship",
-    "name": "Spaceship Part #5 - San Chianski Mountain Range",
-    "lat": 46.586524206656286,
-    "lng": 52.97248350326956,
-    "notes": "You will come across a small hill decorated in colourful graffiti by alien cultists. On the top of this hill on a small ledge is a Spaceship Part.",
+    "name": "Spaceship Part #5",
+    "lat": -75.59534386109634,
+    "lng": 16.62269559488263,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -422,10 +1630,10 @@
   {
     "id": "spaceship-06",
     "cat": "spaceship",
-    "name": "Spaceship Part #6 - Sandy Shores",
-    "lat": 47.61540208009573,
-    "lng": 25.91577254572738,
-    "notes": "This Part is located underwater in the small bay on the north of Sandy Shores. Dive down underwater and you will see the Part glowing brightly against the seafloor, so it’s hard to miss.",
+    "name": "Spaceship Part #6",
+    "lat": -71.970829432919,
+    "lng": -3.6796831139939457,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -434,10 +1642,10 @@
   {
     "id": "spaceship-07",
     "cat": "spaceship",
-    "name": "Spaceship Part #7 - Grand Senora Desert",
-    "lat": 39.85616936345851,
-    "lng": 37.64538578765621,
-    "notes": "Next to the off-road trail is a rock formation. Up the small hill underneath the face of the rock is this Part.",
+    "name": "Spaceship Part #7",
+    "lat": -67.3698366274197,
+    "lng": 32.77956242079489,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -446,10 +1654,10 @@
   {
     "id": "spaceship-08",
     "cat": "spaceship",
-    "name": "Spaceship Part #8 - Grand Senora Desert",
-    "lat": 27.686689733688272,
-    "lng": 38.70346945638693,
-    "notes": "By the side of the road will be 5 huge satellite dishes. If you’re looking at them from the main road, the right-hand most dish will have the Part. Climb up the stairs on the dish to get it.",
+    "name": "Spaceship Part #8",
+    "lat": -65.50804673146746,
+    "lng": -5.872021129023182,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -458,10 +1666,10 @@
   {
     "id": "spaceship-09",
     "cat": "spaceship",
-    "name": "Spaceship Part #9 - Grand Senora Desert",
-    "lat": 26.61070285652306,
-    "lng": 9.439898275491942,
-    "notes": "You should see a large boat with the initials “LS 4145 RS” on the side of it amongst a few rusty trailers. The Part is located next to the boat.",
+    "name": "Spaceship Part #9",
+    "lat": -62.81603210057883,
+    "lng": -13.046945541846043,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -470,10 +1678,10 @@
   {
     "id": "spaceship-10",
     "cat": "spaceship",
-    "name": "Spaceship Part #10 - Grand Senora Desert",
-    "lat": 10.869181255971457,
-    "lng": -8.698678902748753,
-    "notes": "By the side of the road you will see a derelict house with boarded up windows. Behind the house where the back porch was is the Spaceship Part.",
+    "name": "Spaceship Part #10",
+    "lat": -62.23079046826425,
+    "lng": -37.44168854544381,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -482,10 +1690,10 @@
   {
     "id": "spaceship-11",
     "cat": "spaceship",
-    "name": "Spaceship Part #11 - Grand Senora Desert",
-    "lat": 0.2936660309100231,
-    "lng": 8.230659796942575,
-    "notes": "This Part is located down in the small rocky valley beside the road. It will be amongst some rocks.",
+    "name": "Spaceship Part #11",
+    "lat": -61.43030243303571,
+    "lng": 19.226927418796123,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -494,10 +1702,10 @@
   {
     "id": "spaceship-12",
     "cat": "spaceship",
-    "name": "Spaceship Part #12 - Grand Senora Desert",
-    "lat": 9.798536568968343,
-    "lng": 24.19260771379433,
-    "notes": "On the top of the hill is a small house with a green roof and a US flag outside the front. Behind the house is a white banner strung between two posts with “Welcome” written on it. The Part is located under this banner.",
+    "name": "Spaceship Part #12",
+    "lat": -26.244856496190472,
+    "lng": -11.346222718065803,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -506,10 +1714,10 @@
   {
     "id": "spaceship-13",
     "cat": "spaceship",
-    "name": "Spaceship Part #13 - Ron Alternates Wind Farm",
-    "lat": 8.963397773263685,
-    "lng": 69.17627911583125,
-    "notes": "This Part is located inside a cavern, so you will need to either swim or use a boat/jetski to get inside. Once inside, dive down underwater and you will easily see the Part glowing.",
+    "name": "Spaceship Part #13",
+    "lat": -11.774760932808022,
+    "lng": -64.1882123288002,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -518,10 +1726,10 @@
   {
     "id": "spaceship-14",
     "cat": "spaceship",
-    "name": "Spaceship Part #14 - Tatavium Mountains",
-    "lat": -26.734204140586254,
-    "lng": 63.85562981021397,
-    "notes": "To the right of the large cavern entrance, there is a tiny beach. On this beach is the Spaceship Part.",
+    "name": "Spaceship Part #14",
+    "lat": -56.320072057491366,
+    "lng": -1.0223037018373304,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -530,10 +1738,10 @@
   {
     "id": "spaceship-15",
     "cat": "spaceship",
-    "name": "Spaceship Part #15 - Tatavium Mountains",
-    "lat": -32.409668378936594,
-    "lng": 38.94531715209678,
-    "notes": "You will see five pipes running down into the water. In the left-hand pipe is the Spaceship Part.",
+    "name": "Spaceship Part #15",
+    "lat": -53.85261783716955,
+    "lng": -8.14408052641707,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -542,10 +1750,10 @@
   {
     "id": "spaceship-16",
     "cat": "spaceship",
-    "name": "Spaceship Part #16 - Davis",
-    "lat": -43.084609848384396,
-    "lng": 31.206190889380736,
-    "notes": "Down by the rocks is a small wooden jetty with two red safety rings housed on it. Dive underneath this jetty and the Spaceship Part will be on the seafloor.",
+    "name": "Spaceship Part #16",
+    "lat": -53.76589027121835,
+    "lng": -9.286753673644426,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -554,10 +1762,10 @@
   {
     "id": "spaceship-17",
     "cat": "spaceship",
-    "name": "Spaceship Part #17 - Murreta Heights",
-    "lat": -61.51051612117397,
-    "lng": 19.23472995174191,
-    "notes": "By the side of the freeway is an area where water comes out and flows down under the freeway. You should see a brown metal walkway with three concrete pillars jutting out from underneath it. On the middle of these pillars is the Spaceship Part.",
+    "name": "Spaceship Part #17",
+    "lat": -53.1537613816173,
+    "lng": -44.93549848772548,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -566,10 +1774,10 @@
   {
     "id": "spaceship-18",
     "cat": "spaceship",
-    "name": "Spaceship Part #18 - El Burro Heights",
-    "lat": -67.47261857025462,
-    "lng": 32.778200911494935,
-    "notes": "In the construction area you will find two freight containers side by side. The green one has an opening and inside it is the Spaceship Part.",
+    "name": "Spaceship Part #18",
+    "lat": -48.26388027273402,
+    "lng": -19.570811998690544,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -578,10 +1786,10 @@
   {
     "id": "spaceship-19",
     "cat": "spaceship",
-    "name": "Spaceship Part #19 - Pacific Ocean",
-    "lat": -76.8738143322263,
-    "lng": 28.787713932282003,
-    "notes": "This one is located on a small island out to sea. Just swim the small distance to the island and then climb onto the rocks. The Part will be amongst the rocks.",
+    "name": "Spaceship Part #19",
+    "lat": -46.748712806255064,
+    "lng": -24.354094940572452,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -590,10 +1798,10 @@
   {
     "id": "spaceship-20",
     "cat": "spaceship",
-    "name": "Spaceship Part #20 - El Burro Heights",
-    "lat": -75.57920777672827,
-    "lng": 16.57440529893327,
-    "notes": "In front of the freeway-supporting wall with the “VAGOS” graffiti on it is a sewer pipe that pumps water out to sea. Right next to the pipe opening is the Spaceship Part.",
+    "name": "Spaceship Part #20",
+    "lat": -45.133234422799575,
+    "lng": -44.74948192887453,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -602,10 +1810,10 @@
   {
     "id": "spaceship-21",
     "cat": "spaceship",
-    "name": "Spaceship Part #21 - Elysian Island",
-    "lat": -79.22044058371897,
-    "lng": 3.151858187035174,
-    "notes": "Underwater here will be the ruins of a metal structure. In amongst it is this Spaceship Part.",
+    "name": "Spaceship Part #21",
+    "lat": -43.08181031958942,
+    "lng": 31.251569258804835,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -614,10 +1822,10 @@
   {
     "id": "spaceship-22",
     "cat": "spaceship",
-    "name": "Spaceship Part #22 - Elysian Island",
-    "lat": -76.59636007842315,
-    "lng": -4.587268075680839,
-    "notes": "In between the two huge domes is a set of stairs. Take the first flight up and at the fork take the left staircase. Keep following the stairs and you’ll eventually come to a building with a ladder on top of the dome. Climb the ladder and drop down onto the pipe. Run along the pipe, and halfway between the two domes on the pipe will be the Spaceship Part.",
+    "name": "Spaceship Part #22",
+    "lat": -32.25187577717106,
+    "lng": 38.71880540696495,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -626,10 +1834,10 @@
   {
     "id": "spaceship-23",
     "cat": "spaceship",
-    "name": "Spaceship Part #23 - Rancho / Dutch London St",
-    "lat": -71.97960786705913,
-    "lng": -4.10357268426111,
-    "notes": "In a fenced area you will see four decorated alien-like sculptures that look like futuristic towers. Go inside the entrance and the ledge around the bottom of the right-hand tower will have the Spaceship Part on it.",
+    "name": "Spaceship Part #23",
+    "lat": -30.358204797865852,
+    "lng": -12.900789674177418,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -638,10 +1846,10 @@
   {
     "id": "spaceship-24",
     "cat": "spaceship",
-    "name": "Spaceship Part #24 - Los Santos International Airport",
-    "lat": -80.45629750613159,
-    "lng": -46.18507173777948,
-    "notes": "Right in the southern-most section of the airport, just inside the fence. This Part is located next to a dumpster and a stack of red, white, green and blue crates.",
+    "name": "Spaceship Part #24",
+    "lat": -26.675190851529994,
+    "lng": 63.57858980769009,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -650,10 +1858,10 @@
   {
     "id": "spaceship-25",
     "cat": "spaceship",
-    "name": "Spaceship Part #25 - Davis / Innocence Blvd",
-    "lat": -65.49554152650862,
-    "lng": -6.159278097795067,
-    "notes": "This Part is located on the roof of Central Los Santos Medical Centre. Climb up the stairs to the top of the first roof, then up the ladder to get onto the highest roof. The Spaceship Part will be next to the helicopter on the right-hand side.",
+    "name": "Spaceship Part #25",
+    "lat": -24.8716686613565,
+    "lng": -54.16989194496976,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -662,10 +1870,10 @@
   {
     "id": "spaceship-26",
     "cat": "spaceship",
-    "name": "Spaceship Part #26 - Strawberry / Elgin Ave",
-    "lat": -62.75384173511742,
-    "lng": -12.689165881961713,
-    "notes": "Underneath the freeway is a campsite where the homeless are dwelling. The Spaceship Part will be in front of a couch with a red and pink sleeping bag on it.",
+    "name": "Spaceship Part #26",
+    "lat": -19.180926437817526,
+    "lng": -24.261086661146976,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -674,10 +1882,10 @@
   {
     "id": "spaceship-27",
     "cat": "spaceship",
-    "name": "Spaceship Part #27 - Textile City",
-    "lat": -56.34159951187534,
-    "lng": -1.2014003357425906,
-    "notes": "In this alleyway there will be numerous shops and market stalls. Find the “Bean Machine” coffee shop, and just to the right of it will be a small alcove where this Part can be found.",
+    "name": "Spaceship Part #27",
+    "lat": -10.188747681210604,
+    "lng": -88.17106152351371,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -686,10 +1894,10 @@
   {
     "id": "spaceship-28",
     "cat": "spaceship",
-    "name": "Spaceship Part #28 - Pillbox Hill",
-    "lat": -53.922962788839115,
-    "lng": -7.852211967764191,
-    "notes": "[Helicopter Required] You will need to fly up to the top of the “Penris” building for this one. Land on the roof and grab the clearly-visible Spaceship Part.",
+    "name": "Spaceship Part #28",
+    "lat": 9.343623049227752,
+    "lng": 70.02273488216994,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -698,10 +1906,10 @@
   {
     "id": "spaceship-29",
     "cat": "spaceship",
-    "name": "Spaceship Part #29 - Pillbox Hill",
-    "lat": -53.63715512087148,
-    "lng": -9.545145837733315,
-    "notes": "This Part is located in a tunnel, the entrance of which can be found in Textile City. Drive into the tunnel and take a right at the fork. Keep driving along the train tracks until you are met with two enclosed tunnels. Take the left tunnel and drive through it until you are met with another choice of two tunnels. Take the right one this time and drive through it a short way until you come out into a room. Go up the ramp to the right to find some constructions workers stood around. The Spaceship Part is located behind the red barrier next to a table with a blueprint on it.",
+    "name": "Spaceship Part #29",
+    "lat": 0.4791849224477105,
+    "lng": 8.172229064224581,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -710,10 +1918,10 @@
   {
     "id": "spaceship-30",
     "cat": "spaceship",
-    "name": "Spaceship Part #30 - Vespucci Canals",
-    "lat": -62.251371377859,
-    "lng": -37.96225008364371,
-    "notes": "Next to the road you will see a huge “Destroy The Ring” billboard. Climb up the ladder that goes up the billboard’s supporting pole. Go up the short ramp and then climb the second ladder. The Spaceship Part will be on the platform at the top of the billboard.",
+    "name": "Spaceship Part #30",
+    "lat": 2.8814269790125144,
+    "lng": -65.17144271129816,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -722,10 +1930,10 @@
   {
     "id": "spaceship-31",
     "cat": "spaceship",
-    "name": "Spaceship Part #31 - Little Seoul / Del Perro Fwy",
-    "lat": -53.132296887846856,
-    "lng": -45.217680954939965,
-    "notes": "This is located inside the Vinewood studios. You will have to drive or run through the barrier at the entrance. Take the first left and then right in front of you will be an open doorway and some stairs. Go up the stairs, take a right and then a right again up another set of stairs. Climb over the wall in front of you and the Spaceship Part will be on the balcony here.",
+    "name": "Spaceship Part #31",
+    "lat": 7.878243006631526,
+    "lng": -51.698529091664085,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -734,10 +1942,10 @@
   {
     "id": "spaceship-32",
     "cat": "spaceship",
-    "name": "Spaceship Part #32 - Burton",
-    "lat": -48.3151906956596,
-    "lng": -19.581825209693164,
-    "notes": "The Spaceship Part will be right in the middle of the small grassy area in the middle of the circular road.",
+    "name": "Spaceship Part #32",
+    "lat": 9.251383395093088,
+    "lng": 22.840963419329114,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -746,10 +1954,10 @@
   {
     "id": "spaceship-33",
     "cat": "spaceship",
-    "name": "Spaceship Part #33 - Burton",
-    "lat": -46.68142591127211,
-    "lng": -24.539702971745612,
-    "notes": "[Helicopter Required] This Part is located in the empty swimming pool on the roof of the hotel. Fly up there and jump down into the pool to grab it.",
+    "name": "Spaceship Part #33",
+    "lat": 10.277776427112054,
+    "lng": -8.941294350064055,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -758,10 +1966,10 @@
   {
     "id": "spaceship-34",
     "cat": "spaceship",
-    "name": "Spaceship Part #34 - Rockford Hills",
-    "lat": -45.0821675597577,
-    "lng": -45.09675710708507,
-    "notes": "This Part is located on a tiny island in the south-western lake of the golf course. Jump into the water and swim to the island for it.",
+    "name": "Spaceship Part #34",
+    "lat": 26.67251038124998,
+    "lng": 10.112116035098921,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -770,10 +1978,10 @@
   {
     "id": "spaceship-35",
     "cat": "spaceship",
-    "name": "Spaceship Part #35 - Vinewood Hills",
-    "lat": -30.136136351139935,
-    "lng": -13.051937425526518,
-    "notes": "By the side of the lake is a small stone building. If you dive into the lake just to the right of the building, you should see the Spaceship Part behind you on the seafloor next to the side of the stone wall.",
+    "name": "Spaceship Part #35",
+    "lat": 27.930175144320103,
+    "lng": 38.6656578187218,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -782,10 +1990,10 @@
   {
     "id": "spaceship-36",
     "cat": "spaceship",
-    "name": "Spaceship Part #36 - Vinewood Hills",
-    "lat": -26.192941207445074,
-    "lng": -10.875308164137635,
-    "notes": "[Helicopter Required] You will see a concrete jetty sticking out from the side of the road with a circular building at the end of it. Unfortunately, the building is too high to climb up so you will need to delicately land a helicopter on top of it to grab the Spaceship Part.",
+    "name": "Spaceship Part #36",
+    "lat": 28.869799885196226,
+    "lng": -23.889053543445073,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -794,10 +2002,10 @@
   {
     "id": "spaceship-37",
     "cat": "spaceship",
-    "name": "Spaceship Part #37 - Vinewood Hills",
-    "lat": -19.28402526908665,
-    "lng": -25.02339836316537,
-    "notes": "[Helicopter Required] This is another one which requires a helicopter. You will need to land your helicopter on the roof of the Galileo Observatory, and the Spaceship Part will be located next to the dome on the left-hand side of the roof.",
+    "name": "Spaceship Part #37",
+    "lat": 35.98448175398505,
+    "lng": -11.611960659281465,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -806,10 +2014,10 @@
   {
     "id": "spaceship-38",
     "cat": "spaceship",
-    "name": "Spaceship Part #38 - Richman Glen",
-    "lat": -24.88367163076515,
-    "lng": -54.28696954406033,
-    "notes": "In front of the house is a large tree next to a small circular fountain. The Spaceship Part is at the base of the tree.",
+    "name": "Spaceship Part #38",
+    "lat": 40.02283965871093,
+    "lng": 37.615992950919946,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -818,10 +2026,10 @@
   {
     "id": "spaceship-39",
     "cat": "spaceship",
-    "name": "Spaceship Part #39 - Tongva Hills",
-    "lat": -12.543762290257579,
-    "lng": -64.80734430743992,
-    "notes": "On your map you should see a stream going off from the side of the road. Follow this stream about halfway and you should see an opening in the rock face in front of you. Just inside the entrance is this Spaceship Part.",
+    "name": "Spaceship Part #39",
+    "lat": 42.190248047443816,
+    "lng": -29.042509437440373,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -830,10 +2038,10 @@
   {
     "id": "spaceship-40",
     "cat": "spaceship",
-    "name": "Spaceship Part #40 - Banham Canyon",
-    "lat": -10.648565794879824,
-    "lng": -88.02472309558799,
-    "notes": "Behind the house at the end of the short road is a swimming pool. Right next to this is small white concrete square on the ground that has a telescope erected on it at night. On the ground next to the telescope is this Part.",
+    "name": "Spaceship Part #40",
+    "lat": 46.213374495092,
+    "lng": 53.374252865008714,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -842,10 +2050,10 @@
   {
     "id": "spaceship-41",
     "cat": "spaceship",
-    "name": "Spaceship Part #41 - Tongva Hills",
-    "lat": 3.0734408221371408,
-    "lng": -65.53288739456954,
-    "notes": "On the side of a hill is a farm area with lots of hedges. The Spaceship Part is located halfway up the hill in between the rows of hedges. You won’t be able climb over them so you’ll have to find a gap in the side and run along the row.\t",
+    "name": "Spaceship Part #41",
+    "lat": 47.464622966164534,
+    "lng": 25.97667112567393,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -854,10 +2062,10 @@
   {
     "id": "spaceship-42",
     "cat": "spaceship",
-    "name": "Spaceship Part #42 - Tongva Hills",
-    "lat": 7.64721581208883,
-    "lng": -51.98941643481652,
-    "notes": "Underneath the bridge you will see a waterfall. Do not dive in off the bridge as you will die. Work your way down and in the small pool at the bottom of the waterfall, dive down and find the Spaceship Part underwater.",
+    "name": "Spaceship Part #42",
+    "lat": 56.949944399722256,
+    "lng": -27.56952402928198,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -866,10 +2074,10 @@
   {
     "id": "spaceship-43",
     "cat": "spaceship",
-    "name": "Spaceship Part #43 - Zancudo River",
-    "lat": 28.96399203669329,
-    "lng": -24.902474515310416,
-    "notes": "Underneath the wooden bridge over the river, this one is located between the central support pillar and the small support at the end of the bridge.",
+    "name": "Spaceship Part #43",
+    "lat": 56.97178423553096,
+    "lng": 88.01319350247024,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -878,10 +2086,10 @@
   {
     "id": "spaceship-44",
     "cat": "spaceship",
-    "name": "Spaceship Part #44 - Zancudo River",
-    "lat": 36.190079871978234,
-    "lng": -11.117155859847486,
-    "notes": "This one is located in a small alcove in the rocks on the river bank. The alcove will be on the left if you are looking at the bridge ahead of you in the distance.",
+    "name": "Spaceship Part #44",
+    "lat": 59.00260088652931,
+    "lng": -65.14486891717661,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -890,10 +2098,10 @@
   {
     "id": "spaceship-45",
     "cat": "spaceship",
-    "name": "Spaceship Part #45 - Mount Josiah",
-    "lat": 43.424303686882844,
-    "lng": -30.102199973072743,
-    "notes": "[Helicopter Required] This Part is quite tricky and requires a helicopter. Fly up to the side of Mount Josiah where you can see levels of rock, almost like giant steps. You should see the Part glowing on one of the ledges, so land your helicopter on the one above it and jump down.",
+    "name": "Spaceship Part #45",
+    "lat": 61.58175181500564,
+    "lng": 51.24834933528339,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -902,10 +2110,10 @@
   {
     "id": "spaceship-46",
     "cat": "spaceship",
-    "name": "Spaceship Part #46 - Pacific Ocean",
-    "lat": 59.844334999312764,
-    "lng": -63.719029676745464,
-    "notes": "[Helicopter Required] This is by far the most difficult Spaceship Part to get. It will require extremely precise control with a helicopter, or pinpoint landing with a parachute. If you are using a helicopter like in the video, you will need to land perfectly in between the concrete support beam and the underside of the bridge. The Spaceship Part will be on a ledge.\t",
+    "name": "Spaceship Part #46",
+    "lat": 68.66779210515128,
+    "lng": -51.81811116521115,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -914,10 +2122,10 @@
   {
     "id": "spaceship-47",
     "cat": "spaceship",
-    "name": "Spaceship Part #47 - Cassoy Creek",
-    "lat": 56.93060284990018,
-    "lng": -27.68372301597398,
-    "notes": "Directly underneath the bridge is a small outcropping of rock right next to a waterfall. The Spaceship Part is on this outcropping.",
+    "name": "Spaceship Part #47",
+    "lat": 70.3854860342692,
+    "lng": 44.84406495198593,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -926,10 +2134,10 @@
   {
     "id": "spaceship-48",
     "cat": "spaceship",
-    "name": "Spaceship Part #48 - Paleto Cove",
-    "lat": 68.72868669261885,
-    "lng": -51.98941643481652,
-    "notes": "This Part is easy to find, it’s in plain sight at the top of the small hill that extends out from the beach.",
+    "name": "Spaceship Part #48",
+    "lat": 70.9686502763681,
+    "lng": -26.905179176242825,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -938,10 +2146,10 @@
   {
     "id": "spaceship-49",
     "cat": "spaceship",
-    "name": "Spaceship Part #49 - Paleto Forest",
-    "lat": 71.05425900361878,
-    "lng": -26.59540838527954,
-    "notes": "You will see the entrance to a small concrete tunnel, with a fallen tree trunk across the entrance. Just inside the tunnel is this Part.",
+    "name": "Spaceship Part #49",
+    "lat": 74.32005233568353,
+    "lng": -23.64988939635097,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -950,10 +2158,10 @@
   {
     "id": "spaceship-50",
     "cat": "spaceship",
-    "name": "Spaceship Part #50 - Paleto Forest",
-    "lat": 74.35206839716903,
-    "lng": -24.41877912389066,
-    "notes": "On this block you should see an ugly grey tower with a metal staircase around it. Climb up two flights of stairs, and jump inside the window. The Spaceship Part is on the floor inside this room.",
+    "name": "Spaceship Part #50",
+    "lat": 76.79504215384931,
+    "lng": -1.7929437313627545,
+    "notes": "",
     "counts_for": [
       "100%",
       "ach:from-beyond-the-stars"
@@ -1560,1428 +2768,693 @@
     ]
   },
   {
-    "id": "letter-01",
-    "cat": "letter",
-    "name": "Letter Scrap #1 - Paleto Bay",
-    "lat": 77.89932765179618,
-    "lng": -12.689165881961713,
-    "notes": "By the side of the road is one wooden house which is abandoned and boarded up. Go around the back and through the door, and in this room is the Letter.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-02",
-    "cat": "letter",
-    "name": "Letter Scrap #2 - Paleto Bay",
-    "lat": 77.48697268598468,
-    "lng": 25.159998496633847,
-    "notes": "By the side of the circular road is a small wooden building which seems to be a public toilet. On the left hand side, up a couple of steps and in front of the “Male” toilet sign, is this Letter.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-03",
-    "cat": "letter",
-    "name": "Letter Scrap #3 - Mount Chiliad",
-    "lat": 76.16522038704032,
-    "lng": 25.643693888053633,
-    "notes": "In the campsite, which seems to be the home of an anti-capitalism protest, there will be a white tent with a “Social Justice For All” banner hanging outside of it along with some multi-coloured crates. In the entrance of this tent is the Letter.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-04",
-    "cat": "letter",
-    "name": "Letter Scrap #4 - Mount Chiliad",
-    "lat": 65.08392707236034,
-    "lng": 37.1314594342727,
-    "notes": "You will come across a farming area where crops are growing inside white canvas “tunnels”. Looking down the hill, the second tunnel on the left will contain the Letter, about halfway down.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-05",
-    "cat": "letter",
-    "name": "Letter Scrap #5 - El Gordo Lighthouse",
-    "lat": 66.18135814670335,
-    "lng": 78.24556770495155,
-    "notes": "Just off the shore is a lighthouse. Swim over across to it, and on the left-hand side of the circular base is a small ledge and some stairs. Climb up these and the Letter will be on the floor in front of you behind the lighthouse.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-06",
-    "cat": "letter",
-    "name": "Letter Scrap #6 - Galilee",
-    "lat": 55.38189916140676,
-    "lng": 21.895054604550552,
-    "notes": "There will be a few houses overlooking a jetty and a lake. In front of the one with the red door and a metal boat frame outside will be this Letter.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-07",
-    "cat": "letter",
-    "name": "Letter Scrap #7 - Sandy Shores",
-    "lat": 42.45052622803571,
-    "lng": 28.787713932282003,
-    "notes": "In front of the derelict motel will be an abandoned area that used to be used for sporting activities. In the small dug-out section that used to be a swimming pool will be this Letter.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-08",
-    "cat": "letter",
-    "name": "Letter Scrap #8 - Grand Senora Desert",
-    "lat": 30.33015503561722,
-    "lng": 22.136902300260402,
-    "notes": "On the top of the three-tiered rock next to the runway is this Letter. You don’t actually need a helicopter to get up there, you can just climb up the rock with ",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-09",
-    "cat": "letter",
-    "name": "Letter Scrap #9 - Grand Senora Desert",
-    "lat": 16.15800585612843,
-    "lng": 11.374679841170973,
-    "notes": "On the construction site is the shell of a circular gas structure. In the very centre on some grating with construction poles sticking out of it is this Letter.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-10",
-    "cat": "letter",
-    "name": "Letter Scrap #10 - Ron Alternates Wind Farm",
-    "lat": 8.84393108422309,
-    "lng": 69.17627911583125,
-    "notes": "You will have to either drive a boat or swim inside the cavern. In the back left is a small sandy section, on which this Letter lies.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-11",
-    "cat": "letter",
-    "name": "Letter Scrap #11 - Pacific Ocean",
-    "lat": -4.659067413950724,
-    "lng": 68.69258372441149,
-    "notes": "This is located on the first island south of No.10. Swim or drive to the island and the Letter will be amongst the rocks on the northern section of the island.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-12",
-    "cat": "letter",
-    "name": "Letter Scrap #12 - Vinewood Hills",
-    "lat": -16.52270981231749,
-    "lng": 4.844792057004298,
-    "notes": "On top of the “I” on the “VINEWOOD” sign. Climb up the ladder on the side of it to get up there.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-13",
-    "cat": "letter",
-    "name": "Letter Scrap #13 - Vinewood Racetrack",
-    "lat": -40.745454823651215,
-    "lng": 14.276852189689464,
-    "notes": "This one is in the stand facing the racetrack. Go up the stairs in front of the “Information” entrance, and the Letter will be on the fifth row of seats up.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-14",
-    "cat": "letter",
-    "name": "Letter Scrap #14 - East Vinewood",
-    "lat": -48.07336530419267,
-    "lng": 15.486090668238859,
-    "notes": "Underneath the bridge, this Letter is on the middle of the three platforms jutting out over the river.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-15",
-    "cat": "letter",
-    "name": "Letter Scrap #15 - Hawick",
-    "lat": -47.911514081325194,
-    "lng": -6.522049641359871,
-    "notes": "This one is inside the skate park, on the floor in the middle of the ramp.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-16",
-    "cat": "letter",
-    "name": "Letter Scrap #16 - Alta",
-    "lat": -51.506384583371386,
-    "lng": -10.754384316282682,
-    "notes": "This Letter is in a hole on the construction site. You should easily be able to spot it by the number of red bollards around the hole.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-17",
-    "cat": "letter",
-    "name": "Letter Scrap #17 - Pillbox Hill",
-    "lat": -60.514375244037645,
-    "lng": -17.163348252594403,
-    "notes": "This is on top of the huge yellow crane in Los Santos. You can access the ladder underground in the construction site, then you’ll have to climb up all the way to the top which will take several minutes. At the very top is the Letter.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-18",
-    "cat": "letter",
-    "name": "Letter Scrap #18 - La Mesa",
-    "lat": -60.810607981780855,
-    "lng": 2.7890866434703696,
-    "notes": "Either side of the bridge is an archway. Underneath the arch on the south side of the bridge is this letter.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-19",
-    "cat": "letter",
-    "name": "Letter Scrap #19 - Pacific Ocean",
-    "lat": -64.05291290762851,
-    "lng": 63.13008672308433,
-    "notes": "On the east side of the island is a beach. At the far end of it is this Letter.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-20",
-    "cat": "letter",
-    "name": "Letter Scrap #20 - El Burro Heights",
-    "lat": -72.12864248814017,
-    "lng": 26.490160823038167,
-    "notes": "Inside the middle building in this area is a rusty sheltered area with a green roof and a skip next to it. In this small area is the Letter.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-21",
-    "cat": "letter",
-    "name": "Letter Scrap #21 - El Burro Heights",
-    "lat": -73.34814197586354,
-    "lng": 6.658649774828348,
-    "notes": "This Letter is located on a platform by the side of the train tunnel. To get in there, you will have to drive through the entrance to the tunnel which is further south.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-22",
-    "cat": "letter",
-    "name": "Letter Scrap #22 - Terminal / Buccaneer Way",
-    "lat": -78.22801224727748,
-    "lng": 13.914080646124631,
-    "notes": "This one involves climbing quite a few containers in the shipment area. First climb up the yellow “Post Op” container, and then the grey “Jetsam” one. Jump over the small gap to the next container, then climb up the one either side to jump across to the blue on which the Letter sits on top of.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-23",
-    "cat": "letter",
-    "name": "Letter Scrap #23 - Elysian Island",
-    "lat": -76.51200664160426,
-    "lng": -15.954109774045008,
-    "notes": "This is located on the western-most boat on dry land in this area. Cross the small yellow bridge to get on the boat, then take the steps up to the captain’s bridge and the Letter is just behind the enclosed section.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-24",
-    "cat": "letter",
-    "name": "Letter Scrap #24 - Davis / Grove St",
-    "lat": -71.02058138243513,
-    "lng": -12.084546642687002,
-    "notes": "This is located behind one of the houses in Grove Street, on the doorstep of the back door. The particular house in question should be familiar to anyone who played San Andreas.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-25",
-    "cat": "letter",
-    "name": "Letter Scrap #25 - Davis / Davis Ave",
-    "lat": -68.60299661407369,
-    "lng": -13.656556664801201,
-    "notes": "This is located in a green container filled with rubbish outside the blue “Mega Mall” building.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-26",
-    "cat": "letter",
-    "name": "Letter Scrap #26 - Los Santos International Airport",
-    "lat": -75.05826046970842,
-    "lng": -38.20409777935359,
-    "notes": "[Helicopter Required] You will need a helicopter to fly onto the circular structure inside the airport. In front of a door in the circular blue column is the Letter.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-27",
-    "cat": "letter",
-    "name": "Letter Scrap #27 - Los Santos International Airport",
-    "lat": -76.65230777084628,
-    "lng": -41.831813215001716,
-    "notes": "To the right of the steps leading down into the airport with the red “LSIA” sign above them. This Letter will be on the floor in front of 4 blue seats built into the wall.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-28",
-    "cat": "letter",
-    "name": "Letter Scrap #28 - San Andreas",
-    "lat": -65.04022904159717,
-    "lng": -50.17555871699244,
-    "notes": "On the beach there is a concrete skate park. This Letter is located in one of the holes in the park.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-29",
-    "cat": "letter",
-    "name": "Letter Scrap #29 - La Puerta",
-    "lat": -63.626414346689735,
-    "lng": -41.22719397572703,
-    "notes": "Underneath the bridge is a tunnel. Jump into the water and swim under the bridge. The Letter is on the platform in the centre of the tunnel.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-30",
-    "cat": "letter",
-    "name": "Letter Scrap #30 - La Puerta / Palomino Ave",
-    "lat": -63.24789819078289,
-    "lng": -62.63071504605104,
-    "notes": "At the end of the pier is a large blue/grey building. Climb up the stairs on the left-hand side of the grey section and cross the bridge to the right of the toilets. The Letter will be next to a couple of blue umbrellas on the floor.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-31",
-    "cat": "letter",
-    "name": "Letter Scrap #31 - Richards Majestic",
-    "lat": -53.05968501987474,
-    "lng": -45.09675710708507,
-    "notes": "Climb over the fence in front of the “Vinewood Zombie” sign and go up the stairs. Climb up onto the air condition unit and then over the railing to find this Letter between two more units.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-32",
-    "cat": "letter",
-    "name": "Letter Scrap #32 - Pacific Bluffs",
-    "lat": -47.504663826653704,
-    "lng": -59.72854269753253,
-    "notes": "This is located in front of the sarcophagus with two rose wreaths laid against it, on the small island in the middle of the pond.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-33",
-    "cat": "letter",
-    "name": "Letter Scrap #33 - Pacific Bluffs",
-    "lat": -41.835719320851524,
-    "lng": -95.52200166259414,
-    "notes": "This is really easy to spot, located on the bar next to the swimming pool. ",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-34",
-    "cat": "letter",
-    "name": "Letter Scrap #34 - Pacific Bluffs",
-    "lat": -39.450521837917165,
-    "lng": -73.87663289656027,
-    "notes": "This is located in the maze. From the entrance, follow the path to the first fork. Then take a right, then the first left, then left again twice to come across this Letter.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-35",
-    "cat": "letter",
-    "name": "Letter Scrap #35 - West Vinewood",
-    "lat": -42.55242175063179,
-    "lng": -22.242149862501805,
-    "notes": "In front of some doors is a semicircular cobblestoned area with a sort of table next to it. On the table is this Letter.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-36",
-    "cat": "letter",
-    "name": "Letter Scrap #36 - Pacific Bluffs",
-    "lat": -24.993320626602376,
-    "lng": -16.679652861174645,
-    "notes": "This one is inside the room next to the swimming pool, in front of a table tennis table.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-37",
-    "cat": "letter",
-    "name": "Letter Scrap #37 - Tongva Valley",
-    "lat": -11.83458093004583,
-    "lng": -54.407893391915266,
-    "notes": "By the side of the road is a tourist information board. The Letter is right in front of it.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-38",
-    "cat": "letter",
-    "name": "Letter Scrap #38 - Vinewood Hills",
-    "lat": -5.983467199455919,
-    "lng": -25.869865298149932,
-    "notes": "This is located just to the right of the orange “Big” juice stand next to a set of four tables and benches.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-39",
-    "cat": "letter",
-    "name": "Letter Scrap #39 - Great Chaparaal",
-    "lat": 8.00660715957258,
-    "lng": -30.223123820927697,
-    "notes": "By the side of the road is an old mine entrance. Just to the left of it is the Letter Scrap.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-40",
-    "cat": "letter",
-    "name": "Letter Scrap #40 - Grand Senora Desert",
-    "lat": 12.054281809476988,
-    "lng": -8.698678902748753,
-    "notes": "Between the huge barn and the abandoned house is an old wooden billboard. The Letter is behind it.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-41",
-    "cat": "letter",
-    "name": "Letter Scrap #41 - Grand Senora Desert",
-    "lat": 26.394269919140662,
-    "lng": -6.038354249940113,
-    "notes": "This is on top of the largest building in the quarry. To get up there, follow the series of ladders which begins on ground level next to the building on one of the support beams.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-42",
-    "cat": "letter",
-    "name": "Letter Scrap #42 - Great Chaparaal",
-    "lat": 26.502537346524708,
-    "lng": -21.395682927517214,
-    "notes": "In front of the church is a small graveyard. In the graveyard in front of three white crosses is the Letter.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-43",
-    "cat": "letter",
-    "name": "Letter Scrap #43 - Great Chaparaal",
-    "lat": 24.31822173279011,
-    "lng": -36.14839236581963,
-    "notes": "Underneath the bridge is a rocky path, and this Letter Scrap is right in the middle of it.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-44",
-    "cat": "letter",
-    "name": "Letter Scrap #44 - Zancudo River / Route 68",
-    "lat": 21.309160999760167,
-    "lng": -76.65788139722382,
-    "notes": "If the bridge is ahead of you in the distance, this Letter will be just in front of the stream amongst some reeds to the right.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-45",
-    "cat": "letter",
-    "name": "Letter Scrap #45 - Raton Canyon",
-    "lat": 54.47871286450765,
-    "lng": -56.46359880544921,
-    "notes": "[Helicopter Required] This Letter is on top of a small rock that can only be accessed by a helicopter. Once you’re up there, it’s very easy to spot.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-46",
-    "cat": "letter",
-    "name": "Letter Scrap #46 - Mount Chiliad",
-    "lat": 55.58745459852814,
-    "lng": -13.172861273381443,
-    "notes": "On the small hill sticking out into the sea, this one is located down next to the sea. ",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-47",
-    "cat": "letter",
-    "name": "Letter Scrap #47 - Chiliad Mountain State Wilderness",
-    "lat": 62.355745276504756,
-    "lng": -40.259803192887546,
-    "notes": "This is located in the Altruist’s camp. Once inside, climb up the stairs cut into the side of the hill and go up the trail to the hut. Climb up the two ladders and this will be on a ledge next to you.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-48",
-    "cat": "letter",
-    "name": "Letter Scrap #48 - Paleto Forest",
-    "lat": 69.29174990094734,
-    "lng": -29.013885342378302,
-    "notes": "By the side of the road is a rock and a few trees together. Between two of the tress is this Letter.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-49",
-    "cat": "letter",
-    "name": "Letter Scrap #49 - Mount Chiliad",
-    "lat": 70.21229017168807,
-    "lng": -1.4432480314524696,
-    "notes": "This Letter is located on the floor of the cable car station at the very summit of Mount Chiliad.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "letter-50",
-    "cat": "letter",
-    "name": "Letter Scrap #50 - Paleto Bay / Proccopio Dr",
-    "lat": 75.93198911209622,
-    "lng": -25.26524605887525,
-    "notes": "This Letter is on the roof of the house. Use the steps to get up there and it’ll be on the floor near a table with an umbrella over it.",
-    "counts_for": [
-      "100%",
-      "ach:a-mystery-solved"
-    ]
-  },
-  {
-    "id": "knife-01",
-    "cat": "knife",
-    "name": "Knife Flight #1",
-    "lat": -43.04043582260548,
-    "lng": -7.428978500271882,
+    "id": "submarine-01",
+    "cat": "submarine",
+    "name": "Submarine Part #1",
+    "lat": 77.93900723342912,
+    "lng": -37.68085269253791,
     "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "knife-02",
-    "cat": "knife",
-    "name": "Knife Flight #2",
-    "lat": -44.091821547570206,
-    "lng": -3.619877292841352,
+    "id": "submarine-02",
+    "cat": "submarine",
+    "name": "Submarine Part #2",
+    "lat": 78.17661430470804,
+    "lng": -39.71374794283773,
     "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "knife-03",
-    "cat": "knife",
-    "name": "Knife Flight #3",
-    "lat": -55.937350969270874,
-    "lng": -10.028841229153073,
+    "id": "submarine-03",
+    "cat": "submarine",
+    "name": "Submarine Part #3",
+    "lat": 78.38274808768294,
+    "lng": -41.069011443037596,
     "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "knife-04",
-    "cat": "knife",
-    "name": "Knife Flight #4",
-    "lat": -56.64200307428924,
-    "lng": -15.833185926190083,
+    "id": "submarine-04",
+    "cat": "submarine",
+    "name": "Submarine Part #4",
+    "lat": 76.96175957344572,
+    "lng": 72.5339584266579,
     "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "knife-05",
-    "cat": "knife",
-    "name": "Knife Flight #5",
-    "lat": -57.038850811620726,
-    "lng": -19.27951559005581,
+    "id": "submarine-05",
+    "cat": "submarine",
+    "name": "Submarine Part #5",
+    "lat": 76.55811526086026,
+    "lng": 73.42418052973039,
     "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "knife-06",
-    "cat": "knife",
-    "name": "Knife Flight #6",
-    "lat": -58.1086350809817,
-    "lng": -21.093373307879887,
+    "id": "submarine-06",
+    "cat": "submarine",
+    "name": "Submarine Part #6",
+    "lat": -48.83838799918863,
+    "lng": 70.38148110281108,
     "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "knife-07",
-    "cat": "knife",
-    "name": "Knife Flight #7",
-    "lat": -55.32297748400664,
-    "lng": -20.005058677185446,
+    "id": "submarine-07",
+    "cat": "submarine",
+    "name": "Submarine Part #7",
+    "lat": -49.42375489694551,
+    "lng": 70.74022732345219,
     "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "knife-08",
-    "cat": "knife",
-    "name": "Knife Flight #8",
-    "lat": -54.45361891622244,
-    "lng": -32.46021500624403,
+    "id": "submarine-08",
+    "cat": "submarine",
+    "name": "Submarine Part #8",
+    "lat": -50.8494449430447,
+    "lng": 71.47897880003174,
     "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "knife-09",
-    "cat": "knife",
-    "name": "Knife Flight #9",
-    "lat": -48.99417152166511,
-    "lng": -38.86917894255575,
+    "id": "submarine-09",
+    "cat": "submarine",
+    "name": "Submarine Part #9",
+    "lat": -51.34751697703035,
+    "lng": 71.73674460301095,
     "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "knife-10",
-    "cat": "knife",
-    "name": "Knife Flight #10",
-    "lat": -50.363361882572974,
-    "lng": -44.79444748744771,
+    "id": "submarine-10",
+    "cat": "submarine",
+    "name": "Submarine Part #10",
+    "lat": -77.54851227642327,
+    "lng": 35.01176112700645,
     "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "knife-11",
-    "cat": "knife",
-    "name": "Knife Flight #11",
-    "lat": -54.02963928470963,
-    "lng": -53.38004068514829,
+    "id": "submarine-11",
+    "cat": "submarine",
+    "name": "Submarine Part #11",
+    "lat": -77.81626088367484,
+    "lng": 33.56348934738108,
     "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "knife-12",
-    "cat": "knife",
-    "name": "Knife Flight #12",
-    "lat": -53.421520280872805,
-    "lng": -54.95205070726247,
+    "id": "submarine-12",
+    "cat": "submarine",
+    "name": "Submarine Part #12",
+    "lat": -77.98419115633745,
+    "lng": 33.576776244441874,
     "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "knife-13",
-    "cat": "knife",
-    "name": "Knife Flight #13",
-    "lat": -49.42864516476065,
-    "lng": -63.114410437470795,
+    "id": "submarine-13",
+    "cat": "submarine",
+    "name": "Submarine Part #13",
+    "lat": -78.22909530415856,
+    "lng": 22.07032338980372,
     "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "knife-14",
-    "cat": "knife",
-    "name": "Knife Flight #14",
-    "lat": -38.88802564328707,
-    "lng": -33.367143865156066,
+    "id": "submarine-14",
+    "cat": "submarine",
+    "name": "Submarine Part #14",
+    "lat": -77.22192476357455,
+    "lng": 17.140884580253186,
     "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "knife-15",
-    "cat": "knife",
-    "name": "Knife Flight #15",
-    "lat": -38.27358909965521,
-    "lng": -33.66945348479342,
+    "id": "submarine-15",
+    "cat": "submarine",
+    "name": "Submarine Part #15",
+    "lat": -77.12410131692151,
+    "lng": 11.958994726547786,
     "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "epsilon-01",
-    "cat": "epsilon",
-    "name": "Epsilon Tract #1",
-    "lat": 70.42609288856711,
-    "lng": -0.2340095529031032,
-    "notes": "“We worship Kram where the earth reaches up to Kraff”.",
+    "id": "submarine-16",
+    "cat": "submarine",
+    "name": "Submarine Part #16",
+    "lat": -77.2720330737089,
+    "lng": 7.268720064091326,
+    "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "epsilon-02",
-    "cat": "epsilon",
-    "name": "Epsilon Tract #2",
-    "lat": -64.78386721324769,
-    "lng": 57.56758972175706,
-    "notes": "“Where the first one of the fleet succumbed to the waves, there the message is seeded”.",
+    "id": "submarine-17",
+    "cat": "submarine",
+    "name": "Submarine Part #17",
+    "lat": -80.35112624006057,
+    "lng": 10.65634733870857,
+    "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "epsilon-03",
-    "cat": "epsilon",
-    "name": "Epsilon Tract #3",
-    "lat": 82.44069422532776,
-    "lng": -12.99147550159904,
-    "notes": "“When they sail from the North, they will find this offering”.",
+    "id": "submarine-18",
+    "cat": "submarine",
+    "name": "Submarine Part #18",
+    "lat": -80.2612384091369,
+    "lng": 4.810644107846429,
+    "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "epsilon-04",
-    "cat": "epsilon",
-    "name": "Epsilon Tract #4",
-    "lat": 60.9199397383297,
-    "lng": -20.03528963914917,
-    "notes": "“In the core of the mountain, where the blast is not felt, you shall find it”.",
+    "id": "submarine-19",
+    "cat": "submarine",
+    "name": "Submarine Part #19",
+    "lat": -79.19302178050168,
+    "lng": -3.653109319872385,
+    "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "epsilon-05",
-    "cat": "epsilon",
-    "name": "Epsilon Tract #5",
-    "lat": -55.46033799786111,
-    "lng": -34.0019940663945,
-    "notes": "“In the rubble of the old religion, will be the basis for the new”.",
+    "id": "submarine-20",
+    "cat": "submarine",
+    "name": "Submarine Part #20",
+    "lat": -74.6847491460995,
+    "lng": 1.9273874456565068,
+    "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "epsilon-06",
-    "cat": "epsilon",
-    "name": "Epsilon Tract #6",
-    "lat": 67.23315397305542,
-    "lng": -56.70544650115909,
-    "notes": "“When the first fleet sailed, the new fleet will find the map”.",
+    "id": "submarine-21",
+    "cat": "submarine",
+    "name": "Submarine Part #21",
+    "lat": -72.76345815413472,
+    "lng": 3.415519916464234,
+    "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "epsilon-07",
-    "cat": "epsilon",
-    "name": "Epsilon Tract #7",
-    "lat": -35.69008272421243,
-    "lng": -61.84471003499394,
-    "notes": "“What dwelling is worthy of Kraff? He is humble, yet we exalt him”.",
+    "id": "submarine-22",
+    "cat": "submarine",
+    "name": "Submarine Part #22",
+    "lat": -73.08495311540848,
+    "lng": -8.715417100030749,
+    "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "epsilon-08",
-    "cat": "epsilon",
-    "name": "Epsilon Tract #8",
-    "lat": 70.55733291571772,
-    "lng": -0.5967810964679074,
-    "notes": "“We are not dinosaurs, or plants, but a tree in the jet stream may hold Kraff's true word”.",
+    "id": "submarine-23",
+    "cat": "submarine",
+    "name": "Submarine Part #23",
+    "lat": -77.05548631642166,
+    "lng": -31.88776557403648,
+    "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "epsilon-09",
-    "cat": "epsilon",
-    "name": "Epsilon Tract #9",
-    "lat": -57.52901560283875,
-    "lng": -15.651800154407681,
-    "notes": "“The tallest obelisk of glass and steel holds no comparison to the word of Kraff”.",
+    "id": "submarine-24",
+    "cat": "submarine",
+    "name": "Submarine Part #24",
+    "lat": 29.98622077706692,
+    "lng": -98.04322603967555,
+    "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "epsilon-10",
-    "cat": "epsilon",
-    "name": "Epsilon Tract #10",
-    "lat": -47.279541848611,
-    "lng": -59.87969750735121,
-    "notes": "“Where they discard their earthly prisons, there you may find the germ of higher civilization”.",
+    "id": "submarine-25",
+    "cat": "submarine",
+    "name": "Submarine Part #25",
+    "lat": 30.769524996181126,
+    "lng": -97.96350465731086,
+    "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "bridge-01",
-    "cat": "bridge",
-    "name": "Under the Bridge #1",
-    "lat": 75.20894926432233,
-    "lng": 39.30808869566158,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "submarine-26",
+    "cat": "submarine",
+    "name": "Submarine Part #26",
+    "lat": 43.11861791049044,
+    "lng": -96.9935611718737,
+    "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "bridge-02",
-    "cat": "bridge",
-    "name": "Under the Bridge #2",
-    "lat": 64.09822245390201,
-    "lng": 61.86038632060752,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "submarine-27",
+    "cat": "submarine",
+    "name": "Submarine Part #27",
+    "lat": 44.01832764015637,
+    "lng": -100.06283439291458,
+    "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "bridge-03",
-    "cat": "bridge",
-    "name": "Under the Bridge #3",
-    "lat": 62.579332805440096,
-    "lng": 58.23267088495939,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "submarine-28",
+    "cat": "submarine",
+    "name": "Submarine Part #28",
+    "lat": 44.219627259820285,
+    "lng": -100.72717924595374,
+    "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "bridge-04",
-    "cat": "bridge",
-    "name": "Under the Bridge #4",
-    "lat": 27.74021573228208,
-    "lng": 50.7353923179532,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "submarine-29",
+    "cat": "submarine",
+    "name": "Submarine Part #29",
+    "lat": 44.75307275456984,
+    "lng": -102.72021380507121,
+    "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "bridge-05",
-    "cat": "bridge",
-    "name": "Under the Bridge #5",
-    "lat": 9.97722789913947,
-    "lng": 54.72587929716616,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "submarine-30",
+    "cat": "submarine",
+    "name": "Submarine Part #30",
+    "lat": 44.88567182881496,
+    "lng": -103.80973936405542,
+    "notes": "",
     "counts_for": [
       "100%"
     ]
   },
   {
-    "id": "bridge-06",
-    "cat": "bridge",
-    "name": "Under the Bridge #6",
-    "lat": 5.364613459832805,
-    "lng": 35.25713979252117,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-01",
+    "cat": "waste",
+    "name": "Nuclear Waste #1",
+    "lat": 71.9699009959727,
+    "lng": -51.645381503420964,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-07",
-    "cat": "bridge",
-    "name": "Under the Bridge #7",
-    "lat": -17.217025092004235,
-    "lng": 49.34476806762143,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-02",
+    "cat": "waste",
+    "name": "Nuclear Waste #2",
+    "lat": 75.53134686849916,
+    "lng": -47.18098409099781,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-08",
-    "cat": "bridge",
-    "name": "Under the Bridge #8",
-    "lat": -18.253599365843193,
-    "lng": 48.01460574121711,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-03",
+    "cat": "waste",
+    "name": "Nuclear Waste #3",
+    "lat": 78.32884848769147,
+    "lng": -34.159824971430396,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-09",
-    "cat": "bridge",
-    "name": "Under the Bridge #9",
-    "lat": -25.485527162445575,
-    "lng": 66.15318291945778,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-04",
+    "cat": "waste",
+    "name": "Nuclear Waste #4",
+    "lat": 80.09445041404369,
+    "lng": 19.253501212917683,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-10",
-    "cat": "bridge",
-    "name": "Under the Bridge #10",
-    "lat": -51.43105608699648,
-    "lng": 49.52615383940386,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-05",
+    "cat": "waste",
+    "name": "Nuclear Waste #5",
+    "lat": 79.00815116898474,
+    "lng": 24.289235198954486,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-11",
-    "cat": "bridge",
-    "name": "Under the Bridge #11",
-    "lat": -56.64200307428924,
-    "lng": 37.252383282127624,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-06",
+    "cat": "waste",
+    "name": "Nuclear Waste #6",
+    "lat": 79.67951908390481,
+    "lng": 31.53059409708129,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-12",
-    "cat": "bridge",
-    "name": "Under the Bridge #12",
-    "lat": -48.234709038555586,
-    "lng": 15.365166820383877,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-07",
+    "cat": "waste",
+    "name": "Nuclear Waste #7",
+    "lat": 79.72725263961354,
+    "lng": 52.590325938422495,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-13",
-    "cat": "bridge",
-    "name": "Under the Bridge #13",
-    "lat": -49.78128633953176,
-    "lng": 13.793156798269735,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-08",
+    "cat": "waste",
+    "name": "Nuclear Waste #8",
+    "lat": 79.51071757990314,
+    "lng": 58.67572479226115,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-14",
-    "cat": "bridge",
-    "name": "Under the Bridge #14",
-    "lat": -51.95574733169314,
-    "lng": 5.812182839843814,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-09",
+    "cat": "waste",
+    "name": "Nuclear Waste #9",
+    "lat": 77.259598775242,
+    "lng": 64.7744105431606,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-15",
-    "cat": "bridge",
-    "name": "Under the Bridge #15",
-    "lat": -53.52947494155128,
-    "lng": 3.2123201109626507,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-10",
+    "cat": "waste",
+    "name": "Nuclear Waste #10",
+    "lat": 77.34178803932708,
+    "lng": 67.12619132291923,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-16",
-    "cat": "bridge",
-    "name": "Under the Bridge #16",
-    "lat": -58.04469249676183,
-    "lng": 2.184467404195658,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-11",
+    "cat": "waste",
+    "name": "Nuclear Waste #11",
+    "lat": 46.89285029012649,
+    "lng": 96.66296348904007,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-17",
-    "cat": "bridge",
-    "name": "Under the Bridge #17",
-    "lat": -57.94856369855621,
-    "lng": 13.188537558995023,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-12",
+    "cat": "waste",
+    "name": "Nuclear Waste #12",
+    "lat": 46.361009118855,
+    "lng": 89.75377701743287,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-18",
-    "cat": "bridge",
-    "name": "Under the Bridge #18",
-    "lat": -59.853016806451045,
-    "lng": 14.15592834183434,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-13",
+    "cat": "waste",
+    "name": "Nuclear Waste #13",
+    "lat": 45.093425683081556,
+    "lng": 88.13277557601731,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-19",
-    "cat": "bridge",
-    "name": "Under the Bridge #19",
-    "lat": -62.11028903814801,
-    "lng": 19.29519187566939,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-14",
+    "cat": "waste",
+    "name": "Nuclear Waste #14",
+    "lat": -62.81603210057883,
+    "lng": 59.64566827769832,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-20",
-    "cat": "bridge",
-    "name": "Under the Bridge #20",
-    "lat": -60.42497313632344,
-    "lng": 2.244929328123135,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-15",
+    "cat": "waste",
+    "name": "Nuclear Waste #15",
+    "lat": -67.86806448270359,
+    "lng": 71.2052687205796,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-21",
-    "cat": "bridge",
-    "name": "Under the Bridge #21",
-    "lat": -62.72614841395576,
-    "lng": 2.1240054802682096,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-16",
+    "cat": "waste",
+    "name": "Nuclear Waste #16",
+    "lat": -73.9670025665143,
+    "lng": 54.38405704162824,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-22",
-    "cat": "bridge",
-    "name": "Under the Bridge #22",
-    "lat": -65.47045205119466,
-    "lng": 3.4541678066725297,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-17",
+    "cat": "waste",
+    "name": "Nuclear Waste #17",
+    "lat": -76.99853338074928,
+    "lng": 43.72796559888016,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-23",
-    "cat": "bridge",
-    "name": "Under the Bridge #23",
-    "lat": -68.5588368282075,
-    "lng": 4.361096665584569,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-18",
+    "cat": "waste",
+    "name": "Nuclear Waste #18",
+    "lat": -78.06453793055442,
+    "lng": 36.28730324484164,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-24",
-    "cat": "bridge",
-    "name": "Under the Bridge #24",
-    "lat": -71.44846999211487,
-    "lng": 3.575091654527455,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-19",
+    "cat": "waste",
+    "name": "Nuclear Waste #19",
+    "lat": -63.38986109074478,
+    "lng": -62.487489505019965,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-25",
-    "cat": "bridge",
-    "name": "Under the Bridge #25",
-    "lat": -74.90157018681677,
-    "lng": 2.5472389477604906,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-20",
+    "cat": "waste",
+    "name": "Nuclear Waste #20",
+    "lat": -61.722657462372254,
+    "lng": -65.49032824075695,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-26",
-    "cat": "bridge",
-    "name": "Under the Bridge #26",
-    "lat": -75.41264076090219,
-    "lng": 4.300634741657063,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-21",
+    "cat": "waste",
+    "name": "Nuclear Waste #21",
+    "lat": -60.71994494395233,
+    "lng": -75.29605827161488,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-27",
-    "cat": "bridge",
-    "name": "Under the Bridge #27",
-    "lat": -75.48858512663766,
-    "lng": 5.812182839843814,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-22",
+    "cat": "waste",
+    "name": "Nuclear Waste #22",
+    "lat": -52.25574734737926,
+    "lng": -82.39126130207305,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-28",
-    "cat": "bridge",
-    "name": "Under the Bridge #28",
-    "lat": -75.71410398485315,
-    "lng": 7.626040557667864,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-23",
+    "cat": "waste",
+    "name": "Nuclear Waste #23",
+    "lat": -47.83543720067109,
+    "lng": -94.37604245089942,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-29",
-    "cat": "bridge",
-    "name": "Under the Bridge #29",
-    "lat": -73.5719018881377,
-    "lng": -4.164034608188587,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-24",
+    "cat": "waste",
+    "name": "Nuclear Waste #24",
+    "lat": -25.86099372935149,
+    "lng": -104.2216331729397,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-30",
-    "cat": "bridge",
-    "name": "Under the Bridge #30",
-    "lat": -73.52052588171941,
-    "lng": -7.791750043836714,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-25",
+    "cat": "waste",
+    "name": "Nuclear Waste #25",
+    "lat": 8.472996509889574,
+    "lng": -98.0033653484932,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-31",
-    "cat": "bridge",
-    "name": "Under the Bridge #31",
-    "lat": -73.8264540097649,
-    "lng": -23.814159884615975,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-26",
+    "cat": "waste",
+    "name": "Nuclear Waste #26",
+    "lat": 26.863256391371053,
+    "lng": -93.45924655370538,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-32",
-    "cat": "bridge",
-    "name": "Under the Bridge #32",
-    "lat": -71.35204702969708,
-    "lng": -12.265932414469404,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-27",
+    "cat": "waste",
+    "name": "Nuclear Waste #27",
+    "lat": 31.330049530679716,
+    "lng": -104.85940423185728,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-33",
-    "cat": "bridge",
-    "name": "Under the Bridge #33",
-    "lat": -69.19072753237388,
-    "lng": -18.977205970418453,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-28",
+    "cat": "waste",
+    "name": "Nuclear Waste #28",
+    "lat": 41.56930524197136,
+    "lng": -102.40132827561241,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-34",
-    "cat": "bridge",
-    "name": "Under the Bridge #34",
-    "lat": -67.97680499881223,
-    "lng": -23.45138834105117,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-29",
+    "cat": "waste",
+    "name": "Nuclear Waste #29",
+    "lat": 53.351681920313865,
+    "lng": -90.81515403860955,
+    "notes": "",
     "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   },
   {
-    "id": "bridge-35",
-    "cat": "bridge",
-    "name": "Under the Bridge #35",
-    "lat": -67.09908446478701,
-    "lng": -25.44663183065765,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "id": "waste-30",
+    "cat": "waste",
+    "name": "Nuclear Waste #30",
+    "lat": 54.36747561076913,
+    "lng": -89.80534986199002,
+    "notes": "",
     "counts_for": [
-      "100%"
-    ]
-  },
-  {
-    "id": "bridge-36",
-    "cat": "bridge",
-    "name": "Under the Bridge #36",
-    "lat": -66.23711111119954,
-    "lng": -30.283585744855145,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
-    "counts_for": [
-      "100%"
-    ]
-  },
-  {
-    "id": "bridge-37",
-    "cat": "bridge",
-    "name": "Under the Bridge #37",
-    "lat": -66.38286796168096,
-    "lng": -31.311438451622138,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
-    "counts_for": [
-      "100%"
-    ]
-  },
-  {
-    "id": "bridge-38",
-    "cat": "bridge",
-    "name": "Under the Bridge #38",
-    "lat": -66.57589958961185,
-    "lng": -32.702062701953906,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
-    "counts_for": [
-      "100%"
-    ]
-  },
-  {
-    "id": "bridge-39",
-    "cat": "bridge",
-    "name": "Under the Bridge #39",
-    "lat": -27.64844945841961,
-    "lng": -95.88477320615895,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
-    "counts_for": [
-      "100%"
-    ]
-  },
-  {
-    "id": "bridge-40",
-    "cat": "bridge",
-    "name": "Under the Bridge #40",
-    "lat": 15.109972645444373,
-    "lng": -53.13819298943841,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
-    "counts_for": [
-      "100%"
-    ]
-  },
-  {
-    "id": "bridge-41",
-    "cat": "bridge",
-    "name": "Under the Bridge #41",
-    "lat": 20.85784707364827,
-    "lng": -51.26387334768688,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
-    "counts_for": [
-      "100%"
-    ]
-  },
-  {
-    "id": "bridge-42",
-    "cat": "bridge",
-    "name": "Under the Bridge #42",
-    "lat": 26.556632859312092,
-    "lng": -18.312124807216293,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
-    "counts_for": [
-      "100%"
-    ]
-  },
-  {
-    "id": "bridge-43",
-    "cat": "bridge",
-    "name": "Under the Bridge #43",
-    "lat": 29.016878116539875,
-    "lng": -24.60016489567309,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
-    "counts_for": [
-      "100%"
-    ]
-  },
-  {
-    "id": "bridge-44",
-    "cat": "bridge",
-    "name": "Under the Bridge #44",
-    "lat": 20.291796992820046,
-    "lng": -84.8807030513596,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
-    "counts_for": [
-      "100%"
-    ]
-  },
-  {
-    "id": "bridge-45",
-    "cat": "bridge",
-    "name": "Under the Bridge #45",
-    "lat": 38.06986938894017,
-    "lng": -10.270688924862924,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
-    "counts_for": [
-      "100%"
-    ]
-  },
-  {
-    "id": "bridge-46",
-    "cat": "bridge",
-    "name": "Under the Bridge #46",
-    "lat": 39.06260465557092,
-    "lng": -9.90791738129812,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
-    "counts_for": [
-      "100%"
-    ]
-  },
-  {
-    "id": "bridge-47",
-    "cat": "bridge",
-    "name": "Under the Bridge #47",
-    "lat": 54.19671668126815,
-    "lng": -18.070277111506442,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
-    "counts_for": [
-      "100%"
-    ]
-  },
-  {
-    "id": "bridge-48",
-    "cat": "bridge",
-    "name": "Under the Bridge #48",
-    "lat": 56.83149754457608,
-    "lng": -27.441875320264103,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
-    "counts_for": [
-      "100%"
-    ]
-  },
-  {
-    "id": "bridge-49",
-    "cat": "bridge",
-    "name": "Under the Bridge #49",
-    "lat": 59.995854474428015,
-    "lng": -63.779491600672955,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
-    "counts_for": [
-      "100%"
-    ]
-  },
-  {
-    "id": "bridge-50",
-    "cat": "bridge",
-    "name": "Under the Bridge #50",
-    "lat": 61.27063006275011,
-    "lng": -41.46904167143691,
-    "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
-    "counts_for": [
-      "100%"
+      "100%",
+      "ach:waste-management"
     ]
   }
 ]
