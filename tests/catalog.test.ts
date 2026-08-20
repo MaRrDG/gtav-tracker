@@ -1,5 +1,5 @@
 import { describe, expect, test } from 'vitest';
-import { indexCatalog } from '@/lib/catalog';
+import { indexCatalog } from '@/lib/catalog-index';
 import type { Catalog } from '@/lib/types';
 
 const catalog: Catalog = {

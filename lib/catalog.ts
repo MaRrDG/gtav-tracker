@@ -1,7 +1,10 @@
 import categories from '@/data/categories.json';
 import achievements from '@/data/achievements.json';
 import locations from '@/data/locations.json';
+import { indexCatalog } from '@/lib/catalog-index';
 import type { Achievement, Catalog, Category, IndexedCatalog, Objective } from '@/lib/types';
+
+export { indexCatalog };
 
 /**
  * The catalog is bundled rather than read from disk: it is identical for every user and
@@ -13,20 +16,6 @@ export function getCatalog(): Catalog {
     achievements: achievements as Achievement[],
     locations: locations as Objective[],
   };
-}
-
-export function indexCatalog(catalog: Catalog): IndexedCatalog {
-  const byId = new Map<string, Objective>();
-  const byCategory = new Map<string, Objective[]>(
-    catalog.categories.map((category) => [category.id, []]),
-  );
-
-  for (const objective of catalog.locations) {
-    byId.set(objective.id, objective);
-    byCategory.get(objective.cat)?.push(objective);
-  }
-
-  return { ...catalog, byId, byCategory };
 }
 
 let cached: IndexedCatalog | undefined;

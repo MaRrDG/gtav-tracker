@@ -165,3 +165,73 @@ a {
   font: inherit;
   padding: 0.5rem 0.8rem;
 }
+
+.layout {
+  display: grid;
+  grid-template-columns: 340px 1fr;
+  height: 100%;
+}
+
+.map {
+  height: 100%;
+  background: var(--bg);
+}
+
+.pin__body {
+  display: block;
+  width: 14px;
+  height: 14px;
+  background: var(--primary);
+  border: 2px solid var(--surface);
+}
+
+.pin--done .pin__body {
+  background: transparent;
+  border-color: var(--primary);
+  opacity: 0.55;
+}
+
+/* Leaflet paints its own popup chrome; override it to the shape and colour locks. */
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  border-radius: 0;
+  background: var(--surface);
+  color: var(--text);
+  box-shadow: 0 2px 12px rgb(0 0 0 / 0.18);
+}
+
+.leaflet-popup-content {
+  margin: 0.75rem 0.9rem;
+}
+
+.leaflet-popup {
+  transition:
+    opacity 160ms var(--ease-out),
+    transform 160ms var(--ease-out);
+}
+
+.popup__name {
+  font-size: 0.95rem;
+  margin: 0 0 0.3rem;
+}
+
+.popup__notes {
+  margin: 0 0 0.6rem;
+  color: var(--muted);
+  max-width: 24ch;
+}
+
+.popup button {
+  background: var(--primary);
+  border: 0;
+  color: var(--primary-ink);
+  cursor: pointer;
+  font: inherit;
+  padding: 0.4rem 0.7rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .leaflet-popup {
+    transition: opacity 160ms var(--ease-out);
+  }
+}
