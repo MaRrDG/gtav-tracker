@@ -20,9 +20,9 @@ describe('align', () => {
   // deliberate edit to these numbers, never a silent shift of every pin on the map.
   test('maps upstream coordinates onto our tiles', () => {
     const cases: [number, number, number, number][] = [
-      [83.1, -120.5, 76.673463, -2.416013],
-      [80, -119, 53.9392, 1.711521],
-      [75, -115, -0.121633, 12.718278],
+      [83.1, -120.5, 76.590452, -2.864597],
+      [80, -119, 50.868653, 1.660615],
+      [75, -115, -10.234228, 13.727847],
     ];
 
     for (const [lat, lng, expectedLat, expectedLng] of cases) {
@@ -62,8 +62,8 @@ describe('convertEntries', () => {
     const [first] = convertEntries(upstream).locations;
     expect(first.lat).not.toBe(83.1);
     expect(first.lng).not.toBe(-120.5);
-    expect(first.lat).toBeCloseTo(76.673463, 5);
-    expect(first.lng).toBeCloseTo(-2.416013, 5);
+    expect(first.lat).toBeCloseTo(76.590452, 5);
+    expect(first.lng).toBeCloseTo(-2.864597, 5);
   });
 
   test('defaults missing notes to an empty string', () => {

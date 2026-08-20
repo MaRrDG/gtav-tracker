@@ -43,12 +43,12 @@ describe('parseLuaConfig', () => {
 });
 
 describe('fromGame', () => {
-  // Golden values from the calibration in tools/calibrate-game-coords.mjs. A change to the
-  // mapping should be a deliberate edit here, never a silent shift of every pin.
+  // Golden values from the published GTA V CRS, not from a fit. A change to the mapping
+  // should be a deliberate edit here, never a silent shift of every pin on the map.
   test('maps game coordinates onto the map', () => {
     const [lat, lng] = fromGame(0, 0);
-    expect(lng).toBeCloseTo(-13.511987, 4);
-    expect(lat).toBeCloseTo(-43.895532, 4);
+    expect(lng).toBeCloseTo(-15.046875, 4);
+    expect(lat).toBeCloseTo(-53.162582, 4);
   });
 
   test('game north is up, so a larger y gives a larger latitude', () => {

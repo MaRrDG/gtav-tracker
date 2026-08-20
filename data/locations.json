@@ -3,8 +3,8 @@
     "id": "bridge-01",
     "cat": "bridge",
     "name": "Under the Bridge #1",
-    "lat": 75.20894926432233,
-    "lng": 39.30808869566158,
+    "lat": 74.99305928834605,
+    "lng": 42.87952136439918,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -14,8 +14,8 @@
     "id": "bridge-02",
     "cat": "bridge",
     "name": "Under the Bridge #2",
-    "lat": 64.09822245390201,
-    "lng": 61.86038632060752,
+    "lat": 62.549831843644554,
+    "lng": 67.60467844216888,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -25,8 +25,8 @@
     "id": "bridge-03",
     "cat": "bridge",
     "name": "Under the Bridge #3",
-    "lat": 62.579332805440096,
-    "lng": 58.23267088495939,
+    "lat": 60.816346617352494,
+    "lng": 63.62744137872065,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -36,8 +36,8 @@
     "id": "bridge-04",
     "cat": "bridge",
     "name": "Under the Bridge #4",
-    "lat": 27.74021573228208,
-    "lng": 50.7353923179532,
+    "lat": 20.57845447721092,
+    "lng": 55.40781811426106,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -47,8 +47,8 @@
     "id": "bridge-05",
     "cat": "bridge",
     "name": "Under the Bridge #5",
-    "lat": 9.97722789913947,
-    "lng": 54.72587929716616,
+    "lat": 0.6690086640518096,
+    "lng": 59.782778884054096,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -58,8 +58,8 @@
     "id": "bridge-06",
     "cat": "bridge",
     "name": "Under the Bridge #6",
-    "lat": 5.364613459832805,
-    "lng": 35.25713979252117,
+    "lat": -4.353174866139447,
+    "lng": 38.43827331021535,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -69,8 +69,8 @@
     "id": "bridge-07",
     "cat": "bridge",
     "name": "Under the Bridge #7",
-    "lat": -17.217025092004235,
-    "lng": 49.34476806762143,
+    "lat": -27.86425933240493,
+    "lng": 53.88321057327258,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -80,8 +80,8 @@
     "id": "bridge-08",
     "cat": "bridge",
     "name": "Under the Bridge #8",
-    "lat": -18.253599365843193,
-    "lng": 48.01460574121711,
+    "lat": -28.898008989396907,
+    "lng": 52.42489031667489,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -91,8 +91,8 @@
     "id": "bridge-09",
     "cat": "bridge",
     "name": "Under the Bridge #9",
-    "lat": -25.485527162445575,
-    "lng": 66.15318291945778,
+    "lat": -35.996028335094294,
+    "lng": 72.31107563391595,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -102,8 +102,8 @@
     "id": "bridge-10",
     "cat": "bridge",
     "name": "Under the Bridge #10",
-    "lat": -51.43105608699648,
-    "lng": 49.52615383940386,
+    "lat": -59.83077276376662,
+    "lng": 54.082072426444995,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -113,8 +113,8 @@
     "id": "bridge-11",
     "cat": "bridge",
     "name": "Under the Bridge #11",
-    "lat": -56.64200307428924,
-    "lng": 37.252383282127624,
+    "lat": -64.31559122547542,
+    "lng": 40.62575369511188,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -124,8 +124,8 @@
     "id": "bridge-12",
     "cat": "bridge",
     "name": "Under the Bridge #12",
-    "lat": -48.234709038555586,
-    "lng": 15.365166820383877,
+    "lat": -57.03017324388634,
+    "lng": 16.629756745640975,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -135,8 +135,8 @@
     "id": "bridge-13",
     "cat": "bridge",
     "name": "Under the Bridge #13",
-    "lat": -49.78128633953176,
-    "lng": 13.793156798269735,
+    "lat": -58.389976160528086,
+    "lng": 14.906287351480103,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -146,8 +146,8 @@
     "id": "bridge-14",
     "cat": "bridge",
     "name": "Under the Bridge #14",
-    "lat": -51.95574733169314,
-    "lng": 5.812182839843814,
+    "lat": -60.28689616308942,
+    "lng": 6.1563658118940054,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -157,8 +157,8 @@
     "id": "bridge-15",
     "cat": "bridge",
     "name": "Under the Bridge #15",
-    "lat": -53.52947494155128,
-    "lng": 3.2123201109626507,
+    "lat": -61.6488666149462,
+    "lng": 3.3060125830894833,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -168,8 +168,8 @@
     "id": "bridge-16",
     "cat": "bridge",
     "name": "Under the Bridge #16",
-    "lat": -58.04469249676183,
-    "lng": 2.184467404195658,
+    "lat": -65.50560949254105,
+    "lng": 2.1791287484458337,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -179,8 +179,8 @@
     "id": "bridge-17",
     "cat": "bridge",
     "name": "Under the Bridge #17",
-    "lat": -57.94856369855621,
-    "lng": 13.188537558995023,
+    "lat": -65.4242897412937,
+    "lng": 14.243414507572055,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -190,8 +190,8 @@
     "id": "bridge-18",
     "cat": "bridge",
     "name": "Under the Bridge #18",
-    "lat": -59.853016806451045,
-    "lng": 14.15592834183434,
+    "lat": -67.02890131397024,
+    "lng": 15.304011057824766,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -201,8 +201,8 @@
     "id": "bridge-19",
     "cat": "bridge",
     "name": "Under the Bridge #19",
-    "lat": -62.11028903814801,
-    "lng": 19.29519187566939,
+    "lat": -68.91305821366551,
+    "lng": 20.93843023104324,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -212,8 +212,8 @@
     "id": "bridge-20",
     "cat": "bridge",
     "name": "Under the Bridge #20",
-    "lat": -60.42497313632344,
-    "lng": 2.244929328123135,
+    "lat": -67.50814360928433,
+    "lng": 2.24541603283663,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -223,8 +223,8 @@
     "id": "bridge-21",
     "cat": "bridge",
     "name": "Under the Bridge #21",
-    "lat": -62.72614841395576,
-    "lng": 2.1240054802682096,
+    "lat": -69.42374692387077,
+    "lng": 2.112841464055009,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -234,8 +234,8 @@
     "id": "bridge-22",
     "cat": "bridge",
     "name": "Under the Bridge #22",
-    "lat": -65.47045205119466,
-    "lng": 3.4541678066725297,
+    "lat": -71.68155035155269,
+    "lng": 3.5711617206526967,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -245,8 +245,8 @@
     "id": "bridge-23",
     "cat": "bridge",
     "name": "Under the Bridge #23",
-    "lat": -68.5588368282075,
-    "lng": 4.361096665584569,
+    "lat": -74.18668919423365,
+    "lng": 4.565470986514754,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -256,8 +256,8 @@
     "id": "bridge-24",
     "cat": "bridge",
     "name": "Under the Bridge #24",
-    "lat": -71.44846999211487,
-    "lng": 3.575091654527455,
+    "lat": -76.49473969871916,
+    "lng": 3.703736289434289,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -267,8 +267,8 @@
     "id": "bridge-25",
     "cat": "bridge",
     "name": "Under the Bridge #25",
-    "lat": -74.90157018681677,
-    "lng": 2.5472389477604906,
+    "lat": -79.20400219777382,
+    "lng": 2.5768524547906395,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -278,8 +278,8 @@
     "id": "bridge-26",
     "cat": "bridge",
     "name": "Under the Bridge #26",
-    "lat": -75.41264076090219,
-    "lng": 4.300634741657063,
+    "lat": -79.6001419356368,
+    "lng": 4.499183702123929,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -289,8 +289,8 @@
     "id": "bridge-27",
     "cat": "bridge",
     "name": "Under the Bridge #27",
-    "lat": -75.48858512663766,
-    "lng": 5.812182839843814,
+    "lat": -79.65889586836809,
+    "lng": 6.1563658118940054,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -300,8 +300,8 @@
     "id": "bridge-28",
     "cat": "bridge",
     "name": "Under the Bridge #28",
-    "lat": -75.71410398485315,
-    "lng": 7.626040557667864,
+    "lat": -79.83319472758659,
+    "lng": 8.14498434361812,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -311,8 +311,8 @@
     "id": "bridge-29",
     "cat": "bridge",
     "name": "Under the Bridge #29",
-    "lat": -73.5719018881377,
-    "lng": -4.164034608188587,
+    "lat": -78.16736190044112,
+    "lng": -4.781036112588538,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -322,8 +322,8 @@
     "id": "bridge-30",
     "cat": "bridge",
     "name": "Under the Bridge #30",
-    "lat": -73.52052588171941,
-    "lng": -7.791750043836714,
+    "lat": -78.12713829422891,
+    "lng": -8.758273176036766,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -333,8 +333,8 @@
     "id": "bridge-31",
     "cat": "bridge",
     "name": "Under the Bridge #31",
-    "lat": -73.8264540097649,
-    "lng": -23.814159884615975,
+    "lat": -78.36647346136145,
+    "lng": -26.3244035395997,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -344,8 +344,8 @@
     "id": "bridge-32",
     "cat": "bridge",
     "name": "Under the Bridge #32",
-    "lat": -71.35204702969708,
-    "lng": -12.265932414469404,
+    "lat": -76.41830505759472,
+    "lng": -13.6635322209562,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -355,8 +355,8 @@
     "id": "bridge-33",
     "cat": "bridge",
     "name": "Under the Bridge #33",
-    "lat": -69.19072753237388,
-    "lng": -18.977205970418453,
+    "lat": -74.69443431395756,
+    "lng": -21.021420788335405,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -366,8 +366,8 @@
     "id": "bridge-34",
     "cat": "bridge",
     "name": "Under the Bridge #34",
-    "lat": -67.97680499881223,
-    "lng": -23.45138834105117,
+    "lat": -73.71754061974333,
+    "lng": -25.926679833254866,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -377,8 +377,8 @@
     "id": "bridge-35",
     "cat": "bridge",
     "name": "Under the Bridge #35",
-    "lat": -67.09908446478701,
-    "lng": -25.44663183065765,
+    "lat": -73.00742411494733,
+    "lng": -28.11416021815137,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -388,8 +388,8 @@
     "id": "bridge-36",
     "cat": "bridge",
     "name": "Under the Bridge #36",
-    "lat": -66.23711111119954,
-    "lng": -30.283585744855145,
+    "lat": -72.30701127292441,
+    "lng": -33.417142969415664,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -399,8 +399,8 @@
     "id": "bridge-37",
     "cat": "bridge",
     "name": "Under the Bridge #37",
-    "lat": -66.38286796168096,
-    "lng": -31.311438451622138,
+    "lat": -72.42565847258923,
+    "lng": -34.544026804059314,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -410,8 +410,8 @@
     "id": "bridge-38",
     "cat": "bridge",
     "name": "Under the Bridge #38",
-    "lat": -66.57589958961185,
-    "lng": -32.702062701953906,
+    "lat": -72.58265667126831,
+    "lng": -36.0686343450478,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -421,8 +421,8 @@
     "id": "bridge-39",
     "cat": "bridge",
     "name": "Under the Bridge #39",
-    "lat": -27.64844945841961,
-    "lng": -95.88477320615895,
+    "lat": -38.080066339867635,
+    "lng": -105.33884653343746,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -432,8 +432,8 @@
     "id": "bridge-40",
     "cat": "bridge",
     "name": "Under the Bridge #40",
-    "lat": 15.109972645444373,
-    "lng": -53.13819298943841,
+    "lat": 6.33524646303889,
+    "lng": -58.47373646913938,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -443,8 +443,8 @@
     "id": "bridge-41",
     "cat": "bridge",
     "name": "Under the Bridge #41",
-    "lat": 20.85784707364827,
-    "lng": -51.26387334768688,
+    "lat": 12.76894797038944,
+    "lng": -56.418830653024486,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -454,8 +454,8 @@
     "id": "bridge-42",
     "cat": "bridge",
     "name": "Under the Bridge #42",
-    "lat": 26.556632859312092,
-    "lng": -18.312124807216293,
+    "lat": 19.228162837006224,
+    "lng": -20.29226066003656,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -465,8 +465,8 @@
     "id": "bridge-43",
     "cat": "bridge",
     "name": "Under the Bridge #43",
-    "lat": 29.016878116539875,
-    "lng": -24.60016489567309,
+    "lat": 22.037972175486036,
+    "lng": -27.186138236680137,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -476,8 +476,8 @@
     "id": "bridge-44",
     "cat": "bridge",
     "name": "Under the Bridge #44",
-    "lat": 20.291796992820046,
-    "lng": -84.8807030513596,
+    "lat": 12.131524253765935,
+    "lng": -93.27456077431123,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -487,8 +487,8 @@
     "id": "bridge-45",
     "cat": "bridge",
     "name": "Under the Bridge #45",
-    "lat": 38.06986938894017,
-    "lng": -10.270688924862924,
+    "lat": 32.46185343725078,
+    "lng": -11.476051836059696,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -498,8 +498,8 @@
     "id": "bridge-46",
     "cat": "bridge",
     "name": "Under the Bridge #46",
-    "lat": 39.06260465557092,
-    "lng": -9.90791738129812,
+    "lat": 33.61102133618884,
+    "lng": -11.078328129714862,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -509,8 +509,8 @@
     "id": "bridge-47",
     "cat": "bridge",
     "name": "Under the Bridge #47",
-    "lat": 54.19671668126815,
-    "lng": -18.070277111506442,
+    "lat": 51.1667002947102,
+    "lng": -20.027111522473348,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -520,8 +520,8 @@
     "id": "bridge-48",
     "cat": "bridge",
     "name": "Under the Bridge #48",
-    "lat": 56.83149754457608,
-    "lng": -27.441875320264103,
+    "lat": 54.21179241036911,
+    "lng": -30.3016406030479,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -531,8 +531,8 @@
     "id": "bridge-49",
     "cat": "bridge",
     "name": "Under the Bridge #49",
-    "lat": 59.995854474428015,
-    "lng": -63.779491600672955,
+    "lat": 57.8555742902513,
+    "lng": -70.14029852192081,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -542,8 +542,8 @@
     "id": "bridge-50",
     "cat": "bridge",
     "name": "Under the Bridge #50",
-    "lat": 61.27063006275011,
-    "lng": -41.46904167143691,
+    "lat": 59.318313656035855,
+    "lng": -45.6802905817143,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -553,8 +553,8 @@
     "id": "epsilon-01",
     "cat": "epsilon",
     "name": "Epsilon Tract #1",
-    "lat": 70.43025993496974,
-    "lng": -0.17194228994722494,
+    "lat": 69.69713547946972,
+    "lng": -0.41985000000002515,
     "notes": "",
     "counts_for": [
       "100%"
@@ -564,8 +564,8 @@
     "id": "epsilon-02",
     "cat": "epsilon",
     "name": "Epsilon Tract #2",
-    "lat": -64.56709692402502,
-    "lng": 57.121157836149536,
+    "lat": -70.9369752356059,
+    "lng": 62.4006,
     "notes": "",
     "counts_for": [
       "100%"
@@ -575,8 +575,8 @@
     "id": "epsilon-03",
     "cat": "epsilon",
     "name": "Epsilon Tract #3",
-    "lat": 82.37647874432005,
-    "lng": -12.847642085934297,
+    "lat": 82.66053793151671,
+    "lng": -14.318437500000016,
     "notes": "",
     "counts_for": [
       "100%"
@@ -586,8 +586,8 @@
     "id": "epsilon-04",
     "cat": "epsilon",
     "name": "Epsilon Tract #4",
-    "lat": 60.9332701475118,
-    "lng": -20.514181690006126,
+    "lat": 58.92624570043211,
+    "lng": -22.724606250000022,
     "notes": "",
     "counts_for": [
       "100%"
@@ -597,8 +597,8 @@
     "id": "epsilon-05",
     "cat": "epsilon",
     "name": "Epsilon Tract #5",
-    "lat": -55.632745134736226,
-    "lng": -34.026956000822565,
+    "lat": -63.44972351658812,
+    "lng": -37.54102500000002,
     "notes": "",
     "counts_for": [
       "100%"
@@ -608,8 +608,8 @@
     "id": "epsilon-06",
     "cat": "epsilon",
     "name": "Epsilon Tract #6",
-    "lat": 67.07401237830672,
-    "lng": -56.16292650408721,
+    "lat": 65.92253059001482,
+    "lng": -61.81256250000001,
     "notes": "",
     "counts_for": [
       "100%"
@@ -619,8 +619,8 @@
     "id": "epsilon-07",
     "cat": "epsilon",
     "name": "Epsilon Tract #7",
-    "lat": -35.618712244497694,
-    "lng": -61.46439843133966,
+    "lat": -45.601002462965354,
+    "lng": -67.62549375,
     "notes": "",
     "counts_for": [
       "100%"
@@ -630,8 +630,8 @@
     "id": "epsilon-08",
     "cat": "epsilon",
     "name": "Epsilon Tract #8",
-    "lat": 70.5462129327279,
-    "lng": -0.6502705841353986,
+    "lat": 69.82677445434952,
+    "lng": -0.9443249999999921,
     "notes": "",
     "counts_for": [
       "100%"
@@ -641,8 +641,8 @@
     "id": "epsilon-09",
     "cat": "epsilon",
     "name": "Epsilon Tract #9",
-    "lat": -57.608351148363056,
-    "lng": -15.505021498090912,
+    "lat": -65.13118651703444,
+    "lng": -17.23218750000001,
     "notes": "",
     "counts_for": [
       "100%"
@@ -652,8 +652,8 @@
     "id": "epsilon-10",
     "cat": "epsilon",
     "name": "Epsilon Tract #10",
-    "lat": -47.43956423081772,
-    "lng": -59.36506869573594,
+    "lat": -56.322385616217154,
+    "lng": -65.32363125,
     "notes": "",
     "counts_for": [
       "100%"
@@ -663,8 +663,8 @@
     "id": "knife-01",
     "cat": "knife",
     "name": "Knife Flight #1",
-    "lat": -43.04043582260548,
-    "lng": -7.428978500271882,
+    "lat": -52.39840283586332,
+    "lng": -8.360549469691932,
     "notes": "",
     "counts_for": [
       "100%"
@@ -674,8 +674,8 @@
     "id": "knife-02",
     "cat": "knife",
     "name": "Knife Flight #2",
-    "lat": -44.091821547570206,
-    "lng": -3.619877292841352,
+    "lat": -53.3440091026434,
+    "lng": -4.184450553071315,
     "notes": "",
     "counts_for": [
       "100%"
@@ -685,8 +685,8 @@
     "id": "knife-03",
     "cat": "knife",
     "name": "Knife Flight #3",
-    "lat": -55.937350969270874,
-    "lng": -10.028841229153073,
+    "lat": -63.71501193003837,
+    "lng": -11.210902698496483,
     "notes": "",
     "counts_for": [
       "100%"
@@ -696,8 +696,8 @@
     "id": "knife-04",
     "cat": "knife",
     "name": "Knife Flight #4",
-    "lat": -56.64200307428924,
-    "lng": -15.833185926190083,
+    "lat": -64.31559122547542,
+    "lng": -17.57448200001363,
     "notes": "",
     "counts_for": [
       "100%"
@@ -707,8 +707,8 @@
     "id": "knife-05",
     "cat": "knife",
     "name": "Knife Flight #5",
-    "lat": -57.038850811620726,
-    "lng": -19.27951559005581,
+    "lat": -64.65301411234573,
+    "lng": -21.352857210289415,
     "notes": "",
     "counts_for": [
       "100%"
@@ -718,8 +718,8 @@
     "id": "knife-06",
     "cat": "knife",
     "name": "Knife Flight #6",
-    "lat": -58.1086350809817,
-    "lng": -21.093373307879887,
+    "lat": -65.55968232257322,
+    "lng": -23.34147574201353,
     "notes": "",
     "counts_for": [
       "100%"
@@ -729,8 +729,8 @@
     "id": "knife-07",
     "cat": "knife",
     "name": "Knife Flight #7",
-    "lat": -55.32297748400664,
-    "lng": -20.005058677185446,
+    "lat": -63.18987300192072,
+    "lng": -22.148304622979055,
     "notes": "",
     "counts_for": [
       "100%"
@@ -740,8 +740,8 @@
     "id": "knife-08",
     "cat": "knife",
     "name": "Knife Flight #8",
-    "lat": -54.45361891622244,
-    "lng": -32.46021500624403,
+    "lat": -62.44439318619207,
+    "lng": -35.803485207484584,
     "notes": "",
     "counts_for": [
       "100%"
@@ -751,8 +751,8 @@
     "id": "knife-09",
     "cat": "knife",
     "name": "Knife Flight #9",
-    "lat": -48.99417152166511,
-    "lng": -38.86917894255575,
+    "lat": -57.699022378811634,
+    "lng": -42.82993735290975,
     "notes": "",
     "counts_for": [
       "100%"
@@ -762,8 +762,8 @@
     "id": "knife-10",
     "cat": "knife",
     "name": "Knife Flight #10",
-    "lat": -50.363361882572974,
-    "lng": -44.79444748744771,
+    "lat": -58.89946859686294,
+    "lng": -49.32609122320852,
     "notes": "",
     "counts_for": [
       "100%"
@@ -773,8 +773,8 @@
     "id": "knife-11",
     "cat": "knife",
     "name": "Knife Flight #11",
-    "lat": -54.02963928470963,
-    "lng": -53.38004068514829,
+    "lat": -62.07981302994733,
+    "lng": -58.73888560670261,
     "notes": "",
     "counts_for": [
       "100%"
@@ -784,8 +784,8 @@
     "id": "knife-12",
     "cat": "knife",
     "name": "Knife Flight #12",
-    "lat": -53.421520280872805,
-    "lng": -54.95205070726247,
+    "lat": -61.55573045696582,
+    "lng": -60.46235500086348,
     "notes": "",
     "counts_for": [
       "100%"
@@ -795,8 +795,8 @@
     "id": "knife-13",
     "cat": "knife",
     "name": "Knife Flight #13",
-    "lat": -49.42864516476065,
-    "lng": -63.114410437470795,
+    "lat": -58.08069973241183,
+    "lng": -69.41113839362197,
     "notes": "",
     "counts_for": [
       "100%"
@@ -806,8 +806,8 @@
     "id": "knife-14",
     "cat": "knife",
     "name": "Knife Flight #14",
-    "lat": -38.88802564328707,
-    "lng": -33.367143865156066,
+    "lat": -48.62349178416424,
+    "lng": -36.79779447334664,
     "notes": "",
     "counts_for": [
       "100%"
@@ -817,8 +817,8 @@
     "id": "knife-15",
     "cat": "knife",
     "name": "Knife Flight #15",
-    "lat": -38.27358909965521,
-    "lng": -33.66945348479342,
+    "lat": -48.05943617062523,
+    "lng": -37.12923089530065,
     "notes": "",
     "counts_for": [
       "100%"
@@ -828,8 +828,8 @@
     "id": "letter-01",
     "cat": "letter",
     "name": "Letter Scrap #1",
-    "lat": 77.34763870416234,
-    "lng": 25.538203522668084,
+    "lat": 77.31746073492734,
+    "lng": 27.770681249999996,
     "notes": "",
     "counts_for": [
       "100%",
@@ -840,8 +840,8 @@
     "id": "letter-02",
     "cat": "letter",
     "name": "Letter Scrap #2",
-    "lat": 76.01370745699329,
-    "lng": 24.7409896990211,
+    "lat": 75.86836239088572,
+    "lng": 26.896556250000003,
     "notes": "",
     "counts_for": [
       "100%",
@@ -852,8 +852,8 @@
     "id": "letter-03",
     "cat": "letter",
     "name": "Letter Scrap #3",
-    "lat": 66.22198730823582,
-    "lng": 77.80885655978886,
+    "lat": 64.95808787969287,
+    "lng": 85.08414375000001,
     "notes": "",
     "counts_for": [
       "100%",
@@ -864,8 +864,8 @@
     "id": "letter-04",
     "cat": "letter",
     "name": "Letter Scrap #4",
-    "lat": 65.15571268880043,
-    "lng": 36.36702462720632,
+    "lat": 63.747985400516335,
+    "lng": 39.64421250000001,
     "notes": "",
     "counts_for": [
       "100%",
@@ -876,8 +876,8 @@
     "id": "letter-05",
     "cat": "letter",
     "name": "Letter Scrap #5",
-    "lat": 54.96209834425514,
-    "lng": 22.01717580156057,
+    "lat": 52.04686919292843,
+    "lng": 23.909962499999978,
     "notes": "",
     "counts_for": [
       "100%",
@@ -888,8 +888,8 @@
     "id": "letter-06",
     "cat": "letter",
     "name": "Letter Scrap #6",
-    "lat": 42.070824345880894,
-    "lng": 28.17432389952745,
+    "lat": 37.093436714255894,
+    "lng": 30.66112124999998,
     "notes": "",
     "counts_for": [
       "100%",
@@ -900,8 +900,8 @@
     "id": "letter-07",
     "cat": "letter",
     "name": "Letter Scrap #7",
-    "lat": 29.777828934014927,
-    "lng": 20.874502654333213,
+    "lat": 22.906265223188615,
+    "lng": 22.657049999999998,
     "notes": "",
     "counts_for": [
       "100%",
@@ -912,8 +912,8 @@
     "id": "letter-08",
     "cat": "letter",
     "name": "Letter Scrap #8",
-    "lat": 16.0991458795763,
-    "lng": 11.188354697022334,
+    "lat": 7.434983023855098,
+    "lng": 12.036431249999993,
     "notes": "",
     "counts_for": [
       "100%",
@@ -924,8 +924,8 @@
     "id": "letter-09",
     "cat": "letter",
     "name": "Letter Scrap #9",
-    "lat": 10.067494799143997,
-    "lng": 67.88354445538386,
+    "lat": 0.7677895200265762,
+    "lng": 74.20128749999998,
     "notes": "",
     "counts_for": [
       "100%",
@@ -936,8 +936,8 @@
     "id": "letter-10",
     "cat": "letter",
     "name": "Letter Scrap #10",
-    "lat": -4.93581233236808,
-    "lng": 68.38844654369359,
+    "lat": -15.305888170077747,
+    "lng": 74.75490000000002,
     "notes": "",
     "counts_for": [
       "100%",
@@ -948,8 +948,8 @@
     "id": "letter-11",
     "cat": "letter",
     "name": "Letter Scrap #11",
-    "lat": -16.537720012434853,
-    "lng": 4.624627548995477,
+    "lat": -27.18116030451334,
+    "lng": 4.8394687499999804,
     "notes": "",
     "counts_for": [
       "100%",
@@ -960,8 +960,8 @@
     "id": "letter-12",
     "cat": "letter",
     "name": "Letter Scrap #12",
-    "lat": -40.57504186447374,
-    "lng": 14.443644476914216,
+    "lat": -50.159783851231616,
+    "lng": 15.605774999999994,
     "notes": "",
     "counts_for": [
       "100%",
@@ -972,8 +972,8 @@
     "id": "letter-13",
     "cat": "letter",
     "name": "Letter Scrap #13",
-    "lat": -47.80854112431825,
-    "lng": 15.612891418263132,
+    "lat": -56.64868936971439,
+    "lng": 16.887824999999992,
     "notes": "",
     "counts_for": [
       "100%",
@@ -984,8 +984,8 @@
     "id": "letter-14",
     "cat": "letter",
     "name": "Letter Scrap #14",
-    "lat": -47.61087733978917,
-    "lng": -6.456644599697626,
+    "lat": -56.47394845645818,
+    "lng": -7.310868749999997,
     "notes": "",
     "counts_for": [
       "100%",
@@ -996,8 +996,8 @@
     "id": "letter-15",
     "cat": "letter",
     "name": "Letter Scrap #15",
-    "lat": -51.6716202985412,
-    "lng": -11.213353747457973,
+    "lat": -60.03482716266642,
+    "lng": -12.52648124999999,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1008,8 +1008,8 @@
     "id": "letter-16",
     "cat": "letter",
     "name": "Letter Scrap #16",
-    "lat": -59.79527874023832,
-    "lng": -16.67958319826414,
+    "lat": -66.97553417884035,
+    "lng": -18.520065000000017,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1020,8 +1020,8 @@
     "id": "letter-17",
     "cat": "letter",
     "name": "Letter Scrap #17",
-    "lat": -60.569393562122,
-    "lng": 3.5749626811936253,
+    "lat": -67.62408079492673,
+    "lng": 3.6885374999999954,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1032,8 +1032,8 @@
     "id": "letter-18",
     "cat": "letter",
     "name": "Letter Scrap #18",
-    "lat": -64.69866670153078,
-    "lng": 62.621933219313746,
+    "lat": -71.04495784416788,
+    "lng": 68.4320625,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1044,8 +1044,8 @@
     "id": "letter-19",
     "cat": "letter",
     "name": "Letter Scrap #19",
-    "lat": -71.99973532766055,
-    "lng": 26.587868390469964,
+    "lat": -76.92705622985098,
+    "lng": 28.92161249999998,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1056,8 +1056,8 @@
     "id": "letter-20",
     "cat": "letter",
     "name": "Letter Scrap #20",
-    "lat": -73.40825097594025,
-    "lng": 6.391784858079632,
+    "lat": -78.03548948719786,
+    "lng": 6.777112499999987,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1068,8 +1068,8 @@
     "id": "letter-21",
     "cat": "letter",
     "name": "Letter Scrap #21",
-    "lat": -78.14161164730379,
-    "lng": 13.779299623875062,
+    "lat": -81.6893118618693,
+    "lng": 14.87733750000001,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1080,8 +1080,8 @@
     "id": "letter-22",
     "cat": "letter",
     "name": "Letter Scrap #22",
-    "lat": -76.38389490097684,
-    "lng": -15.664464262820303,
+    "lat": -80.34603574964584,
+    "lng": -17.407012500000008,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1092,8 +1092,8 @@
     "id": "letter-23",
     "cat": "letter",
     "name": "Letter Scrap #23",
-    "lat": -76.43096566999114,
-    "lng": -41.37461007543561,
+    "lat": -80.38222638653824,
+    "lng": -45.59754375,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1104,8 +1104,8 @@
     "id": "letter-24",
     "cat": "letter",
     "name": "Letter Scrap #24",
-    "lat": -75.06793714686515,
-    "lng": -37.906729942571246,
+    "lat": -79.32962253601835,
+    "lng": -41.79510000000002,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1116,8 +1116,8 @@
     "id": "letter-25",
     "cat": "letter",
     "name": "Letter Scrap #25",
-    "lat": -70.71989536149773,
-    "lng": -11.492378585734428,
+    "lat": -75.91215703179645,
+    "lng": -12.832425,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1128,8 +1128,8 @@
     "id": "letter-26",
     "cat": "letter",
     "name": "Letter Scrap #26",
-    "lat": -68.52269581836234,
-    "lng": -13.51198693897345,
+    "lat": -74.15333713271012,
+    "lng": -15.046875,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1140,8 +1140,8 @@
     "id": "letter-27",
     "cat": "letter",
     "name": "Letter Scrap #27",
-    "lat": -63.53899268093248,
-    "lng": -41.042437648916035,
+    "lat": -70.09086041059149,
+    "lng": -45.23332500000001,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1152,8 +1152,8 @@
     "id": "letter-28",
     "cat": "letter",
     "name": "Letter Scrap #28",
-    "lat": -65.0558035112933,
-    "lng": -50.19710972379559,
+    "lat": -71.33772687204657,
+    "lng": -55.27119375000001,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1164,8 +1164,8 @@
     "id": "letter-29",
     "cat": "letter",
     "name": "Letter Scrap #29",
-    "lat": -62.66926550562829,
-    "lng": -61.90286603434551,
+    "lat": -69.37189217025585,
+    "lng": -68.10626249999999,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1176,8 +1176,8 @@
     "id": "letter-30",
     "cat": "letter",
     "name": "Letter Scrap #30",
-    "lat": -52.864537395440585,
-    "lng": -46.45020475265477,
+    "lat": -61.06934176070135,
+    "lng": -51.16280625000002,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1188,8 +1188,8 @@
     "id": "letter-31",
     "cat": "letter",
     "name": "Letter Scrap #31",
-    "lat": -47.54782707510197,
-    "lng": -59.33849490161438,
+    "lat": -56.418179710057984,
+    "lng": -65.29449375,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1200,8 +1200,8 @@
     "id": "letter-32",
     "cat": "letter",
     "name": "Letter Scrap #32",
-    "lat": -43.163675666871434,
-    "lng": -93.8073632566979,
+    "lat": -52.50427076182039,
+    "lng": -103.08874499999999,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1212,8 +1212,8 @@
     "id": "letter-33",
     "cat": "letter",
     "name": "Letter Scrap #33",
-    "lat": -39.56346839303536,
-    "lng": -74.738008595062,
+    "lat": -49.236825414960784,
+    "lng": -82.179675,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1224,8 +1224,8 @@
     "id": "letter-34",
     "cat": "letter",
     "name": "Letter Scrap #34",
-    "lat": -42.82772344886241,
-    "lng": -22.74638039621769,
+    "lat": -52.20141239131746,
+    "lng": -25.17215625,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1236,8 +1236,8 @@
     "id": "letter-35",
     "cat": "letter",
     "name": "Letter Scrap #35",
-    "lat": -24.93222427419326,
-    "lng": -17.20574432187115,
+    "lat": -35.4558018107134,
+    "lng": -19.09698750000001,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1248,8 +1248,8 @@
     "id": "letter-36",
     "cat": "letter",
     "name": "Letter Scrap #36",
-    "lat": -11.996886724511963,
-    "lng": -54.66150713621872,
+    "lat": -22.593401482662745,
+    "lng": -60.166293749999994,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1260,8 +1260,8 @@
     "id": "letter-37",
     "cat": "letter",
     "name": "Letter Scrap #37",
-    "lat": -6.291204704348065,
-    "lng": -24.991865999490045,
+    "lat": -16.719038252914473,
+    "lng": -27.634275000000002,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1272,8 +1272,8 @@
     "id": "letter-38",
     "cat": "letter",
     "name": "Letter Scrap #38",
-    "lat": 6.898373258711304,
-    "lng": -29.29682064718378,
+    "lat": -2.6905730875331693,
+    "lng": -32.35455000000002,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1284,8 +1284,8 @@
     "id": "letter-39",
     "cat": "letter",
     "name": "Letter Scrap #39",
-    "lat": 11.43175254996195,
-    "lng": -8.715417100030749,
+    "lat": 2.2662838246835935,
+    "lng": -9.787556250000023,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1296,8 +1296,8 @@
     "id": "letter-40",
     "cat": "letter",
     "name": "Letter Scrap #40",
-    "lat": 26.588958429545727,
-    "lng": -6.443357702636831,
+    "lat": 19.262364071010758,
+    "lng": -7.296300000000002,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1308,8 +1308,8 @@
     "id": "letter-41",
     "cat": "letter",
     "name": "Letter Scrap #41",
-    "lat": 26.170285929772152,
-    "lng": -21.191813440106102,
+    "lat": 18.78542758317199,
+    "lng": -23.4676125,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1320,8 +1320,8 @@
     "id": "letter-42",
     "cat": "letter",
     "name": "Letter Scrap #42",
-    "lat": 23.847194752964977,
-    "lng": -36.39202367764196,
+    "lat": 16.14579663228111,
+    "lng": -40.134262500000006,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1332,8 +1332,8 @@
     "id": "letter-43",
     "cat": "letter",
     "name": "Letter Scrap #43",
-    "lat": 21.481713815485183,
-    "lng": -76.75761694830102,
+    "lat": 13.470490460041491,
+    "lng": -84.394125,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1344,8 +1344,8 @@
     "id": "letter-44",
     "cat": "letter",
     "name": "Letter Scrap #44",
-    "lat": 54.45295510908746,
-    "lng": -56.255934783512686,
+    "lat": 51.45795006439056,
+    "lng": -61.91454375000001,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1356,8 +1356,8 @@
     "id": "letter-45",
     "cat": "letter",
     "name": "Letter Scrap #45",
-    "lat": 55.404265958136236,
-    "lng": -13.551847630155805,
+    "lat": 52.55807941337113,
+    "lng": -15.090581250000014,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1368,8 +1368,8 @@
     "id": "letter-46",
     "cat": "letter",
     "name": "Letter Scrap #46",
-    "lat": 62.471052627219215,
-    "lng": -40.13892864878278,
+    "lat": 60.68729521482381,
+    "lng": -44.242650000000026,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1380,8 +1380,8 @@
     "id": "letter-47",
     "cat": "letter",
     "name": "Letter Scrap #47",
-    "lat": 69.19575973081766,
-    "lng": -28.898213735360287,
+    "lat": 68.31359957056395,
+    "lng": -31.91748750000002,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1392,8 +1392,8 @@
     "id": "letter-48",
     "cat": "letter",
     "name": "Letter Scrap #48",
-    "lat": 70.14200189212453,
-    "lng": -1.6467878636941293,
+    "lat": 69.37461682473878,
+    "lng": -2.0369812499999966,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1404,8 +1404,8 @@
     "id": "letter-49",
     "cat": "letter",
     "name": "Letter Scrap #49",
-    "lat": 75.91006368693613,
-    "lng": -24.22122596996462,
+    "lat": 75.7553073172077,
+    "lng": -26.7892875,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1416,8 +1416,8 @@
     "id": "letter-50",
     "cat": "letter",
     "name": "Letter Scrap #50",
-    "lat": 77.9807864502246,
-    "lng": -11.744829629889296,
+    "lat": 78.00118708374177,
+    "lng": -13.109231249999993,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1428,8 +1428,8 @@
     "id": "package-01",
     "cat": "package",
     "name": "Hidden Package #1",
-    "lat": 77.26842981252129,
-    "lng": -40.04592036935733,
+    "lat": 77.23173305961589,
+    "lng": -44.14066875,
     "notes": "",
     "counts_for": [
       "100%"
@@ -1439,8 +1439,8 @@
     "id": "package-02",
     "cat": "package",
     "name": "Hidden Package #2",
-    "lat": 76.48029724626774,
-    "lng": 73.31788535324415,
+    "lat": 76.37651196709248,
+    "lng": 80.15990624999995,
     "notes": "",
     "counts_for": [
       "100%"
@@ -1450,8 +1450,8 @@
     "id": "package-03",
     "cat": "package",
     "name": "Hidden Package #3",
-    "lat": 42.61952644696797,
-    "lng": 99.17418703352803,
+    "lat": 37.72999133298903,
+    "lng": 108.51069375000003,
     "notes": "",
     "counts_for": [
       "100%"
@@ -1461,8 +1461,8 @@
     "id": "package-04",
     "cat": "package",
     "name": "Hidden Package #4",
-    "lat": -49.548663359990584,
-    "lng": 70.62596000872949,
+    "lat": -58.18078739299183,
+    "lng": 77.20827750000001,
     "notes": "",
     "counts_for": [
       "100%"
@@ -1472,8 +1472,8 @@
     "id": "package-05",
     "cat": "package",
     "name": "Hidden Package #5",
-    "lat": -65.08956945373608,
-    "lng": 57.97151924803964,
+    "lat": -71.36538116037956,
+    "lng": 63.333,
     "notes": "",
     "counts_for": [
       "100%"
@@ -1483,8 +1483,8 @@
     "id": "package-06",
     "cat": "package",
     "name": "Hidden Package #6",
-    "lat": -77.91170318120004,
-    "lng": 33.762792803292854,
+    "lat": -81.51458949468217,
+    "lng": 36.788737499999996,
     "notes": "",
     "counts_for": [
       "100%"
@@ -1494,8 +1494,8 @@
     "id": "package-07",
     "cat": "package",
     "name": "Hidden Package #7",
-    "lat": -73.25890189895458,
-    "lng": -6.536365982062335,
+    "lat": -77.91839188465038,
+    "lng": -7.398281249999997,
     "notes": "",
     "counts_for": [
       "100%"
@@ -1505,8 +1505,8 @@
     "id": "package-08",
     "cat": "package",
     "name": "Hidden Package #8",
-    "lat": -77.25731542936398,
-    "lng": -17.09944914538488,
+    "lat": -81.01564241474878,
+    "lng": -18.980437500000022,
     "notes": "",
     "counts_for": [
       "100%"
@@ -1516,8 +1516,8 @@
     "id": "package-09",
     "cat": "package",
     "name": "Hidden Package #9",
-    "lat": -52.21486062547085,
-    "lng": -88.82211947949207,
+    "lat": -60.506583864087986,
+    "lng": -97.62254999999999,
     "notes": "",
     "counts_for": [
       "100%"
@@ -1527,8 +1527,8 @@
     "id": "package-10",
     "cat": "package",
     "name": "Hidden Package #10",
-    "lat": 30.620261750211775,
-    "lng": -97.99007845143242,
+    "lat": 23.872014499696537,
+    "lng": -107.67498749999999,
     "notes": "",
     "counts_for": [
       "100%"
@@ -1538,8 +1538,8 @@
     "id": "package-11",
     "cat": "package",
     "name": "Hidden Package #11",
-    "lat": 43.93184644650831,
-    "lng": -99.66422748109109,
+    "lat": 39.252946128213395,
+    "lng": -109.51065,
     "notes": "",
     "counts_for": [
       "100%"
@@ -1549,8 +1549,8 @@
     "id": "package-12",
     "cat": "package",
     "name": "Hidden Package #12",
-    "lat": 63.178414234373655,
-    "lng": -43.96555500228831,
+    "lat": 61.49552722488417,
+    "lng": -48.43845000000002,
     "notes": "",
     "counts_for": [
       "100%"
@@ -1560,8 +1560,8 @@
     "id": "package-13",
     "cat": "package",
     "name": "Hidden Package #13",
-    "lat": 63.0395111793205,
-    "lng": -42.092102516717915,
+    "lat": 61.33691245231128,
+    "lng": -46.38425625000002,
     "notes": "",
     "counts_for": [
       "100%"
@@ -1571,8 +1571,8 @@
     "id": "spaceship-01",
     "cat": "spaceship",
     "name": "Spaceship Part #1",
-    "lat": -76.60219621526586,
-    "lng": -4.516757628823285,
+    "lat": -80.51377921316084,
+    "lng": -5.183831250000026,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1583,8 +1583,8 @@
     "id": "spaceship-02",
     "cat": "spaceship",
     "name": "Spaceship Part #2",
-    "lat": -80.4624306913286,
-    "lng": -45.90544197316265,
+    "lat": -83.43518378118436,
+    "lng": -50.56548749999999,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1595,8 +1595,8 @@
     "id": "spaceship-03",
     "cat": "spaceship",
     "name": "Spaceship Part #3",
-    "lat": -79.22552030737457,
-    "lng": 3.3623723282210847,
+    "lat": -82.50886194033997,
+    "lng": 3.455437499999988,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1607,8 +1607,8 @@
     "id": "spaceship-04",
     "cat": "spaceship",
     "name": "Spaceship Part #4",
-    "lat": -76.8960023487921,
-    "lng": 28.75363261137761,
+    "lat": -80.7391402330228,
+    "lng": 31.296318749999983,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1619,8 +1619,8 @@
     "id": "spaceship-05",
     "cat": "spaceship",
     "name": "Spaceship Part #5",
-    "lat": -75.59534386109634,
-    "lng": 16.62269559488263,
+    "lat": -79.73803910387178,
+    "lng": 17.995049999999992,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1631,8 +1631,8 @@
     "id": "spaceship-06",
     "cat": "spaceship",
     "name": "Spaceship Part #6",
-    "lat": -71.970829432919,
-    "lng": -3.6796831139939457,
+    "lat": -76.90421429098349,
+    "lng": -4.2660000000000196,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1643,8 +1643,8 @@
     "id": "spaceship-07",
     "cat": "spaceship",
     "name": "Spaceship Part #7",
-    "lat": -67.3698366274197,
-    "lng": 32.77956242079489,
+    "lat": -73.22243801972282,
+    "lng": 35.71064999999999,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1655,8 +1655,8 @@
     "id": "spaceship-08",
     "cat": "spaceship",
     "name": "Spaceship Part #8",
-    "lat": -65.50804673146746,
-    "lng": -5.872021129023182,
+    "lat": -71.70774094489464,
+    "lng": -6.6698437500000125,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1667,8 +1667,8 @@
     "id": "spaceship-09",
     "cat": "spaceship",
     "name": "Spaceship Part #9",
-    "lat": -62.81603210057883,
-    "lng": -13.046945541846043,
+    "lat": -69.49342245525796,
+    "lng": -14.53696875,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1679,8 +1679,8 @@
     "id": "spaceship-10",
     "cat": "spaceship",
     "name": "Spaceship Part #10",
-    "lat": -62.23079046826425,
-    "lng": -37.44168854544381,
+    "lat": -69.00832011815282,
+    "lng": -41.28519375000002,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1691,8 +1691,8 @@
     "id": "spaceship-11",
     "cat": "spaceship",
     "name": "Spaceship Part #11",
-    "lat": -61.43030243303571,
-    "lng": 19.226927418796123,
+    "lat": -68.34268118344359,
+    "lng": 20.850525000000005,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1703,8 +1703,8 @@
     "id": "spaceship-12",
     "cat": "spaceship",
     "name": "Spaceship Part #12",
-    "lat": -26.244856496190472,
-    "lng": -11.346222718065803,
+    "lat": -36.725359816543026,
+    "lng": -12.672168749999997,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1715,8 +1715,8 @@
     "id": "spaceship-13",
     "cat": "spaceship",
     "name": "Spaceship Part #13",
-    "lat": -11.774760932808022,
-    "lng": -64.1882123288002,
+    "lat": -22.36698270111072,
+    "lng": -70.61208750000002,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1727,8 +1727,8 @@
     "id": "spaceship-14",
     "cat": "spaceship",
     "name": "Spaceship Part #14",
-    "lat": -56.320072057491366,
-    "lng": -1.0223037018373304,
+    "lat": -64.03636058754564,
+    "lng": -1.352249999999998,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1739,8 +1739,8 @@
     "id": "spaceship-15",
     "cat": "spaceship",
     "name": "Spaceship Part #15",
-    "lat": -53.85261783716955,
-    "lng": -8.14408052641707,
+    "lat": -61.92224255441307,
+    "lng": -9.161100000000005,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1751,8 +1751,8 @@
     "id": "spaceship-16",
     "cat": "spaceship",
     "name": "Spaceship Part #16",
-    "lat": -53.76589027121835,
-    "lng": -9.286753673644426,
+    "lat": -61.84752455684846,
+    "lng": -10.414012500000013,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1763,8 +1763,8 @@
     "id": "spaceship-17",
     "cat": "spaceship",
     "name": "Spaceship Part #17",
-    "lat": -53.1537613816173,
-    "lng": -44.93549848772548,
+    "lat": -61.31937003506897,
+    "lng": -49.50196875,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1775,8 +1775,8 @@
     "id": "spaceship-18",
     "cat": "spaceship",
     "name": "Spaceship Part #18",
-    "lat": -48.26388027273402,
-    "lng": -19.570811998690544,
+    "lat": -57.05067428793207,
+    "lng": -21.690224999999998,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1787,8 +1787,8 @@
     "id": "spaceship-19",
     "cat": "spaceship",
     "name": "Spaceship Part #19",
-    "lat": -46.748712806255064,
-    "lng": -24.354094940572452,
+    "lat": -55.71008033447512,
+    "lng": -26.93497500000001,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1799,8 +1799,8 @@
     "id": "spaceship-20",
     "cat": "spaceship",
     "name": "Spaceship Part #20",
-    "lat": -45.133234422799575,
-    "lng": -44.74948192887453,
+    "lat": -54.27138335202829,
+    "lng": -49.298006249999986,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1811,8 +1811,8 @@
     "id": "spaceship-21",
     "cat": "spaceship",
     "name": "Spaceship Part #21",
-    "lat": -43.08181031958942,
-    "lng": 31.251569258804835,
+    "lat": -52.43050843160564,
+    "lng": 34.03524374999998,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1823,8 +1823,8 @@
     "id": "spaceship-22",
     "cat": "spaceship",
     "name": "Spaceship Part #22",
-    "lat": -32.25187577717106,
-    "lng": 38.71880540696495,
+    "lat": -42.45147799530022,
+    "lng": 42.22288125,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1835,8 +1835,8 @@
     "id": "spaceship-23",
     "cat": "spaceship",
     "name": "Spaceship Part #23",
-    "lat": -30.358204797865852,
-    "lng": -12.900789674177418,
+    "lat": -40.66117272273369,
+    "lng": -14.376712499999996,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1847,8 +1847,8 @@
     "id": "spaceship-24",
     "cat": "spaceship",
     "name": "Spaceship Part #24",
-    "lat": -26.675190851529994,
-    "lng": 63.57858980769009,
+    "lat": -37.14014109695325,
+    "lng": 69.48101249999999,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1859,8 +1859,8 @@
     "id": "spaceship-25",
     "cat": "spaceship",
     "name": "Spaceship Part #25",
-    "lat": -24.8716686613565,
-    "lng": -54.16989194496976,
+    "lat": -35.39707457154885,
+    "lng": -59.627250000000004,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1871,8 +1871,8 @@
     "id": "spaceship-26",
     "cat": "spaceship",
     "name": "Spaceship Part #26",
-    "lat": -19.180926437817526,
-    "lng": -24.261086661146976,
+    "lat": -29.81563488848404,
+    "lng": -26.832993750000014,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1883,8 +1883,8 @@
     "id": "spaceship-27",
     "cat": "spaceship",
     "name": "Spaceship Part #27",
-    "lat": -10.188747681210604,
-    "lng": -88.17106152351371,
+    "lat": -20.74493612553626,
+    "lng": -96.90868125,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1895,8 +1895,8 @@
     "id": "spaceship-28",
     "cat": "spaceship",
     "name": "Spaceship Part #28",
-    "lat": 9.343623049227752,
-    "lng": 70.02273488216994,
+    "lat": -0.024960936710447447,
+    "lng": 76.54685624999996,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1907,8 +1907,8 @@
     "id": "spaceship-29",
     "cat": "spaceship",
     "name": "Spaceship Part #29",
-    "lat": 0.4791849224477105,
-    "lng": 8.172229064224581,
+    "lat": -9.593990414762892,
+    "lng": 8.729324999999989,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1919,8 +1919,8 @@
     "id": "spaceship-30",
     "cat": "spaceship",
     "name": "Spaceship Part #30",
-    "lat": 2.8814269790125144,
-    "lng": -65.17144271129816,
+    "lat": -7.026927146180482,
+    "lng": -71.690175,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1931,8 +1931,8 @@
     "id": "spaceship-31",
     "cat": "spaceship",
     "name": "Spaceship Part #31",
-    "lat": 7.878243006631526,
-    "lng": -51.698529091664085,
+    "lat": -1.6247040971900433,
+    "lng": -56.917462499999985,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1943,8 +1943,8 @@
     "id": "spaceship-32",
     "cat": "spaceship",
     "name": "Spaceship Part #32",
-    "lat": 9.251383395093088,
-    "lng": 22.840963419329114,
+    "lat": -0.12585927378157358,
+    "lng": 24.81322499999999,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1955,8 +1955,8 @@
     "id": "spaceship-33",
     "cat": "spaceship",
     "name": "Spaceship Part #33",
-    "lat": 10.277776427112054,
-    "lng": -8.941294350064055,
+    "lat": 0.9983869718766063,
+    "lng": -10.035224999999997,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1967,8 +1967,8 @@
     "id": "spaceship-34",
     "cat": "spaceship",
     "name": "Spaceship Part #34",
-    "lat": 26.67251038124998,
-    "lng": 10.112116035098921,
+    "lat": 19.357586291298,
+    "lng": 10.856362499999989,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1979,8 +1979,8 @@
     "id": "spaceship-35",
     "cat": "spaceship",
     "name": "Spaceship Part #35",
-    "lat": 27.930175144320103,
-    "lng": 38.6656578187218,
+    "lat": 20.792600183651366,
+    "lng": 42.16460625000002,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1991,8 +1991,8 @@
     "id": "spaceship-36",
     "cat": "spaceship",
     "name": "Spaceship Part #36",
-    "lat": 28.869799885196226,
-    "lng": -23.889053543445073,
+    "lat": 21.866719126533102,
+    "lng": -26.42506875000001,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2003,8 +2003,8 @@
     "id": "spaceship-37",
     "cat": "spaceship",
     "name": "Spaceship Part #37",
-    "lat": 35.98448175398505,
-    "lng": -11.611960659281465,
+    "lat": 30.047185550591166,
+    "lng": -12.963543749999985,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2015,8 +2015,8 @@
     "id": "spaceship-38",
     "cat": "spaceship",
     "name": "Spaceship Part #38",
-    "lat": 40.02283965871093,
-    "lng": 37.615992950919946,
+    "lat": 34.71907603870136,
+    "lng": 41.013675000000006,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2027,8 +2027,8 @@
     "id": "spaceship-39",
     "cat": "spaceship",
     "name": "Spaceship Part #39",
-    "lat": 42.190248047443816,
-    "lng": -29.042509437440373,
+    "lat": 37.23196868630363,
+    "lng": -32.075704125000016,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2039,8 +2039,8 @@
     "id": "spaceship-40",
     "cat": "spaceship",
     "name": "Spaceship Part #40",
-    "lat": 46.213374495092,
-    "lng": 53.374252865008714,
+    "lat": 41.90175371342518,
+    "lng": 58.29221249999998,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2051,8 +2051,8 @@
     "id": "spaceship-41",
     "cat": "spaceship",
     "name": "Spaceship Part #41",
-    "lat": 47.464622966164534,
-    "lng": 25.97667112567393,
+    "lat": 43.35458199789091,
+    "lng": 28.251450000000006,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2063,8 +2063,8 @@
     "id": "spaceship-42",
     "cat": "spaceship",
     "name": "Spaceship Part #42",
-    "lat": 56.949944399722256,
-    "lng": -27.56952402928198,
+    "lat": 54.34317355735576,
+    "lng": -30.460612499999996,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2075,8 +2075,8 @@
     "id": "spaceship-43",
     "cat": "spaceship",
     "name": "Spaceship Part #43",
-    "lat": 56.97178423553096,
-    "lng": 88.01319350247024,
+    "lat": 54.36837295976498,
+    "lng": 96.27294374999997,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2087,8 +2087,8 @@
     "id": "spaceship-44",
     "cat": "spaceship",
     "name": "Spaceship Part #44",
-    "lat": 59.00260088652931,
-    "lng": -65.14486891717661,
+    "lat": 56.708365270753085,
+    "lng": -71.66103749999999,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2099,8 +2099,8 @@
     "id": "spaceship-45",
     "cat": "spaceship",
     "name": "Spaceship Part #45",
-    "lat": 61.58175181500564,
-    "lng": 51.24834933528339,
+    "lat": 59.669515973299404,
+    "lng": 55.96121249999999,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2111,8 +2111,8 @@
     "id": "spaceship-46",
     "cat": "spaceship",
     "name": "Spaceship Part #46",
-    "lat": 68.66779210515128,
-    "lng": -51.81811116521115,
+    "lat": 67.72011097515576,
+    "lng": -57.04858125,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2123,8 +2123,8 @@
     "id": "spaceship-47",
     "cat": "spaceship",
     "name": "Spaceship Part #47",
-    "lat": 70.3854860342692,
-    "lng": 44.84406495198593,
+    "lat": 69.64706215645337,
+    "lng": 48.939075,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2135,8 +2135,8 @@
     "id": "spaceship-48",
     "cat": "spaceship",
     "name": "Spaceship Part #48",
-    "lat": 70.9686502763681,
-    "lng": -26.905179176242825,
+    "lat": 70.29860028548518,
+    "lng": -29.732175000000012,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2147,8 +2147,8 @@
     "id": "spaceship-49",
     "cat": "spaceship",
     "name": "Spaceship Part #49",
-    "lat": 74.32005233568353,
-    "lng": -23.64988939635097,
+    "lat": 74.01315402808474,
+    "lng": -26.16283125000001,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2159,8 +2159,8 @@
     "id": "spaceship-50",
     "cat": "spaceship",
     "name": "Spaceship Part #50",
-    "lat": 76.79504215384931,
-    "lng": -1.7929437313627545,
+    "lat": 76.7185273060161,
+    "lng": -2.1972375,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2171,8 +2171,8 @@
     "id": "stunt-01",
     "cat": "stunt",
     "name": "Stunt Jump #1 - Burton",
-    "lat": -48.15410058805112,
-    "lng": -19.823672905403015,
+    "lat": -56.959057271070094,
+    "lng": -21.949442769806637,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2183,8 +2183,8 @@
     "id": "stunt-02",
     "cat": "stunt",
     "name": "Stunt Jump #2 - Downtown",
-    "lat": -53.565398816920315,
-    "lng": -15.107642839060446,
+    "lat": -61.67984980931871,
+    "lng": -16.779034587323963,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2195,8 +2195,8 @@
     "id": "stunt-03",
     "cat": "stunt",
     "name": "Stunt Jump #3 - Textile City",
-    "lat": -54.76875043961507,
-    "lng": -5.312811162810476,
+    "lat": -62.714943729260575,
+    "lng": -6.040494516013808,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2207,8 +2207,8 @@
     "id": "stunt-04",
     "cat": "stunt",
     "name": "Stunt Jump #4 - La Mesa",
-    "lat": -54.34803229044552,
-    "lng": 1.942619708485779,
+    "lat": -62.353661438918955,
+    "lng": 1.913979610882592,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2219,8 +2219,8 @@
     "id": "stunt-05",
     "cat": "stunt",
     "name": "Stunt Jump #5 - Pillbox Hill",
-    "lat": -56.94003307975637,
-    "lng": -12.689165881961713,
+    "lat": -64.56904838306484,
+    "lng": -14.12754321169183,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2231,8 +2231,8 @@
     "id": "stunt-06",
     "cat": "stunt",
     "name": "Stunt Jump #6 - Pillbox Hill/Elgin Ave",
-    "lat": -60.57383993731674,
-    "lng": -14.14025205622093,
+    "lat": -67.63267636005826,
+    "lng": -15.718438037071138,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2243,8 +2243,8 @@
     "id": "stunt-07",
     "cat": "stunt",
     "name": "Stunt Jump #7 - Strawberry",
-    "lat": -62.41980281131188,
-    "lng": -3.740801140696277,
+    "lat": -69.16989800809712,
+    "lng": -4.317025121852936,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2255,8 +2255,8 @@
     "id": "stunt-08",
     "cat": "stunt",
     "name": "Stunt Jump #8 - Strawberry",
-    "lat": -64.8867060248533,
-    "lng": -0.4758572486129822,
+    "lat": -71.20375337226832,
+    "lng": -0.7375117647495415,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2267,8 +2267,8 @@
     "id": "stunt-09",
     "cat": "stunt",
     "name": "Stunt Jump #9 - Rancho/Innocence Blvd",
-    "lat": -67.61119961213194,
-    "lng": -2.6524865100018644,
+    "lat": -73.42213081725068,
+    "lng": -3.1238540028184616,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2279,8 +2279,8 @@
     "id": "stunt-10",
     "cat": "stunt",
     "name": "Stunt Jump #10 - El Burro Heights",
-    "lat": -73.06867757618421,
-    "lng": 25.885541583763484,
+    "lat": -77.77284212017719,
+    "lng": 28.1637442296408,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2291,8 +2291,8 @@
     "id": "stunt-11",
     "cat": "stunt",
     "name": "Stunt Jump #11 - Terminal/Buccaneer Way",
-    "lat": -77.6727437674873,
-    "lng": 8.10973594908765,
+    "lat": -81.33574948001292,
+    "lng": 8.675282618744575,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2303,8 +2303,8 @@
     "id": "stunt-12",
     "cat": "stunt",
     "name": "Stunt Jump #12 - Elysian Island",
-    "lat": -78.10402010913766,
-    "lng": 3.7564774263098855,
+    "lat": -81.66377309731494,
+    "lng": 3.9025981426067062,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2315,8 +2315,8 @@
     "id": "stunt-13",
     "cat": "stunt",
     "name": "Stunt Jump #13 - Elysian Island",
-    "lat": -75.02705005197257,
-    "lng": -3.740801140696277,
+    "lat": -79.30138449248871,
+    "lng": -4.317025121852936,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2327,8 +2327,8 @@
     "id": "stunt-14",
     "cat": "stunt",
     "name": "Stunt Jump #14 - Elysian Island/Plaice PL",
-    "lat": -75.66927642319335,
-    "lng": -3.9826488364061845,
+    "lat": -79.79856906465926,
+    "lng": -4.582174259416149,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2339,8 +2339,8 @@
     "id": "stunt-15",
     "cat": "stunt",
     "name": "Stunt Jump #15 - Elysian Island",
-    "lat": -76.92862433644181,
-    "lng": -8.5777550548938,
+    "lat": -80.76733276313685,
+    "lng": -9.620007873117203,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2351,8 +2351,8 @@
     "id": "stunt-16",
     "cat": "stunt",
     "name": "Stunt Jump #16 - Elysian Island",
-    "lat": -76.95594494721908,
-    "lng": -10.270688924862924,
+    "lat": -80.78825609402081,
+    "lng": -11.476051836059696,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2363,8 +2363,8 @@
     "id": "stunt-17",
     "cat": "stunt",
     "name": "Stunt Jump #17 - Elysian Island/Elysian Fields Fwy",
-    "lat": -77.9535296227536,
-    "lng": -8.940526598458604,
+    "lat": -81.54943236487556,
+    "lng": -10.017731579462037,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2375,8 +2375,8 @@
     "id": "stunt-18",
     "cat": "stunt",
     "name": "Stunt Jump #18 - Elysian Island",
-    "lat": -79.24303364622045,
-    "lng": -10.028841229153073,
+    "lat": -82.52485861392266,
+    "lng": -11.210902698496483,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2387,8 +2387,8 @@
     "id": "stunt-19",
     "cat": "stunt",
     "name": "Stunt Jump #19 - Elysian Island/Voodoo Place",
-    "lat": -78.30179504981078,
-    "lng": -8.094059663474042,
+    "lat": -81.81384109825007,
+    "lng": -9.089709597990776,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2399,8 +2399,8 @@
     "id": "stunt-20",
     "cat": "stunt",
     "name": "Stunt Jump #20 - Elysian Island/Voodoo Place",
-    "lat": -77.8011638386939,
-    "lng": -5.675582706375309,
+    "lat": -81.43353486476222,
+    "lng": -6.438218222358643,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2411,8 +2411,8 @@
     "id": "stunt-21",
     "cat": "stunt",
     "name": "Stunt Jump #21 - Banning",
-    "lat": -72.64092765200712,
-    "lng": -10.754384316282682,
+    "lat": -77.43656930935994,
+    "lng": -12.006350111186123,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2423,8 +2423,8 @@
     "id": "stunt-22",
     "cat": "stunt",
     "name": "Stunt Jump #22 - Los Santos International Airport/New Empire Way",
-    "lat": -75.12049069100053,
-    "lng": -35.54377312654495,
+    "lat": -79.37385100311452,
+    "lng": -39.18413671141556,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2435,8 +2435,8 @@
     "id": "stunt-23",
     "cat": "stunt",
     "name": "Stunt Jump #23 - Los Santos International Airport/New Empire Way",
-    "lat": -76.3702583963074,
-    "lng": -38.44594547506347,
+    "lat": -80.33883409151873,
+    "lng": -42.36592636217412,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2447,8 +2447,8 @@
     "id": "stunt-24",
     "cat": "stunt",
     "name": "Stunt Jump #24 - Los Santos International Airport/New Empire Way",
-    "lat": -74.74327533642331,
-    "lng": -40.38072704074247,
+    "lat": -79.08104185454089,
+    "lng": -44.48711946267986,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2459,8 +2459,8 @@
     "id": "stunt-25",
     "cat": "stunt",
     "name": "Stunt Jump #25 - La Puerta",
-    "lat": -66.81509560103366,
-    "lng": -24.78155066745549,
+    "lat": -72.77699397030582,
+    "lng": -27.385000089852525,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2471,8 +2471,8 @@
     "id": "stunt-26",
     "cat": "stunt",
     "name": "Stunt Jump #26 - La Puerta",
-    "lat": -66.38286796168096,
-    "lng": -30.102199973072743,
+    "lat": -72.42565847258923,
+    "lng": -33.21828111624325,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2483,8 +2483,8 @@
     "id": "stunt-27",
     "cat": "stunt",
     "name": "Stunt Jump #27 - La Puerta/Dutch London St",
-    "lat": -66.23711111119954,
-    "lng": -27.68372301597398,
+    "lat": -72.30701127292441,
+    "lng": -30.566789740611114,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2495,8 +2495,8 @@
     "id": "stunt-28",
     "cat": "stunt",
     "name": "Stunt Jump #28 - Little Seoul",
-    "lat": -64.98915253440764,
-    "lng": -25.5070937545851,
+    "lat": -71.28770315197572,
+    "lng": -28.180447502542194,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2507,8 +2507,8 @@
     "id": "stunt-29",
     "cat": "stunt",
     "name": "Stunt Jump #29 - Little Seoul/La Puerta Fwy",
-    "lat": -62.30762015948592,
-    "lng": -25.144322211020295,
+    "lat": -69.0768493475621,
+    "lng": -27.78272379619736,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2519,8 +2519,8 @@
     "id": "stunt-30",
     "cat": "stunt",
     "name": "Stunt Jump #30 - Little Seoul/Adam's Apple Blvd",
-    "lat": -61.162502994889934,
-    "lng": -31.06959075591226,
+    "lat": -68.12429287009935,
+    "lng": -34.2788776664961,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2531,8 +2531,8 @@
     "id": "stunt-31",
     "cat": "stunt",
     "name": "Stunt Jump #31 - Pillbox Hill",
-    "lat": -56.74160961045856,
-    "lng": -21.395682927517214,
+    "lat": -64.40033755939139,
+    "lng": -23.67291216396754,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2543,8 +2543,8 @@
     "id": "stunt-32",
     "cat": "stunt",
     "name": "Stunt Jump #32 - Little Seoul",
-    "lat": -52.694785060346426,
-    "lng": -25.74894145029498,
+    "lat": -60.92763022548658,
+    "lng": -28.445596640105407,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2555,8 +2555,8 @@
     "id": "stunt-33",
     "cat": "stunt",
     "name": "Stunt Jump #33 - Little Seoul/Vespucci Blvd",
-    "lat": -58.172463186614785,
-    "lng": -36.87393545294927,
+    "lat": -65.61364309780065,
+    "lng": -40.64245696801325,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2567,8 +2567,8 @@
     "id": "stunt-34",
     "cat": "stunt",
     "name": "Stunt Jump #34 - Del Perro/Equality Way",
-    "lat": -56.74160961045856,
-    "lng": -56.58452265330415,
+    "lat": -64.40033755939139,
+    "lng": -62.252111679415194,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2579,8 +2579,8 @@
     "id": "stunt-35",
     "cat": "stunt",
     "name": "Stunt Jump #35 - Pacific Bluffs",
-    "lat": -49.349933903668436,
-    "lng": -68.79783128665288,
+    "lat": -58.01160500507599,
+    "lng": -75.64214312635748,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2591,8 +2591,8 @@
     "id": "stunt-36",
     "cat": "stunt",
     "name": "Stunt Jump #36 - Burton",
-    "lat": -45.16748711837598,
-    "lng": -29.134809190233256,
+    "lat": -54.307203102110094,
+    "lng": -32.157684565990394,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2603,8 +2603,8 @@
     "id": "stunt-37",
     "cat": "stunt",
     "name": "Stunt Jump #37 - Rockford Hills",
-    "lat": -45.929621543902044,
-    "lng": -34.697306191560386,
+    "lat": -54.98705116566554,
+    "lng": -38.2561147299443,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2615,8 +2615,8 @@
     "id": "stunt-38",
     "cat": "stunt",
     "name": "Stunt Jump #38 - GWC Golfing Society",
-    "lat": -43.78706332626597,
-    "lng": -42.67828014998628,
+    "lat": -53.07033537132388,
+    "lng": -47.00603626953037,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2627,8 +2627,8 @@
     "id": "stunt-39",
     "cat": "stunt",
     "name": "Stunt Jump #39 - Richman",
-    "lat": -35.714632064196024,
-    "lng": -52.35218797838132,
+    "lat": -45.695044077642166,
+    "lng": -57.61200177205893,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2639,8 +2639,8 @@
     "id": "stunt-40",
     "cat": "stunt",
     "name": "Stunt Jump #40 - Vinewood Hills",
-    "lat": -2.6076043870032435,
-    "lng": -13.535632816946276,
+    "lat": -12.86456916593516,
+    "lng": -15.05556519316309,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2651,8 +2651,8 @@
     "id": "stunt-41",
     "cat": "stunt",
     "name": "Stunt Jump #41 - Raton Canyon",
-    "lat": 52.610941954922815,
-    "lng": -38.80871701862827,
+    "lat": 49.33033674057088,
+    "lng": -42.763650068518956,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2663,8 +2663,8 @@
     "id": "stunt-42",
     "cat": "stunt",
     "name": "Stunt Jump #42 - Alamo Sea",
-    "lat": 54.82849347117929,
-    "lng": -0.11308570504814952,
+    "lat": 51.89761866446604,
+    "lng": -0.33978805840470727,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2675,8 +2675,8 @@
     "id": "stunt-43",
     "cat": "stunt",
     "name": "Stunt Jump #43 - Paleto Bay/Procopio Promenade",
-    "lat": 77.48697268598468,
-    "lng": -18.13073903543389,
+    "lat": 77.47198608647085,
+    "lng": -20.093398806864144,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2687,8 +2687,8 @@
     "id": "stunt-44",
     "cat": "stunt",
     "name": "Stunt Jump #44 - Paleto Bay",
-    "lat": 76.95204323514189,
-    "lng": -13.414708969091322,
+    "lat": 76.89281351989429,
+    "lng": -14.92299062438147,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2699,8 +2699,8 @@
     "id": "stunt-45",
     "cat": "stunt",
     "name": "Stunt Jump #45 - Mount Gordo",
-    "lat": 66.23014527305864,
-    "lng": 75.7061668999979,
+    "lat": 64.97242665916036,
+    "lng": 82.78446656766289,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2711,8 +2711,8 @@
     "id": "stunt-46",
     "cat": "stunt",
     "name": "Stunt Jump #46 - Sandy Shores",
-    "lat": 42.71762888227938,
-    "lng": 29.75510471512149,
+    "lat": 37.848358913938114,
+    "lng": 32.40613043065224,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2723,8 +2723,8 @@
     "id": "stunt-47",
     "cat": "stunt",
     "name": "Stunt Jump #47 - Grand Senora Desert",
-    "lat": 33.10697006170142,
-    "lng": 31.327114737235718,
+    "lat": 26.733005638797074,
+    "lng": 34.12959982481311,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2735,8 +2735,8 @@
     "id": "stunt-48",
     "cat": "stunt",
     "name": "Stunt Jump #48 - Grand Senora Desert",
-    "lat": 12.290691922689886,
-    "lng": 32.052657824365326,
+    "lat": 3.213173674494792,
+    "lng": 34.92504723750278,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2747,8 +2747,8 @@
     "id": "stunt-49",
     "cat": "stunt",
     "name": "Stunt Jump #49 - Grand Senora Desert",
-    "lat": 5.2442074806396874,
-    "lng": 33.382820150769476,
+    "lat": -4.483342520043572,
+    "lng": 36.38336749410024,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2759,8 +2759,8 @@
     "id": "stunt-50",
     "cat": "stunt",
     "name": "Stunt Jump #50 - Ron Alternates Wind Farm",
-    "lat": 2.952684164656157,
-    "lng": 39.670860239226386,
+    "lat": -6.951365738944864,
+    "lng": 43.277245070744016,
     "notes": "",
     "counts_for": [
       "100%",
@@ -2771,8 +2771,8 @@
     "id": "submarine-01",
     "cat": "submarine",
     "name": "Submarine Part #1",
-    "lat": 77.93900723342912,
-    "lng": -37.68085269253791,
+    "lat": 77.95615563073989,
+    "lng": -41.54743124999999,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2782,8 +2782,8 @@
     "id": "submarine-02",
     "cat": "submarine",
     "name": "Submarine Part #2",
-    "lat": 78.17661430470804,
-    "lng": -39.71374794283773,
+    "lat": 78.2120945681844,
+    "lng": -43.77645000000001,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2793,8 +2793,8 @@
     "id": "submarine-03",
     "cat": "submarine",
     "name": "Submarine Part #3",
-    "lat": 78.38274808768294,
-    "lng": -41.069011443037596,
+    "lat": 78.43380540351099,
+    "lng": -45.2624625,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2804,8 +2804,8 @@
     "id": "submarine-04",
     "cat": "submarine",
     "name": "Submarine Part #4",
-    "lat": 76.96175957344572,
-    "lng": 72.5339584266579,
+    "lat": 76.89943401911773,
+    "lng": 79.30034999999998,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2815,8 +2815,8 @@
     "id": "submarine-05",
     "cat": "submarine",
     "name": "Submarine Part #5",
-    "lat": 76.55811526086026,
-    "lng": 73.42418052973039,
+    "lat": 76.46113046552773,
+    "lng": 80.27645624999997,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2826,8 +2826,8 @@
     "id": "submarine-06",
     "cat": "submarine",
     "name": "Submarine Part #6",
-    "lat": -48.83838799918863,
-    "lng": 70.38148110281108,
+    "lat": -57.55677217445009,
+    "lng": 76.94021249999997,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2837,8 +2837,8 @@
     "id": "submarine-07",
     "cat": "submarine",
     "name": "Submarine Part #7",
-    "lat": -49.42375489694551,
-    "lng": 70.74022732345219,
+    "lat": -58.07118344441616,
+    "lng": 77.33356874999998,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2848,8 +2848,8 @@
     "id": "submarine-08",
     "cat": "submarine",
     "name": "Submarine Part #8",
-    "lat": -50.8494449430447,
-    "lng": 71.47897880003174,
+    "lat": -59.31876963390671,
+    "lng": 78.14359125000004,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2859,8 +2859,8 @@
     "id": "submarine-09",
     "cat": "submarine",
     "name": "Submarine Part #9",
-    "lat": -51.34751697703035,
-    "lng": 71.73674460301095,
+    "lat": -59.75285337880192,
+    "lng": 78.42622499999999,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2870,8 +2870,8 @@
     "id": "submarine-10",
     "cat": "submarine",
     "name": "Submarine Part #10",
-    "lat": -77.54851227642327,
-    "lng": 35.01176112700645,
+    "lat": -81.23796513089712,
+    "lng": 38.158199999999994,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2881,8 +2881,8 @@
     "id": "submarine-11",
     "cat": "submarine",
     "name": "Submarine Part #11",
-    "lat": -77.81626088367484,
-    "lng": 33.56348934738108,
+    "lat": -81.44196802737815,
+    "lng": 36.57020625000001,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2892,8 +2892,8 @@
     "id": "submarine-12",
     "cat": "submarine",
     "name": "Submarine Part #12",
-    "lat": -77.98419115633745,
-    "lng": 33.576776244441874,
+    "lat": -81.56971050130416,
+    "lng": 36.58477500000001,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2903,8 +2903,8 @@
     "id": "submarine-13",
     "cat": "submarine",
     "name": "Submarine Part #13",
-    "lat": -78.22909530415856,
-    "lng": 22.07032338980372,
+    "lat": -81.75571645152955,
+    "lng": 23.968237500000015,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2914,8 +2914,8 @@
     "id": "submarine-14",
     "cat": "submarine",
     "name": "Submarine Part #14",
-    "lat": -77.22192476357455,
-    "lng": 17.140884580253186,
+    "lat": -80.98859047179947,
+    "lng": 18.563231249999973,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2925,8 +2925,8 @@
     "id": "submarine-15",
     "cat": "submarine",
     "name": "Submarine Part #15",
-    "lat": -77.12410131692151,
-    "lng": 11.958994726547786,
+    "lat": -80.91378040559611,
+    "lng": 12.881418750000023,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2936,8 +2936,8 @@
     "id": "submarine-16",
     "cat": "submarine",
     "name": "Submarine Part #16",
-    "lat": -77.2720330737089,
-    "lng": 7.268720064091326,
+    "lat": -81.02689027245476,
+    "lng": 7.738650000000007,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2947,8 +2947,8 @@
     "id": "submarine-17",
     "cat": "submarine",
     "name": "Submarine Part #17",
-    "lat": -80.35112624006057,
-    "lng": 10.65634733870857,
+    "lat": -83.35223755279286,
+    "lng": 11.45309850000001,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2958,8 +2958,8 @@
     "id": "submarine-18",
     "cat": "submarine",
     "name": "Submarine Part #18",
-    "lat": -80.2612384091369,
-    "lng": 4.810644107846429,
+    "lat": -83.2851907190156,
+    "lng": 5.043431249999969,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2969,8 +2969,8 @@
     "id": "submarine-19",
     "cat": "submarine",
     "name": "Submarine Part #19",
-    "lat": -79.19302178050168,
-    "lng": -3.653109319872385,
+    "lat": -82.48439266113407,
+    "lng": -4.236862500000001,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2980,8 +2980,8 @@
     "id": "submarine-20",
     "cat": "submarine",
     "name": "Submarine Part #20",
-    "lat": -74.6847491460995,
-    "lng": 1.9273874456565068,
+    "lat": -79.03201799225793,
+    "lng": 1.8820125000000019,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2991,8 +2991,8 @@
     "id": "submarine-21",
     "cat": "submarine",
     "name": "Submarine Part #21",
-    "lat": -72.76345815413472,
-    "lng": 3.415519916464234,
+    "lat": -77.52919661710543,
+    "lng": 3.513712499999997,
     "notes": "",
     "counts_for": [
       "100%"
@@ -3002,8 +3002,8 @@
     "id": "submarine-22",
     "cat": "submarine",
     "name": "Submarine Part #22",
-    "lat": -73.08495311540848,
-    "lng": -8.715417100030749,
+    "lat": -77.7818759026483,
+    "lng": -9.787556250000023,
     "notes": "",
     "counts_for": [
       "100%"
@@ -3013,8 +3013,8 @@
     "id": "submarine-23",
     "cat": "submarine",
     "name": "Submarine Part #23",
-    "lat": -77.05548631642166,
-    "lng": -31.88776557403648,
+    "lat": -80.86127619016872,
+    "lng": -35.19545625000001,
     "notes": "",
     "counts_for": [
       "100%"
@@ -3024,8 +3024,8 @@
     "id": "submarine-24",
     "cat": "submarine",
     "name": "Submarine Part #24",
-    "lat": 29.98622077706692,
-    "lng": -98.04322603967555,
+    "lat": 23.145047429746352,
+    "lng": -107.7332625,
     "notes": "",
     "counts_for": [
       "100%"
@@ -3035,8 +3035,8 @@
     "id": "submarine-25",
     "cat": "submarine",
     "name": "Submarine Part #25",
-    "lat": 30.769524996181126,
-    "lng": -97.96350465731086,
+    "lat": 24.043253436943044,
+    "lng": -107.64585,
     "notes": "",
     "counts_for": [
       "100%"
@@ -3046,8 +3046,8 @@
     "id": "submarine-26",
     "cat": "submarine",
     "name": "Submarine Part #26",
-    "lat": 43.11861791049044,
-    "lng": -96.9935611718737,
+    "lat": 38.3091116306103,
+    "lng": -106.58233125000001,
     "notes": "",
     "counts_for": [
       "100%"
@@ -3057,8 +3057,8 @@
     "id": "submarine-27",
     "cat": "submarine",
     "name": "Submarine Part #27",
-    "lat": 44.01832764015637,
-    "lng": -100.06283439291458,
+    "lat": 39.35332922869058,
+    "lng": -109.9477125,
     "notes": "",
     "counts_for": [
       "100%"
@@ -3068,8 +3068,8 @@
     "id": "submarine-28",
     "cat": "submarine",
     "name": "Submarine Part #28",
-    "lat": 44.219627259820285,
-    "lng": -100.72717924595374,
+    "lat": 39.58699622564688,
+    "lng": -110.67615,
     "notes": "",
     "counts_for": [
       "100%"
@@ -3079,8 +3079,8 @@
     "id": "submarine-29",
     "cat": "submarine",
     "name": "Submarine Part #29",
-    "lat": 44.75307275456984,
-    "lng": -102.72021380507121,
+    "lat": 40.20626556341279,
+    "lng": -112.8614625,
     "notes": "",
     "counts_for": [
       "100%"
@@ -3090,8 +3090,8 @@
     "id": "submarine-30",
     "cat": "submarine",
     "name": "Submarine Part #30",
-    "lat": 44.88567182881496,
-    "lng": -103.80973936405542,
+    "lat": 40.36020771663256,
+    "lng": -114.0561,
     "notes": "",
     "counts_for": [
       "100%"
@@ -3101,8 +3101,8 @@
     "id": "waste-01",
     "cat": "waste",
     "name": "Nuclear Waste #1",
-    "lat": 71.9699009959727,
-    "lng": -51.645381503420964,
+    "lat": 71.41384916723614,
+    "lng": -56.859187500000004,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3113,8 +3113,8 @@
     "id": "waste-02",
     "cat": "waste",
     "name": "Nuclear Waste #2",
-    "lat": 75.53134686849916,
-    "lng": -47.18098409099781,
+    "lat": 75.34165920568995,
+    "lng": -51.964087500000005,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3125,8 +3125,8 @@
     "id": "waste-03",
     "cat": "waste",
     "name": "Nuclear Waste #3",
-    "lat": 78.32884848769147,
-    "lng": -34.159824971430396,
+    "lat": 78.37586235372383,
+    "lng": -37.6867125,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3137,8 +3137,8 @@
     "id": "waste-04",
     "cat": "waste",
     "name": "Nuclear Waste #4",
-    "lat": 80.09445041404369,
-    "lng": 19.253501212917683,
+    "lat": 80.26237378528326,
+    "lng": 20.879662499999995,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3149,8 +3149,8 @@
     "id": "waste-05",
     "cat": "waste",
     "name": "Nuclear Waste #5",
-    "lat": 79.00815116898474,
-    "lng": 24.289235198954486,
+    "lat": 79.10455462086252,
+    "lng": 26.401218749999998,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3161,8 +3161,8 @@
     "id": "waste-06",
     "cat": "waste",
     "name": "Nuclear Waste #6",
-    "lat": 79.67951908390481,
-    "lng": 31.53059409708129,
+    "lat": 79.82125258978962,
+    "lng": 34.34118749999999,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3173,8 +3173,8 @@
     "id": "waste-07",
     "cat": "waste",
     "name": "Nuclear Waste #7",
-    "lat": 79.72725263961354,
-    "lng": 52.590325938422495,
+    "lat": 79.87207160981826,
+    "lng": 57.43265625000001,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3185,8 +3185,8 @@
     "id": "waste-08",
     "cat": "waste",
     "name": "Nuclear Waste #8",
-    "lat": 79.51071757990314,
-    "lng": 58.67572479226115,
+    "lat": 79.6413912430651,
+    "lng": 64.10514375,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3197,8 +3197,8 @@
     "id": "waste-09",
     "cat": "waste",
     "name": "Nuclear Waste #9",
-    "lat": 77.259598775242,
-    "lng": 64.7744105431606,
+    "lat": 77.2221726557577,
+    "lng": 70.79219999999998,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3209,8 +3209,8 @@
     "id": "waste-10",
     "cat": "waste",
     "name": "Nuclear Waste #10",
-    "lat": 77.34178803932708,
-    "lng": 67.12619132291923,
+    "lat": 77.31112999807566,
+    "lng": 73.37086874999997,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3221,8 +3221,8 @@
     "id": "waste-11",
     "cat": "waste",
     "name": "Nuclear Waste #11",
-    "lat": 46.89285029012649,
-    "lng": 96.66296348904007,
+    "lat": 42.69070497559986,
+    "lng": 105.75720000000001,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3233,8 +3233,8 @@
     "id": "waste-12",
     "cat": "waste",
     "name": "Nuclear Waste #12",
-    "lat": 46.361009118855,
-    "lng": 89.75377701743287,
+    "lat": 42.073175080097926,
+    "lng": 98.18144999999998,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3245,8 +3245,8 @@
     "id": "waste-13",
     "cat": "waste",
     "name": "Nuclear Waste #13",
-    "lat": 45.093425683081556,
-    "lng": 88.13277557601731,
+    "lat": 40.60140811075026,
+    "lng": 96.40406249999995,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3257,8 +3257,8 @@
     "id": "waste-14",
     "cat": "waste",
     "name": "Nuclear Waste #14",
-    "lat": -62.81603210057883,
-    "lng": 59.64566827769832,
+    "lat": -69.49342245525796,
+    "lng": 65.16866249999998,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3269,8 +3269,8 @@
     "id": "waste-15",
     "cat": "waste",
     "name": "Nuclear Waste #15",
-    "lat": -67.86806448270359,
-    "lng": 71.2052687205796,
+    "lat": -73.6254102953528,
+    "lng": 77.84347500000001,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3281,8 +3281,8 @@
     "id": "waste-16",
     "cat": "waste",
     "name": "Nuclear Waste #16",
-    "lat": -73.9670025665143,
-    "lng": 54.38405704162824,
+    "lat": -78.47265043211276,
+    "lng": 59.399437500000005,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3293,8 +3293,8 @@
     "id": "waste-17",
     "cat": "waste",
     "name": "Nuclear Waste #17",
-    "lat": -76.99853338074928,
-    "lng": 43.72796559888016,
+    "lat": -80.81767633597924,
+    "lng": 47.71530000000001,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3305,8 +3305,8 @@
     "id": "waste-18",
     "cat": "waste",
     "name": "Nuclear Waste #18",
-    "lat": -78.06453793055442,
-    "lng": 36.28730324484164,
+    "lat": -81.63077233815658,
+    "lng": 39.55679999999998,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3317,8 +3317,8 @@
     "id": "waste-19",
     "cat": "waste",
     "name": "Nuclear Waste #19",
-    "lat": -63.38986109074478,
-    "lng": -62.487489505019965,
+    "lat": -69.96778661851127,
+    "lng": -68.7472875,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3329,8 +3329,8 @@
     "id": "waste-20",
     "cat": "waste",
     "name": "Nuclear Waste #20",
-    "lat": -61.722657462372254,
-    "lng": -65.49032824075695,
+    "lat": -68.58606967032154,
+    "lng": -72.039825,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3341,8 +3341,8 @@
     "id": "waste-21",
     "cat": "waste",
     "name": "Nuclear Waste #21",
-    "lat": -60.71994494395233,
-    "lng": -75.29605827161488,
+    "lat": -67.74994859209883,
+    "lng": -82.7915625,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3353,8 +3353,8 @@
     "id": "waste-22",
     "cat": "waste",
     "name": "Nuclear Waste #22",
-    "lat": -52.25574734737926,
-    "lng": -82.39126130207305,
+    "lat": -60.54204635671932,
+    "lng": -90.571275,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3365,8 +3365,8 @@
     "id": "waste-23",
     "cat": "waste",
     "name": "Nuclear Waste #23",
-    "lat": -47.83543720067109,
-    "lng": -94.37604245089942,
+    "lat": -56.67245518175279,
+    "lng": -103.7122875,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3377,8 +3377,8 @@
     "id": "waste-24",
     "cat": "waste",
     "name": "Nuclear Waste #24",
-    "lat": -25.86099372935149,
-    "lng": -104.2216331729397,
+    "lat": -36.35477414722186,
+    "lng": -114.50773124999999,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3389,8 +3389,8 @@
     "id": "waste-25",
     "cat": "waste",
     "name": "Nuclear Waste #25",
-    "lat": 8.472996509889574,
-    "lng": -98.0033653484932,
+    "lat": -0.9762418227887665,
+    "lng": -107.68955625,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3401,8 +3401,8 @@
     "id": "waste-26",
     "cat": "waste",
     "name": "Nuclear Waste #26",
-    "lat": 26.863256391371053,
-    "lng": -93.45924655370538,
+    "lat": 19.575028055118654,
+    "lng": -102.70704375,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3413,8 +3413,8 @@
     "id": "waste-27",
     "cat": "waste",
     "name": "Nuclear Waste #27",
-    "lat": 31.330049530679716,
-    "lng": -104.85940423185728,
+    "lat": 24.686632980737937,
+    "lng": -115.20703125,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3425,8 +3425,8 @@
     "id": "waste-28",
     "cat": "waste",
     "name": "Nuclear Waste #28",
-    "lat": 41.56930524197136,
-    "lng": -102.40132827561241,
+    "lat": 36.51175540897004,
+    "lng": -112.51181249999999,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3437,8 +3437,8 @@
     "id": "waste-29",
     "cat": "waste",
     "name": "Nuclear Waste #29",
-    "lat": 53.351681920313865,
-    "lng": -90.81515403860955,
+    "lat": 50.18320183477613,
+    "lng": -99.8078625,
     "notes": "",
     "counts_for": [
       "100%",
@@ -3449,8 +3449,8 @@
     "id": "waste-30",
     "cat": "waste",
     "name": "Nuclear Waste #30",
-    "lat": 54.36747561076913,
-    "lng": -89.80534986199002,
+    "lat": 51.35904946428429,
+    "lng": -98.7006375,
     "notes": "",
     "counts_for": [
       "100%",

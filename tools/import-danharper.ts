@@ -11,20 +11,21 @@ export type UpstreamEntry = {
 };
 
 /**
- * The upstream project drew its markers on Google Maps with its own tile set, which placed
- * the GTA V map in a different part of the world square than the Leaflet tiles this app
- * uses. Both render the same picture, so the two spaces differ by a uniform scale and a
- * translation, applied here in normalized world coordinates.
+ * The upstream project drew its markers by hand on Google Maps with its own tile set, so
+ * they need a transform onto ours. It is fitted, because nothing published describes this
+ * particular marker set, but it is fitted against known-good positions rather than a guess:
+ * four of its categories also appear in a source using GTA V game coordinates, and those
+ * have a published mapping onto these tiles. `tools/calibrate-markers.mjs` matches the 140
+ * shared points and reports the residual, about 19 metres median. That residual is mostly
+ * the imprecision of the original hand placement.
  *
- * The numbers come from `tools/fit-alignment.mjs`, which anchors the scale on the landmass
- * bounding box and then refines it against a land mask built from the tiles, scoring only
- * letter scraps and stunt jumps because those are the categories that are certainly ashore.
- * `tools/preview-alignment.mjs` renders the result for inspection.
+ * The x and y scales are kept separate because the map's own CRS is slightly anisotropic.
  */
 const ALIGNMENT = {
-  scale: 2.7516893378545864,
-  tx: 0.03849575330589484,
-  ty: 0.012465769837507985,
+  sx: 3.0168079651636797,
+  tx: -0.006568530543197615,
+  sy: 2.970866587791671,
+  ty: 0.001848762798459358,
 };
 
 /** Web Mercator, forward and back, in the unit square Leaflet's default CRS uses. */
@@ -44,7 +45,7 @@ function fromNormalized(x: number, y: number): [number, number] {
 /** Moves one upstream coordinate onto our tiles. */
 export function align(lat: number, lng: number): [number, number] {
   const [x, y] = toNormalized(lat, lng);
-  return fromNormalized(x * ALIGNMENT.scale + ALIGNMENT.tx, y * ALIGNMENT.scale + ALIGNMENT.ty);
+  return fromNormalized(x * ALIGNMENT.sx + ALIGNMENT.tx, y * ALIGNMENT.sy + ALIGNMENT.ty);
 }
 
 /** Upstream type to our category, plus the achievement that category feeds. */

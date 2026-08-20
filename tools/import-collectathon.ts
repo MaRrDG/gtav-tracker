@@ -3,21 +3,23 @@ import type { Objective } from '@/lib/types';
 /**
  * Converts collectibles published in GTA V game world coordinates.
  *
- * Game coordinates are the canonical space: mods and FiveM resources use them, so anything
- * expressed this way can be placed on our map without a fresh guess. The mapping below was
- * fitted by `tools/calibrate-game-coords.mjs` against 140 points that appear in both this
- * source and our own data, and its residual was about 12 game metres. The x and y scales
- * were fitted independently and came out equal to within half a percent, which is what a
- * uniformly scaled map looks like and is the reason to trust the numbers.
+ * Game coordinates are the canonical space: mods and FiveM resources use them. The mapping
+ * onto the map is not fitted here, it is the published one. gta-v-map-leaflet defines the
+ * GTA V CRS for exactly these tiles, atlas style at zoom 0 to 5, as
+ * `L.Transformation(0.02072, 117.3, -0.0205, 172.8)` over game x and y. Leaflet applies a
+ * transformation as `(a * value + b) * 2^zoom` in pixels, so at zoom 0 the whole map
+ * occupies one 256 pixel tile, and dividing by 256 gives the position in the unit square
+ * our tiles use.
  *
- * Source: https://github.com/Mobius1/collectathon (GPL-3.0)
+ * An earlier version fitted this mapping against our own data instead. That data had itself
+ * been fitted, so the fit inherited its error and placed every pin about nine percent short
+ * and shifted north west. A published constant beats a good fit.
+ *
+ * Sources: https://github.com/Mobius1/collectathon (GPL-3.0) for the coordinates,
+ * https://github.com/RiceaRaul/gta-v-map-leaflet for the CRS.
  */
-const CALIBRATION = {
-  sx: 0.00007381609478212835,
-  tx: 0.46246670294729597,
-  sy: -0.00007418061171085318,
-  ty: 0.6359772275304015,
-};
+const TILE_PIXELS = 256;
+const CRS = { scaleX: 0.02072, centerX: 117.3, scaleY: 0.0205, centerY: 172.8 };
 
 export type GameSets = Record<string, [number, number][]>;
 
@@ -39,8 +41,8 @@ const SET_MAP: Record<string, SetMapping> = {
 
 /** Game coordinates to latitude and longitude in the map's default CRS. */
 export function fromGame(gx: number, gy: number): [number, number] {
-  const x = gx * CALIBRATION.sx + CALIBRATION.tx;
-  const y = gy * CALIBRATION.sy + CALIBRATION.ty;
+  const x = (gx * CRS.scaleX + CRS.centerX) / TILE_PIXELS;
+  const y = (CRS.centerY - gy * CRS.scaleY) / TILE_PIXELS;
   const lng = x * 360 - 180;
   const lat = (Math.atan(Math.sinh(Math.PI * (1 - 2 * y))) * 180) / Math.PI;
   return [lat, lng];

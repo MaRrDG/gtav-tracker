@@ -69,15 +69,18 @@ coordinates, which are canonical, so it supplies every category it covers. The o
 set was placed by hand on a different map, so it is used only for Stunt Jumps, Knife
 Flights and Under the Bridge, which nothing else publishes.
 
-Both are calibrated onto our tiles by fitted transforms rather than guesses:
+Game coordinates reach the map through the published GTA V CRS, not a fit. The hand-placed
+set has no published mapping, so it is fitted, but against the 140 points it shares with the
+canonical source rather than against a guess:
 
-    node tools/calibrate-game-coords.mjs config.lua   # game coordinates, ~12 m residual
-    node tools/fit-alignment.mjs                      # the hand-placed marker set
-    node tools/preview-alignment.mjs 1 0 0 check.jpg  # renders the result to look at
+    node tools/calibrate-markers.mjs config.lua markers.json  # ~19 m median residual
+    node tools/preview-alignment.mjs 1 0 0 check.jpg          # renders the result to look at
 
 ## Credits
 
 Collectible coordinates from [Mobius1/collectathon](https://github.com/Mobius1/collectathon)
 (GPL-3.0) and [danharper/GTAV](https://github.com/danharper/GTAV) (WTFPL).
+The GTA V CRS for these tiles is taken from
+[RiceaRaul/gta-v-map-leaflet](https://github.com/RiceaRaul/gta-v-map-leaflet).
 Map tiles from [meesvrh/GTAV-Map-Tiles](https://github.com/meesvrh/GTAV-Map-Tiles); the
 artwork is Rockstar's.
