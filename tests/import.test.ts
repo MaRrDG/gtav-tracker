@@ -1,5 +1,5 @@
 import { describe, expect, test } from 'vitest';
-import { convertEntries, type UpstreamEntry } from '@/tools/import-danharper';
+import { align, convertEntries, type UpstreamEntry } from '@/tools/import-danharper';
 
 const upstream: UpstreamEntry[] = [
   {
@@ -15,6 +15,31 @@ const upstream: UpstreamEntry[] = [
   { id: 4, type: 'Letter Scrap', title: 'Letter Scrap #1', lat: 75, lng: -115, notes: '' },
 ];
 
+describe('align', () => {
+  // Golden values. The transform is a fitted constant, so a change to it should be a
+  // deliberate edit to these numbers, never a silent shift of every pin on the map.
+  test('maps upstream coordinates onto our tiles', () => {
+    const cases: [number, number, number, number][] = [
+      [83.1, -120.5, 76.673463, -2.416013],
+      [80, -119, 53.9392, 1.711521],
+      [75, -115, -0.121633, 12.718278],
+    ];
+
+    for (const [lat, lng, expectedLat, expectedLng] of cases) {
+      const [movedLat, movedLng] = align(lat, lng);
+      expect(movedLat).toBeCloseTo(expectedLat, 5);
+      expect(movedLng).toBeCloseTo(expectedLng, 5);
+    }
+  });
+
+  test('preserves relative position: north stays north, west stays west', () => {
+    const [northLat, westLng] = align(83, -125);
+    const [southLat, eastLng] = align(75, -115);
+    expect(northLat).toBeGreaterThan(southLat);
+    expect(westLng).toBeLessThan(eastLng);
+  });
+});
+
 describe('convertEntries', () => {
   test('maps upstream types onto our categories', () => {
     const { locations } = convertEntries(upstream);
@@ -27,12 +52,18 @@ describe('convertEntries', () => {
     expect(locations.map((l) => l.id)).toEqual(['spaceship-01', 'spaceship-02', 'letter-01']);
   });
 
-  test('keeps the upstream title, coordinates and notes', () => {
+  test('keeps the upstream title and notes', () => {
     const [first] = convertEntries(upstream).locations;
     expect(first.name).toBe('Spaceship Part #1 - Mount Chiliad');
-    expect(first.lat).toBe(83.1);
-    expect(first.lng).toBe(-120.5);
     expect(first.notes).toBe('By the barns');
+  });
+
+  test('moves coordinates onto our tile set rather than copying them', () => {
+    const [first] = convertEntries(upstream).locations;
+    expect(first.lat).not.toBe(83.1);
+    expect(first.lng).not.toBe(-120.5);
+    expect(first.lat).toBeCloseTo(76.673463, 5);
+    expect(first.lng).toBeCloseTo(-2.416013, 5);
   });
 
   test('defaults missing notes to an empty string', () => {

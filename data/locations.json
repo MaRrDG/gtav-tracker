@@ -3,8 +3,8 @@
     "id": "waste-01",
     "cat": "waste",
     "name": "Nuclear Waste #1",
-    "lat": 82.28238091544175,
-    "lng": -138.48339843750006,
+    "lat": 71.91804403858747,
+    "lng": -51.90073894638971,
     "notes": "Depth: 83",
     "counts_for": [
       "100%",
@@ -15,8 +15,8 @@
     "id": "waste-02",
     "cat": "waste",
     "name": "Nuclear Waste #2",
-    "lat": 82.88118500336384,
-    "lng": -135.6044921875,
+    "lat": 75.48713997994055,
+    "lng": -43.978883313581605,
     "notes": "Depth: 96",
     "counts_for": [
       "100%",
@@ -27,8 +27,8 @@
     "id": "waste-03",
     "cat": "waste",
     "name": "Nuclear Waste #3",
-    "lat": 83.55032095652048,
-    "lng": -131.0439453125,
+    "lat": 78.92132132618312,
+    "lng": -31.429675102858084,
     "notes": "Depth: 85",
     "counts_for": [
       "100%",
@@ -39,8 +39,8 @@
     "id": "waste-04",
     "cat": "waste",
     "name": "Nuclear Waste #4",
-    "lat": 83.82289147742752,
-    "lng": -113.8896484375,
+    "lat": 80.15835366843022,
+    "lng": 15.77362070647169,
     "notes": "Depth: 443",
     "counts_for": [
       "100%",
@@ -51,8 +51,8 @@
     "id": "waste-05",
     "cat": "waste",
     "name": "Nuclear Waste #5",
-    "lat": 83.52763382880046,
-    "lng": -111,
+    "lat": 78.81420835542507,
+    "lng": 23.725035502088616,
     "notes": "Depth: 122",
     "counts_for": [
       "100%",
@@ -63,8 +63,8 @@
     "id": "waste-06",
     "cat": "waste",
     "name": "Nuclear Waste #6",
-    "lat": 83.66001670115921,
-    "lng": -108.3076171875,
+    "lat": 79.43018848023348,
+    "lng": 31.133636580667826,
     "notes": "Depth: 432",
     "counts_for": [
       "100%",
@@ -75,8 +75,8 @@
     "id": "waste-07",
     "cat": "waste",
     "name": "Nuclear Waste #7",
-    "lat": 83.59661683253272,
-    "lng": -100.1318359375,
+    "lat": 79.13790665662815,
+    "lng": 53.63084667492424,
     "notes": "Depth: 462",
     "counts_for": [
       "100%",
@@ -87,8 +87,8 @@
     "id": "waste-08",
     "cat": "waste",
     "name": "Nuclear Waste #8",
-    "lat": 83.60151608090968,
-    "lng": -98.4833984375,
+    "lat": 79.16067064055291,
+    "lng": 58.16683456779393,
     "notes": "Depth: 496",
     "counts_for": [
       "100%",
@@ -99,8 +99,8 @@
     "id": "waste-09",
     "cat": "waste",
     "name": "Nuclear Waste #9",
-    "lat": 83.17975329723811,
-    "lng": -94.9453125,
+    "lat": 77.09042007323777,
+    "lng": 67.90254791842591,
     "notes": "Depth: 70",
     "counts_for": [
       "100%",
@@ -111,8 +111,8 @@
     "id": "waste-10",
     "cat": "waste",
     "name": "Nuclear Waste #10",
-    "lat": 83.16407924253117,
-    "lng": -93.76953125000006,
+    "lat": 77.00912157773287,
+    "lng": 71.13793264770013,
     "notes": "Depth: 97",
     "counts_for": [
       "100%",
@@ -123,8 +123,8 @@
     "id": "waste-11",
     "cat": "waste",
     "name": "Nuclear Waste #11",
-    "lat": 79.2241131319054,
-    "lng": -84.912109375,
+    "lat": 46.37069303785068,
+    "lng": 95.51080598201776,
     "notes": "Depth: 113",
     "counts_for": [
       "100%",
@@ -135,8 +135,8 @@
     "id": "waste-12",
     "cat": "waste",
     "name": "Nuclear Waste #12",
-    "lat": 79.10847529994963,
-    "lng": -86.912109375,
+    "lat": 45.19008831628809,
+    "lng": 90.00742730630856,
     "notes": "Depth: 32",
     "counts_for": [
       "100%",
@@ -147,8 +147,8 @@
     "id": "waste-13",
     "cat": "waste",
     "name": "Nuclear Waste #13",
-    "lat": 79.04184698515454,
-    "lng": -87.2197265625,
+    "lat": 44.50422961415908,
+    "lng": 89.160960371324,
     "notes": "Depth: 68",
     "counts_for": [
       "100%",
@@ -159,8 +159,8 @@
     "id": "waste-14",
     "cat": "waste",
     "name": "Nuclear Waste #14",
-    "lat": 65.05565821131731,
-    "lng": -97.8681640625,
+    "lat": -63.078066663280694,
+    "lng": 59.85976843776305,
     "notes": "Depth: 55",
     "counts_for": [
       "100%",
@@ -171,8 +171,8 @@
     "id": "waste-15",
     "cat": "waste",
     "name": "Nuclear Waste #15",
-    "lat": 63.572866784736476,
-    "lng": -94.62597656250006,
+    "lat": -67.04053923773392,
+    "lng": 68.78126121283827,
     "notes": "Depth: 465",
     "counts_for": [
       "100%",
@@ -183,8 +183,8 @@
     "id": "waste-16",
     "cat": "waste",
     "name": "Nuclear Waste #16",
-    "lat": 60,
-    "lng": -100,
+    "lat": -73.92565166640095,
+    "lng": 53.99361821848905,
     "notes": "Depth: 351",
     "counts_for": [
       "100%",
@@ -195,8 +195,8 @@
     "id": "waste-17",
     "cat": "waste",
     "name": "Nuclear Waste #17",
-    "lat": 57.640634146394966,
-    "lng": -104.142578125,
+    "lat": -77.05661632221869,
+    "lng": 42.59453016069688,
     "notes": "Depth: 153",
     "counts_for": [
       "100%",
@@ -207,8 +207,8 @@
     "id": "waste-18",
     "cat": "waste",
     "name": "Nuclear Waste #18",
-    "lat": 56.63924977575377,
-    "lng": -106.8349609375,
+    "lat": -78.1463873947812,
+    "lng": 35.185929082117696,
     "notes": "Depth: 144",
     "counts_for": [
       "100%",
@@ -219,8 +219,8 @@
     "id": "waste-19",
     "cat": "waste",
     "name": "Nuclear Waste #19",
-    "lat": 64.81363241365864,
-    "lng": -142.2197265625,
+    "lat": -63.78118188513935,
+    "lng": -62.18195321067827,
     "notes": "Depth: 58",
     "counts_for": [
       "100%",
@@ -231,8 +231,8 @@
     "id": "waste-20",
     "cat": "waste",
     "name": "Nuclear Waste #20",
-    "lat": 65.53319055864205,
-    "lng": -143.560546875,
+    "lat": -61.619286019357936,
+    "lng": -65.87147416856337,
     "notes": "Depth: 109",
     "counts_for": [
       "100%",
@@ -243,8 +243,8 @@
     "id": "waste-21",
     "cat": "waste",
     "name": "Nuclear Waste #21",
-    "lat": 65.94632110330856,
-    "lng": -146.736328125,
+    "lat": -60.27592599878119,
+    "lng": -74.6102375735469,
     "notes": "Depth: 210",
     "counts_for": [
       "100%",
@@ -255,8 +255,8 @@
     "id": "waste-22",
     "cat": "waste",
     "name": "Nuclear Waste #22",
-    "lat": 68,
-    "lng": -150,
+    "lat": -52.28688191304396,
+    "lng": -83.59084867424028,
     "notes": "Depth: 84",
     "counts_for": [
       "100%",
@@ -267,8 +267,8 @@
     "id": "waste-23",
     "cat": "waste",
     "name": "Nuclear Waste #23",
-    "lat": 68.96848025428334,
-    "lng": -154.142578125,
+    "lat": -47.61567487918723,
+    "lng": -94.98993673203242,
     "notes": "Depth: 62",
     "counts_for": [
       "100%",
@@ -279,8 +279,8 @@
     "id": "waste-24",
     "cat": "waste",
     "name": "Nuclear Waste #24",
-    "lat": 72.17570334935215,
-    "lng": -157.9560546875,
+    "lat": -26.675175527311875,
+    "lng": -105.48343952922203,
     "notes": "Depth: 30",
     "counts_for": [
       "100%",
@@ -291,8 +291,8 @@
     "id": "waste-25",
     "cat": "waste",
     "name": "Nuclear Waste #25",
-    "lat": 75.77498887493843,
-    "lng": -155.703125,
+    "lat": 8.304105713636552,
+    "lng": -99.28407692919221,
     "notes": "Depth: 84",
     "counts_for": [
       "100%",
@@ -303,8 +303,8 @@
     "id": "waste-26",
     "cat": "waste",
     "name": "Nuclear Waste #26",
-    "lat": 77.52318410321625,
-    "lng": -153.8349609375,
+    "lat": 28.008151490459632,
+    "lng": -94.14346979704784,
     "notes": "Depth: 82",
     "counts_for": [
       "100%",
@@ -315,8 +315,8 @@
     "id": "waste-27",
     "cat": "waste",
     "name": "Nuclear Waste #27",
-    "lat": 78,
-    "lng": -157,
+    "lat": 33.32933481838237,
+    "lng": -102.85267403922238,
     "notes": "Depth: 167",
     "counts_for": [
       "100%",
@@ -327,8 +327,8 @@
     "id": "waste-28",
     "cat": "waste",
     "name": "Nuclear Waste #28",
-    "lat": 78.80546215517487,
-    "lng": -156.2529296875,
+    "lat": 42.039473951362304,
+    "lng": -100.79696862568844,
     "notes": "Depth: 181",
     "counts_for": [
       "100%",
@@ -339,8 +339,8 @@
     "id": "waste-29",
     "cat": "waste",
     "name": "Nuclear Waste #29",
-    "lat": 79.94644137647673,
-    "lng": -151.505859375,
+    "lat": 53.43795241819168,
+    "lng": -87.73450586073615,
     "notes": "Depth: 354",
     "counts_for": [
       "100%",
@@ -351,8 +351,8 @@
     "id": "waste-30",
     "cat": "waste",
     "name": "Nuclear Waste #30",
-    "lat": 80.00762814213425,
-    "lng": -151.154296875,
+    "lat": 54.01032080569051,
+    "lng": -86.76711507789663,
     "notes": "Depth: 477",
     "counts_for": [
       "100%",
@@ -363,8 +363,8 @@
     "id": "spaceship-01",
     "cat": "spaceship",
     "name": "Spaceship Part #1 - Mount Chiliad",
-    "lat": 83.14786998099164,
-    "lng": -120.5859375,
+    "lat": 76.92471459446095,
+    "lng": -2.6524865100018644,
     "notes": "You will come to a farm area with two large barns. One of the barns has a “Zancudo Grain Growers” logo painted on the side of it, and in the back of this barn on the floor is the Spaceship Part.",
     "counts_for": [
       "100%",
@@ -375,8 +375,8 @@
     "id": "spaceship-02",
     "cat": "spaceship",
     "name": "Spaceship Part #2 - Mount Chiliad",
-    "lat": 82.01527593452178,
-    "lng": -103.18359375,
+    "lat": 70.17131241315523,
+    "lng": 45.233357240553545,
     "notes": "This is located in another farm area. The Spaceship Part is located inside the large shed with a red crate outside the entrance.",
     "counts_for": [
       "100%",
@@ -387,8 +387,8 @@
     "id": "spaceship-03",
     "cat": "spaceship",
     "name": "Spaceship Part #3 - Grapeseed",
-    "lat": 80.86585369109434,
-    "lng": -100.986328125,
+    "lat": 61.55991249386693,
+    "lng": 51.279549633300434,
     "notes": "There will be a field filled with metal pens in which cows are grazing. In the middle of this area lying on the floor is the Spaceship Part.",
     "counts_for": [
       "100%",
@@ -399,8 +399,8 @@
     "id": "spaceship-04",
     "cat": "spaceship",
     "name": "Spaceship Part #4 - San Chianski Mountain Range",
-    "lat": 80.37905406148724,
-    "lng": -87.5390625,
+    "lat": 57.389628995310694,
+    "lng": 88.2822470769114,
     "notes": "At the top of the mountain trail there will be a circular road. By the side of it is a wrecked red boat next to a barn. Inside this barn is the Part.",
     "counts_for": [
       "100%",
@@ -411,8 +411,8 @@
     "id": "spaceship-05",
     "cat": "spaceship",
     "name": "Spaceship Part #5 - San Chianski Mountain Range",
-    "lat": 79.24538842837467,
-    "lng": -100.37109375,
+    "lat": 46.586524206656286,
+    "lng": 52.97248350326956,
     "notes": "You will come across a small hill decorated in colourful graffiti by alien cultists. On the top of this hill on a small ledge is a Spaceship Part.",
     "counts_for": [
       "100%",
@@ -423,8 +423,8 @@
     "id": "spaceship-06",
     "cat": "spaceship",
     "name": "Spaceship Part #6 - Sandy Shores",
-    "lat": 79.3474112938645,
-    "lng": -110.20385742187494,
+    "lat": 47.61540208009573,
+    "lng": 25.91577254572738,
     "notes": "This Part is located underwater in the small bay on the north of Sandy Shores. Dive down underwater and you will see the Part glowing brightly against the seafloor, so it’s hard to miss.",
     "counts_for": [
       "100%",
@@ -435,8 +435,8 @@
     "id": "spaceship-07",
     "cat": "spaceship",
     "name": "Spaceship Part #7 - Grand Senora Desert",
-    "lat": 78.5996431995155,
-    "lng": -105.941162109375,
+    "lat": 39.85616936345851,
+    "lng": 37.64538578765621,
     "notes": "Next to the off-road trail is a rock formation. Up the small hill underneath the face of the rock is this Part.",
     "counts_for": [
       "100%",
@@ -447,8 +447,8 @@
     "id": "spaceship-08",
     "cat": "spaceship",
     "name": "Spaceship Part #8 - Grand Senora Desert",
-    "lat": 77.49460719687322,
-    "lng": -105.556640625,
+    "lat": 27.686689733688272,
+    "lng": 38.70346945638693,
     "notes": "By the side of the road will be 5 huge satellite dishes. If you’re looking at them from the main road, the right-hand most dish will have the Part. Climb up the stairs on the dish to get it.",
     "counts_for": [
       "100%",
@@ -459,8 +459,8 @@
     "id": "spaceship-09",
     "cat": "spaceship",
     "name": "Spaceship Part #9 - Grand Senora Desert",
-    "lat": 77.39909464486604,
-    "lng": -116.19140625,
+    "lat": 26.61070285652306,
+    "lng": 9.439898275491942,
     "notes": "You should see a large boat with the initials “LS 4145 RS” on the side of it amongst a few rusty trailers. The Part is located next to the boat.",
     "counts_for": [
       "100%",
@@ -471,8 +471,8 @@
     "id": "spaceship-10",
     "cat": "spaceship",
     "name": "Spaceship Part #10 - Grand Senora Desert",
-    "lat": 76.00547035565367,
-    "lng": -122.783203125,
+    "lat": 10.869181255971457,
+    "lng": -8.698678902748753,
     "notes": "By the side of the road you will see a derelict house with boarded up windows. Behind the house where the back porch was is the Spaceship Part.",
     "counts_for": [
       "100%",
@@ -483,8 +483,8 @@
     "id": "spaceship-11",
     "cat": "spaceship",
     "name": "Spaceship Part #11 - Grand Senora Desert",
-    "lat": 75.03901279805076,
-    "lng": -116.630859375,
+    "lat": 0.2936660309100231,
+    "lng": 8.230659796942575,
     "notes": "This Part is located down in the small rocky valley beside the road. It will be amongst some rocks.",
     "counts_for": [
       "100%",
@@ -495,8 +495,8 @@
     "id": "spaceship-12",
     "cat": "spaceship",
     "name": "Spaceship Part #12 - Grand Senora Desert",
-    "lat": 75.90950400691688,
-    "lng": -110.830078125,
+    "lat": 9.798536568968343,
+    "lng": 24.19260771379433,
     "notes": "On the top of the hill is a small house with a green roof and a US flag outside the front. Behind the house is a white banner strung between two posts with “Welcome” written on it. The Part is located under this banner.",
     "counts_for": [
       "100%",
@@ -507,8 +507,8 @@
     "id": "spaceship-13",
     "cat": "spaceship",
     "name": "Spaceship Part #13 - Ron Alternates Wind Farm",
-    "lat": 75.83441802215226,
-    "lng": -94.482421875,
+    "lat": 8.963397773263685,
+    "lng": 69.17627911583125,
     "notes": "This Part is located inside a cavern, so you will need to either swim or use a boat/jetski to get inside. Once inside, dive down underwater and you will easily see the Part glowing.",
     "counts_for": [
       "100%",
@@ -519,8 +519,8 @@
     "id": "spaceship-14",
     "cat": "spaceship",
     "name": "Spaceship Part #14 - Tatavium Mountains",
-    "lat": 72.16835148220001,
-    "lng": -96.416015625,
+    "lat": -26.734204140586254,
+    "lng": 63.85562981021397,
     "notes": "To the right of the large cavern entrance, there is a tiny beach. On this beach is the Spaceship Part.",
     "counts_for": [
       "100%",
@@ -531,8 +531,8 @@
     "id": "spaceship-15",
     "cat": "spaceship",
     "name": "Spaceship Part #15 - Tatavium Mountains",
-    "lat": 71.42717893107371,
-    "lng": -105.46875,
+    "lat": -32.409668378936594,
+    "lng": 38.94531715209678,
     "notes": "You will see five pipes running down into the water. In the left-hand pipe is the Spaceship Part.",
     "counts_for": [
       "100%",
@@ -543,8 +543,8 @@
     "id": "spaceship-16",
     "cat": "spaceship",
     "name": "Spaceship Part #16 - Davis",
-    "lat": 69.79413569863112,
-    "lng": -108.28125,
+    "lat": -43.084609848384396,
+    "lng": 31.206190889380736,
     "notes": "Down by the rocks is a small wooden jetty with two red safety rings housed on it. Dive underneath this jetty and the Spaceship Part will be on the seafloor.",
     "counts_for": [
       "100%",
@@ -555,8 +555,8 @@
     "id": "spaceship-17",
     "cat": "spaceship",
     "name": "Spaceship Part #17 - Murreta Heights",
-    "lat": 65.56754970214311,
-    "lng": -112.6318359375,
+    "lat": -61.51051612117397,
+    "lng": 19.23472995174191,
     "notes": "By the side of the freeway is an area where water comes out and flows down under the freeway. You should see a brown metal walkway with three concrete pillars jutting out from underneath it. On the middle of these pillars is the Spaceship Part.",
     "counts_for": [
       "100%",
@@ -567,8 +567,8 @@
     "id": "spaceship-18",
     "cat": "spaceship",
     "name": "Spaceship Part #18 - El Burro Heights",
-    "lat": 63.39152174400882,
-    "lng": -107.7099609375,
+    "lat": -67.47261857025462,
+    "lng": 32.778200911494935,
     "notes": "In the construction area you will find two freight containers side by side. The green one has an opening and inside it is the Spaceship Part.",
     "counts_for": [
       "100%",
@@ -579,8 +579,8 @@
     "id": "spaceship-19",
     "cat": "spaceship",
     "name": "Spaceship Part #19 - Pacific Ocean",
-    "lat": 57.79794388498275,
-    "lng": -109.16015625,
+    "lat": -76.8738143322263,
+    "lng": 28.787713932282003,
     "notes": "This one is located on a small island out to sea. Just swim the small distance to the island and then climb onto the rocks. The Part will be amongst the rocks.",
     "counts_for": [
       "100%",
@@ -591,8 +591,8 @@
     "id": "spaceship-20",
     "cat": "spaceship",
     "name": "Spaceship Part #20 - El Burro Heights",
-    "lat": 58.83649009392136,
-    "lng": -113.5986328125,
+    "lat": -75.57920777672827,
+    "lng": 16.57440529893327,
     "notes": "In front of the freeway-supporting wall with the “VAGOS” graffiti on it is a sewer pipe that pumps water out to sea. Right next to the pipe opening is the Spaceship Part.",
     "counts_for": [
       "100%",
@@ -603,8 +603,8 @@
     "id": "spaceship-21",
     "cat": "spaceship",
     "name": "Spaceship Part #21 - Elysian Island",
-    "lat": 55.52863052257191,
-    "lng": -118.4765625,
+    "lat": -79.22044058371897,
+    "lng": 3.151858187035174,
     "notes": "Underwater here will be the ruins of a metal structure. In amongst it is this Spaceship Part.",
     "counts_for": [
       "100%",
@@ -615,8 +615,8 @@
     "id": "spaceship-22",
     "cat": "spaceship",
     "name": "Spaceship Part #22 - Elysian Island",
-    "lat": 58.03137242177637,
-    "lng": -121.2890625,
+    "lat": -76.59636007842315,
+    "lng": -4.587268075680839,
     "notes": "In between the two huge domes is a set of stairs. Take the first flight up and at the fork take the left staircase. Keep following the stairs and you’ll eventually come to a building with a ladder on top of the dome. Climb the ladder and drop down onto the pipe. Run along the pipe, and halfway between the two domes on the pipe will be the Spaceship Part.",
     "counts_for": [
       "100%",
@@ -627,8 +627,8 @@
     "id": "spaceship-23",
     "cat": "spaceship",
     "name": "Spaceship Part #23 - Rancho / Dutch London St",
-    "lat": 61.18562468142283,
-    "lng": -121.11328125,
+    "lat": -71.97960786705913,
+    "lng": -4.10357268426111,
     "notes": "In a fenced area you will see four decorated alien-like sculptures that look like futuristic towers. Go inside the entrance and the ledge around the bottom of the right-hand tower will have the Spaceship Part on it.",
     "counts_for": [
       "100%",
@@ -639,8 +639,8 @@
     "id": "spaceship-24",
     "cat": "spaceship",
     "name": "Spaceship Part #24 - Los Santos International Airport",
-    "lat": 54.059387886623576,
-    "lng": -136.40625,
+    "lat": -80.45629750613159,
+    "lng": -46.18507173777948,
     "notes": "Right in the southern-most section of the airport, just inside the fence. This Part is located next to a dumpster and a stack of red, white, green and blue crates.",
     "counts_for": [
       "100%",
@@ -651,8 +651,8 @@
     "id": "spaceship-25",
     "cat": "spaceship",
     "name": "Spaceship Part #25 - Davis / Innocence Blvd",
-    "lat": 64.18724867664997,
-    "lng": -121.8603515625,
+    "lat": -65.49554152650862,
+    "lng": -6.159278097795067,
     "notes": "This Part is located on the roof of Central Los Santos Medical Centre. Climb up the stairs to the top of the first roof, then up the ladder to get onto the highest roof. The Spaceship Part will be next to the helicopter on the right-hand side.",
     "counts_for": [
       "100%",
@@ -663,8 +663,8 @@
     "id": "spaceship-26",
     "cat": "spaceship",
     "name": "Spaceship Part #26 - Strawberry / Elgin Ave",
-    "lat": 65.16457888401897,
-    "lng": -124.2333984375,
+    "lat": -62.75384173511742,
+    "lng": -12.689165881961713,
     "notes": "Underneath the freeway is a campsite where the homeless are dwelling. The Spaceship Part will be in front of a couch with a red and pink sleeping bag on it.",
     "counts_for": [
       "100%",
@@ -675,8 +675,8 @@
     "id": "spaceship-27",
     "cat": "spaceship",
     "name": "Spaceship Part #27 - Textile City",
-    "lat": 67.03316279015063,
-    "lng": -120.05859375,
+    "lat": -56.34159951187534,
+    "lng": -1.2014003357425906,
     "notes": "In this alleyway there will be numerous shops and market stalls. Find the “Bean Machine” coffee shop, and just to the right of it will be a small alcove where this Part can be found.",
     "counts_for": [
       "100%",
@@ -687,8 +687,8 @@
     "id": "spaceship-28",
     "cat": "spaceship",
     "name": "Spaceship Part #28 - Pillbox Hill",
-    "lat": 67.62595438857817,
-    "lng": -122.4755859375,
+    "lat": -53.922962788839115,
+    "lng": -7.852211967764191,
     "notes": "[Helicopter Required] You will need to fly up to the top of the “Penris” building for this one. Land on the roof and grab the clearly-visible Spaceship Part.",
     "counts_for": [
       "100%",
@@ -699,8 +699,8 @@
     "id": "spaceship-29",
     "cat": "spaceship",
     "name": "Spaceship Part #29 - Pillbox Hill",
-    "lat": 67.69277095059344,
-    "lng": -123.0908203125,
+    "lat": -53.63715512087148,
+    "lng": -9.545145837733315,
     "notes": "This Part is located in a tunnel, the entrance of which can be found in Textile City. Drive into the tunnel and take a right at the fork. Keep driving along the train tracks until you are met with two enclosed tunnels. Take the left tunnel and drive through it until you are met with another choice of two tunnels. Take the right one this time and drive through it a short way until you come out into a room. Go up the ramp to the right to find some constructions workers stood around. The Spaceship Part is located behind the red barrier next to a table with a blueprint on it.",
     "counts_for": [
       "100%",
@@ -711,8 +711,8 @@
     "id": "spaceship-30",
     "cat": "spaceship",
     "name": "Spaceship Part #30 - Vespucci Canals",
-    "lat": 65.33017791526855,
-    "lng": -133.41796875,
+    "lat": -62.251371377859,
+    "lng": -37.96225008364371,
     "notes": "Next to the road you will see a huge “Destroy The Ring” billboard. Climb up the ladder that goes up the billboard’s supporting pole. Go up the short ramp and then climb the second ladder. The Spaceship Part will be on the platform at the top of the billboard.",
     "counts_for": [
       "100%",
@@ -723,8 +723,8 @@
     "id": "spaceship-31",
     "cat": "spaceship",
     "name": "Spaceship Part #31 - Little Seoul / Del Perro Fwy",
-    "lat": 67.80924450600008,
-    "lng": -136.0546875,
+    "lat": -53.132296887846856,
+    "lng": -45.217680954939965,
     "notes": "This is located inside the Vinewood studios. You will have to drive or run through the barrier at the entrance. Take the first left and then right in front of you will be an open doorway and some stairs. Go up the stairs, take a right and then a right again up another set of stairs. Climb over the wall in front of you and the Spaceship Part will be on the balcony here.",
     "counts_for": [
       "100%",
@@ -735,8 +735,8 @@
     "id": "spaceship-32",
     "cat": "spaceship",
     "name": "Spaceship Part #32 - Burton",
-    "lat": 68.83180177092166,
-    "lng": -126.73828125,
+    "lat": -48.3151906956596,
+    "lng": -19.581825209693164,
     "notes": "The Spaceship Part will be right in the middle of the small grassy area in the middle of the circular road.",
     "counts_for": [
       "100%",
@@ -747,8 +747,8 @@
     "id": "spaceship-33",
     "cat": "spaceship",
     "name": "Spaceship Part #33 - Burton",
-    "lat": 69.14692017504962,
-    "lng": -128.5400390625,
+    "lat": -46.68142591127211,
+    "lng": -24.539702971745612,
     "notes": "[Helicopter Required] This Part is located in the empty swimming pool on the roof of the hotel. Fly up there and jump down into the pool to grab it.",
     "counts_for": [
       "100%",
@@ -759,8 +759,8 @@
     "id": "spaceship-34",
     "cat": "spaceship",
     "name": "Spaceship Part #34 - Rockford Hills",
-    "lat": 69.4421276134176,
-    "lng": -136.0107421875,
+    "lat": -45.0821675597577,
+    "lng": -45.09675710708507,
     "notes": "This Part is located on a tiny island in the south-western lake of the golf course. Jump into the water and swim to the island for it.",
     "counts_for": [
       "100%",
@@ -771,8 +771,8 @@
     "id": "spaceship-35",
     "cat": "spaceship",
     "name": "Spaceship Part #35 - Vinewood Hills",
-    "lat": 71.73266202440855,
-    "lng": -124.365234375,
+    "lat": -30.136136351139935,
+    "lng": -13.051937425526518,
     "notes": "By the side of the lake is a small stone building. If you dive into the lake just to the right of the building, you should see the Spaceship Part behind you on the seafloor next to the side of the stone wall.",
     "counts_for": [
       "100%",
@@ -783,8 +783,8 @@
     "id": "spaceship-36",
     "cat": "spaceship",
     "name": "Spaceship Part #36 - Vinewood Hills",
-    "lat": 72.23551372557404,
-    "lng": -123.57421875,
+    "lat": -26.192941207445074,
+    "lng": -10.875308164137635,
     "notes": "[Helicopter Required] You will see a concrete jetty sticking out from the side of the road with a circular building at the end of it. Unfortunately, the building is too high to climb up so you will need to delicately land a helicopter on top of it to grab the Spaceship Part.",
     "counts_for": [
       "100%",
@@ -795,8 +795,8 @@
     "id": "spaceship-37",
     "cat": "spaceship",
     "name": "Spaceship Part #37 - Vinewood Hills",
-    "lat": 73.04823634299835,
-    "lng": -128.7158203125,
+    "lat": -19.28402526908665,
+    "lng": -25.02339836316537,
     "notes": "[Helicopter Required] This is another one which requires a helicopter. You will need to land your helicopter on the roof of the Galileo Observatory, and the Spaceship Part will be located next to the dome on the left-hand side of the roof.",
     "counts_for": [
       "100%",
@@ -807,8 +807,8 @@
     "id": "spaceship-38",
     "cat": "spaceship",
     "name": "Spaceship Part #38 - Richman Glen",
-    "lat": 72.39570570653261,
-    "lng": -139.3505859375,
+    "lat": -24.88367163076515,
+    "lng": -54.28696954406033,
     "notes": "In front of the house is a large tree next to a small circular fountain. The Spaceship Part is at the base of the tree.",
     "counts_for": [
       "100%",
@@ -819,8 +819,8 @@
     "id": "spaceship-39",
     "cat": "spaceship",
     "name": "Spaceship Part #39 - Tongva Hills",
-    "lat": 73.77577986189993,
-    "lng": -143.173828125,
+    "lat": -12.543762290257579,
+    "lng": -64.80734430743992,
     "notes": "On your map you should see a stream going off from the side of the road. Follow this stream about halfway and you should see an opening in the rock face in front of you. Just inside the entrance is this Spaceship Part.",
     "counts_for": [
       "100%",
@@ -831,8 +831,8 @@
     "id": "spaceship-40",
     "cat": "spaceship",
     "name": "Spaceship Part #40 - Banham Canyon",
-    "lat": 73.9710776393399,
-    "lng": -151.611328125,
+    "lat": -10.648565794879824,
+    "lng": -88.02472309558799,
     "notes": "Behind the house at the end of the short road is a swimming pool. Right next to this is small white concrete square on the ground that has a telescope erected on it at night. On the ground next to the telescope is this Part.",
     "counts_for": [
       "100%",
@@ -843,8 +843,8 @@
     "id": "spaceship-41",
     "cat": "spaceship",
     "name": "Spaceship Part #41 - Tongva Hills",
-    "lat": 75.29773546875684,
-    "lng": -143.4375,
+    "lat": 3.0734408221371408,
+    "lng": -65.53288739456954,
     "notes": "On the side of a hill is a farm area with lots of hedges. The Spaceship Part is located halfway up the hill in between the rows of hedges. You won’t be able climb over them so you’ll have to find a gap in the side and run along the row.\t",
     "counts_for": [
       "100%",
@@ -855,8 +855,8 @@
     "id": "spaceship-42",
     "cat": "spaceship",
     "name": "Spaceship Part #42 - Tongva Hills",
-    "lat": 75.71563324165896,
-    "lng": -138.515625,
+    "lat": 7.64721581208883,
+    "lng": -51.98941643481652,
     "notes": "Underneath the bridge you will see a waterfall. Do not dive in off the bridge as you will die. Work your way down and in the small pool at the bottom of the waterfall, dive down and find the Spaceship Part underwater.",
     "counts_for": [
       "100%",
@@ -867,8 +867,8 @@
     "id": "spaceship-43",
     "cat": "spaceship",
     "name": "Spaceship Part #43 - Zancudo River",
-    "lat": 77.60828217742636,
-    "lng": -128.671875,
+    "lat": 28.96399203669329,
+    "lng": -24.902474515310416,
     "notes": "Underneath the wooden bridge over the river, this one is located between the central support pillar and the small support at the end of the bridge.",
     "counts_for": [
       "100%",
@@ -879,8 +879,8 @@
     "id": "spaceship-44",
     "cat": "spaceship",
     "name": "Spaceship Part #44 - Zancudo River",
-    "lat": 78.260332194717,
-    "lng": -123.662109375,
+    "lat": 36.190079871978234,
+    "lng": -11.117155859847486,
     "notes": "This one is located in a small alcove in the rocks on the river bank. The alcove will be on the left if you are looking at the bridge ahead of you in the distance.",
     "counts_for": [
       "100%",
@@ -891,8 +891,8 @@
     "id": "spaceship-45",
     "cat": "spaceship",
     "name": "Spaceship Part #45 - Mount Josiah",
-    "lat": 78.9377084355064,
-    "lng": -130.5615234375,
+    "lat": 43.424303686882844,
+    "lng": -30.102199973072743,
     "notes": "[Helicopter Required] This Part is quite tricky and requires a helicopter. Fly up to the side of Mount Josiah where you can see levels of rock, almost like giant steps. You should see the Part glowing on one of the ledges, so land your helicopter on the one above it and jump down.",
     "counts_for": [
       "100%",
@@ -903,8 +903,8 @@
     "id": "spaceship-46",
     "cat": "spaceship",
     "name": "Spaceship Part #46 - Pacific Ocean",
-    "lat": 80.66130757742845,
-    "lng": -142.7783203125,
+    "lat": 59.844334999312764,
+    "lng": -63.719029676745464,
     "notes": "[Helicopter Required] This is by far the most difficult Spaceship Part to get. It will require extremely precise control with a helicopter, or pinpoint landing with a parachute. If you are using a helicopter like in the video, you will need to land perfectly in between the concrete support beam and the underside of the bridge. The Spaceship Part will be on a ledge.\t",
     "counts_for": [
       "100%",
@@ -915,8 +915,8 @@
     "id": "spaceship-47",
     "cat": "spaceship",
     "name": "Spaceship Part #47 - Cassoy Creek",
-    "lat": 80.32750594400994,
-    "lng": -129.6826171875,
+    "lat": 56.93060284990018,
+    "lng": -27.68372301597398,
     "notes": "Directly underneath the bridge is a small outcropping of rock right next to a waterfall. The Spaceship Part is on this outcropping.",
     "counts_for": [
       "100%",
@@ -927,8 +927,8 @@
     "id": "spaceship-48",
     "cat": "spaceship",
     "name": "Spaceship Part #48 - Paleto Cove",
-    "lat": 81.80502352078734,
-    "lng": -138.515625,
+    "lat": 68.72868669261885,
+    "lng": -51.98941643481652,
     "notes": "This Part is easy to find, it’s in plain sight at the top of the small hill that extends out from the beach.",
     "counts_for": [
       "100%",
@@ -939,8 +939,8 @@
     "id": "spaceship-49",
     "cat": "spaceship",
     "name": "Spaceship Part #49 - Paleto Forest",
-    "lat": 82.148456834319,
-    "lng": -129.287109375,
+    "lat": 71.05425900361878,
+    "lng": -26.59540838527954,
     "notes": "You will see the entrance to a small concrete tunnel, with a fallen tree trunk across the entrance. Just inside the tunnel is this Part.",
     "counts_for": [
       "100%",
@@ -951,8 +951,8 @@
     "id": "spaceship-50",
     "cat": "spaceship",
     "name": "Spaceship Part #50 - Paleto Forest",
-    "lat": 82.68188478330565,
-    "lng": -128.49609375,
+    "lat": 74.35206839716903,
+    "lng": -24.41877912389066,
     "notes": "On this block you should see an ugly grey tower with a metal staircase around it. Climb up two flights of stairs, and jump inside the window. The Spaceship Part is on the floor inside this room.",
     "counts_for": [
       "100%",
@@ -963,8 +963,8 @@
     "id": "stunt-01",
     "cat": "stunt",
     "name": "Stunt Jump #1 - Burton",
-    "lat": 68.86351700272681,
-    "lng": -126.826171875,
+    "lat": -48.15410058805112,
+    "lng": -19.823672905403015,
     "notes": "",
     "counts_for": [
       "100%",
@@ -975,8 +975,8 @@
     "id": "stunt-02",
     "cat": "stunt",
     "name": "Stunt Jump #2 - Downtown",
-    "lat": 67.7094454829218,
-    "lng": -125.1123046875,
+    "lat": -53.565398816920315,
+    "lng": -15.107642839060446,
     "notes": "",
     "counts_for": [
       "100%",
@@ -987,8 +987,8 @@
     "id": "stunt-03",
     "cat": "stunt",
     "name": "Stunt Jump #3 - Textile City",
-    "lat": 67.42436394630637,
-    "lng": -121.552734375,
+    "lat": -54.76875043961507,
+    "lng": -5.312811162810476,
     "notes": "",
     "counts_for": [
       "100%",
@@ -999,8 +999,8 @@
     "id": "stunt-04",
     "cat": "stunt",
     "name": "Stunt Jump #4 - La Mesa",
-    "lat": 67.52537347875263,
-    "lng": -118.916015625,
+    "lat": -54.34803229044552,
+    "lng": 1.942619708485779,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1011,8 +1011,8 @@
     "id": "stunt-05",
     "cat": "stunt",
     "name": "Stunt Jump #5 - Pillbox Hill",
-    "lat": 66.87834504307973,
-    "lng": -124.2333984375,
+    "lat": -56.94003307975637,
+    "lng": -12.689165881961713,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1023,8 +1023,8 @@
     "id": "stunt-06",
     "cat": "stunt",
     "name": "Stunt Jump #6 - Pillbox Hill/Elgin Ave",
-    "lat": 65.85675647909318,
-    "lng": -124.7607421875,
+    "lat": -60.57383993731674,
+    "lng": -14.14025205622093,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1035,8 +1035,8 @@
     "id": "stunt-07",
     "cat": "stunt",
     "name": "Stunt Jump #7 - Strawberry",
-    "lat": 65.2750935499542,
-    "lng": -120.9814453125,
+    "lat": -62.41980281131188,
+    "lng": -3.740801140696277,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1047,8 +1047,8 @@
     "id": "stunt-08",
     "cat": "stunt",
     "name": "Stunt Jump #8 - Strawberry",
-    "lat": 64.41592147626879,
-    "lng": -119.794921875,
+    "lat": -64.8867060248533,
+    "lng": -0.4758572486129822,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1059,8 +1059,8 @@
     "id": "stunt-09",
     "cat": "stunt",
     "name": "Stunt Jump #9 - Rancho/Innocence Blvd",
-    "lat": 63.3324127919358,
-    "lng": -120.5859375,
+    "lat": -67.61119961213194,
+    "lng": -2.6524865100018644,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1071,8 +1071,8 @@
     "id": "stunt-10",
     "cat": "stunt",
     "name": "Stunt Jump #10 - El Burro Heights",
-    "lat": 60.54377524118842,
-    "lng": -110.21484375,
+    "lat": -73.06867757618421,
+    "lng": 25.885541583763484,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1083,8 +1083,8 @@
     "id": "stunt-11",
     "cat": "stunt",
     "name": "Stunt Jump #11 - Terminal/Buccaneer Way",
-    "lat": 57.088515327886505,
-    "lng": -116.6748046875,
+    "lat": -77.6727437674873,
+    "lng": 8.10973594908765,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1095,8 +1095,8 @@
     "id": "stunt-12",
     "cat": "stunt",
     "name": "Stunt Jump #12 - Elysian Island",
-    "lat": 56.68037378950136,
-    "lng": -118.2568359375,
+    "lat": -78.10402010913766,
+    "lng": 3.7564774263098855,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1107,8 +1107,8 @@
     "id": "stunt-13",
     "cat": "stunt",
     "name": "Stunt Jump #13 - Elysian Island",
-    "lat": 59.24341475839977,
-    "lng": -120.9814453125,
+    "lat": -75.02705005197257,
+    "lng": -3.740801140696277,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1119,8 +1119,8 @@
     "id": "stunt-14",
     "cat": "stunt",
     "name": "Stunt Jump #14 - Elysian Island/Plaice PL",
-    "lat": 58.768200159239576,
-    "lng": -121.0693359375,
+    "lat": -75.66927642319335,
+    "lng": -3.9826488364061845,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1131,8 +1131,8 @@
     "id": "stunt-15",
     "cat": "stunt",
     "name": "Stunt Jump #15 - Elysian Island",
-    "lat": 57.75107598132104,
-    "lng": -122.7392578125,
+    "lat": -76.92862433644181,
+    "lng": -8.5777550548938,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1143,8 +1143,8 @@
     "id": "stunt-16",
     "cat": "stunt",
     "name": "Stunt Jump #16 - Elysian Island",
-    "lat": 57.72761921621492,
-    "lng": -123.3544921875,
+    "lat": -76.95594494721908,
+    "lng": -10.270688924862924,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1155,8 +1155,8 @@
     "id": "stunt-17",
     "cat": "stunt",
     "name": "Stunt Jump #17 - Elysian Island/Elysian Fields Fwy",
-    "lat": 56.8249328650072,
-    "lng": -122.87109375,
+    "lat": -77.9535296227536,
+    "lng": -8.940526598458604,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1167,8 +1167,8 @@
     "id": "stunt-18",
     "cat": "stunt",
     "name": "Stunt Jump #18 - Elysian Island",
-    "lat": 55.50374985927514,
-    "lng": -123.2666015625,
+    "lat": -79.24303364622045,
+    "lng": -10.028841229153073,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1179,8 +1179,8 @@
     "id": "stunt-19",
     "cat": "stunt",
     "name": "Stunt Jump #19 - Elysian Island/Voodoo Place",
-    "lat": 56.48676175249086,
-    "lng": -122.5634765625,
+    "lat": -78.30179504981078,
+    "lng": -8.094059663474042,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1191,8 +1191,8 @@
     "id": "stunt-20",
     "cat": "stunt",
     "name": "Stunt Jump #20 - Elysian Island/Voodoo Place",
-    "lat": 56.96893619436121,
-    "lng": -121.6845703125,
+    "lat": -77.8011638386939,
+    "lng": -5.675582706375309,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1203,8 +1203,8 @@
     "id": "stunt-21",
     "cat": "stunt",
     "name": "Stunt Jump #21 - Banning",
-    "lat": 60.80206374467983,
-    "lng": -123.5302734375,
+    "lat": -72.64092765200712,
+    "lng": -10.754384316282682,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1215,8 +1215,8 @@
     "id": "stunt-22",
     "cat": "stunt",
     "name": "Stunt Jump #22 - Los Santos International Airport/New Empire Way",
-    "lat": 59.17592824927138,
-    "lng": -132.5390625,
+    "lat": -75.12049069100053,
+    "lng": -35.54377312654495,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1227,8 +1227,8 @@
     "id": "stunt-23",
     "cat": "stunt",
     "name": "Stunt Jump #23 - Los Santos International Airport/New Empire Way",
-    "lat": 58.21702494960191,
-    "lng": -133.59375,
+    "lat": -76.3702583963074,
+    "lng": -38.44594547506347,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1239,8 +1239,8 @@
     "id": "stunt-24",
     "cat": "stunt",
     "name": "Stunt Jump #24 - Los Santos International Airport/New Empire Way",
-    "lat": 59.44507509904716,
-    "lng": -134.296875,
+    "lat": -74.74327533642331,
+    "lng": -40.38072704074247,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1251,8 +1251,8 @@
     "id": "stunt-25",
     "cat": "stunt",
     "name": "Stunt Jump #25 - La Puerta",
-    "lat": 63.66576033778838,
-    "lng": -128.6279296875,
+    "lat": -66.81509560103366,
+    "lng": -24.78155066745549,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1263,8 +1263,8 @@
     "id": "stunt-26",
     "cat": "stunt",
     "name": "Stunt Jump #26 - La Puerta",
-    "lat": 63.84066844285508,
-    "lng": -130.5615234375,
+    "lat": -66.38286796168096,
+    "lng": -30.102199973072743,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1275,8 +1275,8 @@
     "id": "stunt-27",
     "cat": "stunt",
     "name": "Stunt Jump #27 - La Puerta/Dutch London St",
-    "lat": 63.89873081524394,
-    "lng": -129.6826171875,
+    "lat": -66.23711111119954,
+    "lng": -27.68372301597398,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1287,8 +1287,8 @@
     "id": "stunt-28",
     "cat": "stunt",
     "name": "Stunt Jump #28 - Little Seoul",
-    "lat": 64.37794095121995,
-    "lng": -128.8916015625,
+    "lat": -64.98915253440764,
+    "lng": -25.5070937545851,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1299,8 +1299,8 @@
     "id": "stunt-29",
     "cat": "stunt",
     "name": "Stunt Jump #29 - Little Seoul/La Puerta Fwy",
-    "lat": 65.31182925383723,
-    "lng": -128.759765625,
+    "lat": -62.30762015948592,
+    "lng": -25.144322211020295,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1311,8 +1311,8 @@
     "id": "stunt-30",
     "cat": "stunt",
     "name": "Stunt Jump #30 - Little Seoul/Adam's Apple Blvd",
-    "lat": 65.67638148211446,
-    "lng": -130.9130859375,
+    "lat": -61.162502994889934,
+    "lng": -31.06959075591226,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1323,8 +1323,8 @@
     "id": "stunt-31",
     "cat": "stunt",
     "name": "Stunt Jump #31 - Pillbox Hill",
-    "lat": 66.93006025862448,
-    "lng": -127.3974609375,
+    "lat": -56.74160961045856,
+    "lng": -21.395682927517214,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1335,8 +1335,8 @@
     "id": "stunt-32",
     "cat": "stunt",
     "name": "Stunt Jump #32 - Little Seoul",
-    "lat": 67.90861918215302,
-    "lng": -128.9794921875,
+    "lat": -52.694785060346426,
+    "lng": -25.74894145029498,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1347,8 +1347,8 @@
     "id": "stunt-33",
     "cat": "stunt",
     "name": "Stunt Jump #33 - Little Seoul/Vespucci Blvd",
-    "lat": 66.5482634621744,
-    "lng": -133.0224609375,
+    "lat": -58.172463186614785,
+    "lng": -36.87393545294927,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1359,8 +1359,8 @@
     "id": "stunt-34",
     "cat": "stunt",
     "name": "Stunt Jump #34 - Del Perro/Equality Way",
-    "lat": 66.93006025862448,
-    "lng": -140.185546875,
+    "lat": -56.74160961045856,
+    "lng": -56.58452265330415,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1371,8 +1371,8 @@
     "id": "stunt-35",
     "cat": "stunt",
     "name": "Stunt Jump #35 - Pacific Bluffs",
-    "lat": 68.6245436634471,
-    "lng": -144.6240234375,
+    "lat": -49.349933903668436,
+    "lng": -68.79783128665288,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1383,8 +1383,8 @@
     "id": "stunt-36",
     "cat": "stunt",
     "name": "Stunt Jump #36 - Burton",
-    "lat": 69.42669052967202,
-    "lng": -130.2099609375,
+    "lat": -45.16748711837598,
+    "lng": -29.134809190233256,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1395,8 +1395,8 @@
     "id": "stunt-37",
     "cat": "stunt",
     "name": "Stunt Jump #37 - Rockford Hills",
-    "lat": 69.28725695167886,
-    "lng": -132.2314453125,
+    "lat": -45.929621543902044,
+    "lng": -34.697306191560386,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1407,8 +1407,8 @@
     "id": "stunt-38",
     "cat": "stunt",
     "name": "Stunt Jump #38 - GWC Golfing Society",
-    "lat": 69.67235784229395,
-    "lng": -135.1318359375,
+    "lat": -43.78706332626597,
+    "lng": -42.67828014998628,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1419,8 +1419,8 @@
     "id": "stunt-39",
     "cat": "stunt",
     "name": "Stunt Jump #39 - Richman",
-    "lat": 70.95969716686398,
-    "lng": -138.6474609375,
+    "lat": -35.714632064196024,
+    "lng": -52.35218797838132,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1431,8 +1431,8 @@
     "id": "stunt-40",
     "cat": "stunt",
     "name": "Stunt Jump #40 - Vinewood Hills",
-    "lat": 74.76429887097669,
-    "lng": -124.541015625,
+    "lat": -2.6076043870032435,
+    "lng": -13.535632816946276,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1443,8 +1443,8 @@
     "id": "stunt-41",
     "cat": "stunt",
     "name": "Stunt Jump #41 - Raton Canyon",
-    "lat": 79.85883334713468,
-    "lng": -133.7255859375,
+    "lat": 52.610941954922815,
+    "lng": -38.80871701862827,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1455,8 +1455,8 @@
     "id": "stunt-42",
     "cat": "stunt",
     "name": "Stunt Jump #42 - Alamo Sea",
-    "lat": 80.09591386315367,
-    "lng": -119.6630859375,
+    "lat": 54.82849347117929,
+    "lng": -0.11308570504814952,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1467,8 +1467,8 @@
     "id": "stunt-43",
     "cat": "stunt",
     "name": "Stunt Jump #43 - Paleto Bay/Procopio Promenade",
-    "lat": 83.25709720189782,
-    "lng": -126.2109375,
+    "lat": 77.48697268598468,
+    "lng": -18.13073903543389,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1479,8 +1479,8 @@
     "id": "stunt-44",
     "cat": "stunt",
     "name": "Stunt Jump #44 - Paleto Bay",
-    "lat": 83.15311098437887,
-    "lng": -124.4970703125,
+    "lat": 76.95204323514189,
+    "lng": -13.414708969091322,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1491,8 +1491,8 @@
     "id": "stunt-45",
     "cat": "stunt",
     "name": "Stunt Jump #45 - Mount Gordo",
-    "lat": 81.45973726383451,
-    "lng": -92.109375,
+    "lat": 66.23014527305864,
+    "lng": 75.7061668999979,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1503,8 +1503,8 @@
     "id": "stunt-46",
     "cat": "stunt",
     "name": "Stunt Jump #46 - Sandy Shores",
-    "lat": 78.87004849291571,
-    "lng": -108.80859375,
+    "lat": 42.71762888227938,
+    "lng": 29.75510471512149,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1515,8 +1515,8 @@
     "id": "stunt-47",
     "cat": "stunt",
     "name": "Stunt Jump #47 - Grand Senora Desert",
-    "lat": 77.97990023317645,
-    "lng": -108.2373046875,
+    "lat": 33.10697006170142,
+    "lng": 31.327114737235718,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1527,8 +1527,8 @@
     "id": "stunt-48",
     "cat": "stunt",
     "name": "Stunt Jump #48 - Grand Senora Desert",
-    "lat": 76.13242963554379,
-    "lng": -107.9736328125,
+    "lat": 12.290691922689886,
+    "lng": 32.052657824365326,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1539,8 +1539,8 @@
     "id": "stunt-49",
     "cat": "stunt",
     "name": "Stunt Jump #49 - Grand Senora Desert",
-    "lat": 75.49715731893087,
-    "lng": -107.49023437500006,
+    "lat": 5.2442074806396874,
+    "lng": 33.382820150769476,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1551,8 +1551,8 @@
     "id": "stunt-50",
     "cat": "stunt",
     "name": "Stunt Jump #50 - Ron Alternates Wind Farm",
-    "lat": 75.28657817848102,
-    "lng": -105.205078125,
+    "lat": 2.952684164656157,
+    "lng": 39.670860239226386,
     "notes": "",
     "counts_for": [
       "100%",
@@ -1563,8 +1563,8 @@
     "id": "letter-01",
     "cat": "letter",
     "name": "Letter Scrap #1 - Paleto Bay",
-    "lat": 83.3391531415795,
-    "lng": -124.2333984375,
+    "lat": 77.89932765179618,
+    "lng": -12.689165881961713,
     "notes": "By the side of the road is one wooden house which is abandoned and boarded up. Go around the back and through the door, and in this room is the Letter.",
     "counts_for": [
       "100%",
@@ -1575,8 +1575,8 @@
     "id": "letter-02",
     "cat": "letter",
     "name": "Letter Scrap #2 - Paleto Bay",
-    "lat": 83.25709720189782,
-    "lng": -110.478515625,
+    "lat": 77.48697268598468,
+    "lng": 25.159998496633847,
     "notes": "By the side of the circular road is a small wooden building which seems to be a public toilet. On the left hand side, up a couple of steps and in front of the “Male” toilet sign, is this Letter.",
     "counts_for": [
       "100%",
@@ -1587,8 +1587,8 @@
     "id": "letter-03",
     "cat": "letter",
     "name": "Letter Scrap #3 - Mount Chiliad",
-    "lat": 83.00484381972778,
-    "lng": -110.302734375,
+    "lat": 76.16522038704032,
+    "lng": 25.643693888053633,
     "notes": "In the campsite, which seems to be the home of an anti-capitalism protest, there will be a white tent with a “Social Justice For All” banner hanging outside of it along with some multi-coloured crates. In the entrance of this tent is the Letter.",
     "counts_for": [
       "100%",
@@ -1599,8 +1599,8 @@
     "id": "letter-04",
     "cat": "letter",
     "name": "Letter Scrap #4 - Mount Chiliad",
-    "lat": 81.30832090051811,
-    "lng": -106.1279296875,
+    "lat": 65.08392707236034,
+    "lng": 37.1314594342727,
     "notes": "You will come across a farming area where crops are growing inside white canvas “tunnels”. Looking down the hill, the second tunnel on the left will contain the Letter, about halfway down.",
     "counts_for": [
       "100%",
@@ -1611,8 +1611,8 @@
     "id": "letter-05",
     "cat": "letter",
     "name": "Letter Scrap #5 - El Gordo Lighthouse",
-    "lat": 81.45320871717107,
-    "lng": -91.1865234375,
+    "lat": 66.18135814670335,
+    "lng": 78.24556770495155,
     "notes": "Just off the shore is a lighthouse. Swim over across to it, and on the left-hand side of the circular base is a small ledge and some stairs. Climb up these and the Letter will be on the floor in front of you behind the lighthouse.",
     "counts_for": [
       "100%",
@@ -1623,8 +1623,8 @@
     "id": "letter-06",
     "cat": "letter",
     "name": "Letter Scrap #6 - Galilee",
-    "lat": 80.15619999232506,
-    "lng": -111.6650390625,
+    "lat": 55.38189916140676,
+    "lng": 21.895054604550552,
     "notes": "There will be a few houses overlooking a jetty and a lake. In front of the one with the red door and a metal boat frame outside will be this Letter.",
     "counts_for": [
       "100%",
@@ -1635,8 +1635,8 @@
     "id": "letter-07",
     "cat": "letter",
     "name": "Letter Scrap #7 - Sandy Shores",
-    "lat": 78.84457080539549,
-    "lng": -109.16015625,
+    "lat": 42.45052622803571,
+    "lng": 28.787713932282003,
     "notes": "In front of the derelict motel will be an abandoned area that used to be used for sporting activities. In the small dug-out section that used to be a swimming pool will be this Letter.",
     "counts_for": [
       "100%",
@@ -1647,8 +1647,8 @@
     "id": "letter-08",
     "cat": "letter",
     "name": "Letter Scrap #8 - Grand Senora Desert",
-    "lat": 77.73028235402455,
-    "lng": -111.5771484375,
+    "lat": 30.33015503561722,
+    "lng": 22.136902300260402,
     "notes": "On the top of the three-tiered rock next to the runway is this Letter. You don’t actually need a helicopter to get up there, you can just climb up the rock with ",
     "counts_for": [
       "100%",
@@ -1659,8 +1659,8 @@
     "id": "letter-09",
     "cat": "letter",
     "name": "Letter Scrap #9 - Grand Senora Desert",
-    "lat": 76.47577254009317,
-    "lng": -115.48828125,
+    "lat": 16.15800585612843,
+    "lng": 11.374679841170973,
     "notes": "On the construction site is the shell of a circular gas structure. In the very centre on some grating with construction poles sticking out of it is this Letter.",
     "counts_for": [
       "100%",
@@ -1671,8 +1671,8 @@
     "id": "letter-10",
     "cat": "letter",
     "name": "Letter Scrap #10 - Ron Alternates Wind Farm",
-    "lat": 75.82365950624266,
-    "lng": -94.482421875,
+    "lat": 8.84393108422309,
+    "lng": 69.17627911583125,
     "notes": "You will have to either drive a boat or swim inside the cavern. In the back left is a small sandy section, on which this Letter lies.",
     "counts_for": [
       "100%",
@@ -1683,8 +1683,8 @@
     "id": "letter-11",
     "cat": "letter",
     "name": "Letter Scrap #11 - Pacific Ocean",
-    "lat": 74.56673621013677,
-    "lng": -94.658203125,
+    "lat": -4.659067413950724,
+    "lng": 68.69258372441149,
     "notes": "This is located on the first island south of No.10. Swim or drive to the island and the Letter will be amongst the rocks on the northern section of the island.",
     "counts_for": [
       "100%",
@@ -1695,8 +1695,8 @@
     "id": "letter-12",
     "cat": "letter",
     "name": "Letter Scrap #12 - Vinewood Hills",
-    "lat": 73.35305494105975,
-    "lng": -117.861328125,
+    "lat": -16.52270981231749,
+    "lng": 4.844792057004298,
     "notes": "On top of the “I” on the “VINEWOOD” sign. Climb up the ladder on the side of it to get up there.",
     "counts_for": [
       "100%",
@@ -1707,8 +1707,8 @@
     "id": "letter-13",
     "cat": "letter",
     "name": "Letter Scrap #13 - Vinewood Racetrack",
-    "lat": 70.18510275498964,
-    "lng": -114.43359375,
+    "lat": -40.745454823651215,
+    "lng": 14.276852189689464,
     "notes": "This one is in the stand facing the racetrack. Go up the stairs in front of the “Information” entrance, and the Letter will be on the fifth row of seats up.",
     "counts_for": [
       "100%",
@@ -1719,8 +1719,8 @@
     "id": "letter-14",
     "cat": "letter",
     "name": "Letter Scrap #14 - East Vinewood",
-    "lat": 68.87935761076949,
-    "lng": -113.994140625,
+    "lat": -48.07336530419267,
+    "lng": 15.486090668238859,
     "notes": "Underneath the bridge, this Letter is on the middle of the three platforms jutting out over the river.",
     "counts_for": [
       "100%",
@@ -1731,8 +1731,8 @@
     "id": "letter-15",
     "cat": "letter",
     "name": "Letter Scrap #15 - Hawick",
-    "lat": 68.9110048456202,
-    "lng": -121.9921875,
+    "lat": -47.911514081325194,
+    "lng": -6.522049641359871,
     "notes": "This one is inside the skate park, on the floor in the middle of the ramp.",
     "counts_for": [
       "100%",
@@ -1743,8 +1743,8 @@
     "id": "letter-16",
     "cat": "letter",
     "name": "Letter Scrap #16 - Alta",
-    "lat": 68.17155518732503,
-    "lng": -123.5302734375,
+    "lat": -51.506384583371386,
+    "lng": -10.754384316282682,
     "notes": "This Letter is in a hole on the construction site. You should easily be able to spot it by the number of red bollards around the hole.",
     "counts_for": [
       "100%",
@@ -1755,8 +1755,8 @@
     "id": "letter-17",
     "cat": "letter",
     "name": "Letter Scrap #17 - Pillbox Hill",
-    "lat": 65.87472467098549,
-    "lng": -125.859375,
+    "lat": -60.514375244037645,
+    "lng": -17.163348252594403,
     "notes": "This is on top of the huge yellow crane in Los Santos. You can access the ladder underground in the construction site, then you’ll have to climb up all the way to the top which will take several minutes. At the very top is the Letter.",
     "counts_for": [
       "100%",
@@ -1767,8 +1767,8 @@
     "id": "letter-18",
     "cat": "letter",
     "name": "Letter Scrap #18 - La Mesa",
-    "lat": 65.78475783804785,
-    "lng": -118.6083984375,
+    "lat": -60.810607981780855,
+    "lng": 2.7890866434703696,
     "notes": "Either side of the bridge is an archway. Underneath the arch on the south side of the bridge is this letter.",
     "counts_for": [
       "100%",
@@ -1779,8 +1779,8 @@
     "id": "letter-19",
     "cat": "letter",
     "name": "Letter Scrap #19 - Pacific Ocean",
-    "lat": 64.71787992684128,
-    "lng": -96.6796875,
+    "lat": -64.05291290762851,
+    "lng": 63.13008672308433,
     "notes": "On the east side of the island is a beach. At the far end of it is this Letter.",
     "counts_for": [
       "100%",
@@ -1791,8 +1791,8 @@
     "id": "letter-20",
     "cat": "letter",
     "name": "Letter Scrap #20 - El Burro Heights",
-    "lat": 61.10078883158897,
-    "lng": -109.9951171875,
+    "lat": -72.12864248814017,
+    "lng": 26.490160823038167,
     "notes": "Inside the middle building in this area is a rusty sheltered area with a green roof and a skip next to it. In this small area is the Letter.",
     "counts_for": [
       "100%",
@@ -1803,8 +1803,8 @@
     "id": "letter-21",
     "cat": "letter",
     "name": "Letter Scrap #21 - El Burro Heights",
-    "lat": 60.37042901631508,
-    "lng": -117.2021484375,
+    "lat": -73.34814197586354,
+    "lng": 6.658649774828348,
     "notes": "This Letter is located on a platform by the side of the train tunnel. To get in there, you will have to drive through the entrance to the tunnel which is further south.",
     "counts_for": [
       "100%",
@@ -1815,8 +1815,8 @@
     "id": "letter-22",
     "cat": "letter",
     "name": "Letter Scrap #22 - Terminal / Buccaneer Way",
-    "lat": 56.559482483762245,
-    "lng": -114.5654296875,
+    "lat": -78.22801224727748,
+    "lng": 13.914080646124631,
     "notes": "This one involves climbing quite a few containers in the shipment area. First climb up the yellow “Post Op” container, and then the grey “Jetsam” one. Jump over the small gap to the next container, then climb up the one either side to jump across to the blue on which the Letter sits on top of.",
     "counts_for": [
       "100%",
@@ -1827,8 +1827,8 @@
     "id": "letter-23",
     "cat": "letter",
     "name": "Letter Scrap #23 - Elysian Island",
-    "lat": 58.10110549730587,
-    "lng": -125.419921875,
+    "lat": -76.51200664160426,
+    "lng": -15.954109774045008,
     "notes": "This is located on the western-most boat on dry land in this area. Cross the small yellow bridge to get on the boat, then take the steps up to the captain’s bridge and the Letter is just behind the enclosed section.",
     "counts_for": [
       "100%",
@@ -1839,8 +1839,8 @@
     "id": "letter-24",
     "cat": "letter",
     "name": "Letter Scrap #24 - Davis / Grove St",
-    "lat": 61.71070595883174,
-    "lng": -124.013671875,
+    "lat": -71.02058138243513,
+    "lng": -12.084546642687002,
     "notes": "This is located behind one of the houses in Grove Street, on the doorstep of the back door. The particular house in question should be familiar to anyone who played San Andreas.",
     "counts_for": [
       "100%",
@@ -1851,8 +1851,8 @@
     "id": "letter-25",
     "cat": "letter",
     "name": "Letter Scrap #25 - Davis / Davis Ave",
-    "lat": 62.895217544882044,
-    "lng": -124.5849609375,
+    "lat": -68.60299661407369,
+    "lng": -13.656556664801201,
     "notes": "This is located in a green container filled with rubbish outside the blue “Mega Mall” building.",
     "counts_for": [
       "100%",
@@ -1863,8 +1863,8 @@
     "id": "letter-26",
     "cat": "letter",
     "name": "Letter Scrap #26 - Los Santos International Airport",
-    "lat": 59.22093407615045,
-    "lng": -133.505859375,
+    "lat": -75.05826046970842,
+    "lng": -38.20409777935359,
     "notes": "[Helicopter Required] You will need a helicopter to fly onto the circular structure inside the airport. In front of a door in the circular blue column is the Letter.",
     "counts_for": [
       "100%",
@@ -1875,8 +1875,8 @@
     "id": "letter-27",
     "cat": "letter",
     "name": "Letter Scrap #27 - Los Santos International Airport",
-    "lat": 57.98480801923985,
-    "lng": -134.82421875,
+    "lat": -76.65230777084628,
+    "lng": -41.831813215001716,
     "notes": "To the right of the steps leading down into the airport with the red “LSIA” sign above them. This Letter will be on the floor in front of 4 blue seats built into the wall.",
     "counts_for": [
       "100%",
@@ -1887,8 +1887,8 @@
     "id": "letter-28",
     "cat": "letter",
     "name": "Letter Scrap #28 - San Andreas",
-    "lat": 64.35893097894458,
-    "lng": -137.8564453125,
+    "lat": -65.04022904159717,
+    "lng": -50.17555871699244,
     "notes": "On the beach there is a concrete skate park. This Letter is located in one of the holes in the park.",
     "counts_for": [
       "100%",
@@ -1899,8 +1899,8 @@
     "id": "letter-29",
     "cat": "letter",
     "name": "Letter Scrap #29 - La Puerta",
-    "lat": 64.86760781632728,
-    "lng": -134.6044921875,
+    "lat": -63.626414346689735,
+    "lng": -41.22719397572703,
     "notes": "Underneath the bridge is a tunnel. Jump into the water and swim under the bridge. The Letter is on the platform in the centre of the tunnel.",
     "counts_for": [
       "100%",
@@ -1911,8 +1911,8 @@
     "id": "letter-30",
     "cat": "letter",
     "name": "Letter Scrap #30 - La Puerta / Palomino Ave",
-    "lat": 64.99793920061401,
-    "lng": -142.3828125,
+    "lat": -63.24789819078289,
+    "lng": -62.63071504605104,
     "notes": "At the end of the pier is a large blue/grey building. Climb up the stairs on the left-hand side of the grey section and cross the bridge to the right of the toilets. The Letter will be next to a couple of blue umbrellas on the floor.",
     "counts_for": [
       "100%",
@@ -1923,8 +1923,8 @@
     "id": "letter-31",
     "cat": "letter",
     "name": "Letter Scrap #31 - Richards Majestic",
-    "lat": 67.8258363798566,
-    "lng": -136.0107421875,
+    "lat": -53.05968501987474,
+    "lng": -45.09675710708507,
     "notes": "Climb over the fence in front of the “Vinewood Zombie” sign and go up the stairs. Climb up onto the air condition unit and then over the railing to find this Letter between two more units.",
     "counts_for": [
       "100%",
@@ -1935,8 +1935,8 @@
     "id": "letter-32",
     "cat": "letter",
     "name": "Letter Scrap #32 - Pacific Bluffs",
-    "lat": 68.98992503056704,
-    "lng": -141.328125,
+    "lat": -47.504663826653704,
+    "lng": -59.72854269753253,
     "notes": "This is located in front of the sarcophagus with two rose wreaths laid against it, on the small island in the middle of the pond.",
     "counts_for": [
       "100%",
@@ -1947,8 +1947,8 @@
     "id": "letter-33",
     "cat": "letter",
     "name": "Letter Scrap #33 - Pacific Bluffs",
-    "lat": 70.00556654574504,
-    "lng": -154.3359375,
+    "lat": -41.835719320851524,
+    "lng": -95.52200166259414,
     "notes": "This is really easy to spot, located on the bar next to the swimming pool. ",
     "counts_for": [
       "100%",
@@ -1959,8 +1959,8 @@
     "id": "letter-34",
     "cat": "letter",
     "name": "Letter Scrap #34 - Pacific Bluffs",
-    "lat": 70.3926061360023,
-    "lng": -146.4697265625,
+    "lat": -39.450521837917165,
+    "lng": -73.87663289656027,
     "notes": "This is located in the maze. From the entrance, follow the path to the first fork. Then take a right, then the first left, then left again twice to come across this Letter.",
     "counts_for": [
       "100%",
@@ -1971,8 +1971,8 @@
     "id": "letter-35",
     "cat": "letter",
     "name": "Letter Scrap #35 - West Vinewood",
-    "lat": 69.88501003874241,
-    "lng": -127.705078125,
+    "lat": -42.55242175063179,
+    "lng": -22.242149862501805,
     "notes": "In front of some doors is a semicircular cobblestoned area with a sort of table next to it. On the table is this Letter.",
     "counts_for": [
       "100%",
@@ -1983,8 +1983,8 @@
     "id": "letter-36",
     "cat": "letter",
     "name": "Letter Scrap #36 - Pacific Bluffs",
-    "lat": 72.38240996837266,
-    "lng": -125.68359375,
+    "lat": -24.993320626602376,
+    "lng": -16.679652861174645,
     "notes": "This one is inside the room next to the swimming pool, in front of a table tennis table.",
     "counts_for": [
       "100%",
@@ -1995,8 +1995,8 @@
     "id": "letter-37",
     "cat": "letter",
     "name": "Letter Scrap #37 - Tongva Valley",
-    "lat": 73.84928645675247,
-    "lng": -139.39453125,
+    "lat": -11.83458093004583,
+    "lng": -54.407893391915266,
     "notes": "By the side of the road is a tourist information board. The Letter is right in front of it.",
     "counts_for": [
       "100%",
@@ -2007,8 +2007,8 @@
     "id": "letter-38",
     "cat": "letter",
     "name": "Letter Scrap #38 - Vinewood Hills",
-    "lat": 74.4375718479728,
-    "lng": -129.0234375,
+    "lat": -5.983467199455919,
+    "lng": -25.869865298149932,
     "notes": "This is located just to the right of the orange “Big” juice stand next to a set of four tables and benches.",
     "counts_for": [
       "100%",
@@ -2019,8 +2019,8 @@
     "id": "letter-39",
     "cat": "letter",
     "name": "Letter Scrap #39 - Great Chaparaal",
-    "lat": 75.74812548842993,
-    "lng": -130.60546875,
+    "lat": 8.00660715957258,
+    "lng": -30.223123820927697,
     "notes": "By the side of the road is an old mine entrance. Just to the left of it is the Letter Scrap.",
     "counts_for": [
       "100%",
@@ -2031,8 +2031,8 @@
     "id": "letter-40",
     "cat": "letter",
     "name": "Letter Scrap #40 - Grand Senora Desert",
-    "lat": 76.1113484424047,
-    "lng": -122.783203125,
+    "lat": 12.054281809476988,
+    "lng": -8.698678902748753,
     "notes": "Between the huge barn and the abandoned house is an old wooden billboard. The Letter is behind it.",
     "counts_for": [
       "100%",
@@ -2043,8 +2043,8 @@
     "id": "letter-41",
     "cat": "letter",
     "name": "Letter Scrap #41 - Grand Senora Desert",
-    "lat": 77.37990618476177,
-    "lng": -121.81640625,
+    "lat": 26.394269919140662,
+    "lng": -6.038354249940113,
     "notes": "This is on top of the largest building in the quarry. To get up there, follow the series of ladders which begins on ground level next to the building on one of the support beams.",
     "counts_for": [
       "100%",
@@ -2055,8 +2055,8 @@
     "id": "letter-42",
     "cat": "letter",
     "name": "Letter Scrap #42 - Great Chaparaal",
-    "lat": 77.38950400539731,
-    "lng": -127.3974609375,
+    "lat": 26.502537346524708,
+    "lng": -21.395682927517214,
     "notes": "In front of the church is a small graveyard. In the graveyard in front of three white crosses is the Letter.",
     "counts_for": [
       "100%",
@@ -2067,8 +2067,8 @@
     "id": "letter-43",
     "cat": "letter",
     "name": "Letter Scrap #43 - Great Chaparaal",
-    "lat": 77.19617635994676,
-    "lng": -132.7587890625,
+    "lat": 24.31822173279011,
+    "lng": -36.14839236581963,
     "notes": "Underneath the bridge is a rocky path, and this Letter Scrap is right in the middle of it.",
     "counts_for": [
       "100%",
@@ -2079,8 +2079,8 @@
     "id": "letter-44",
     "cat": "letter",
     "name": "Letter Scrap #44 - Zancudo River / Route 68",
-    "lat": 76.93055466727323,
-    "lng": -147.48046875,
+    "lat": 21.309160999760167,
+    "lng": -76.65788139722382,
     "notes": "If the bridge is ahead of you in the distance, this Letter will be just in front of the stream amongst some reeds to the right.",
     "counts_for": [
       "100%",
@@ -2091,8 +2091,8 @@
     "id": "letter-45",
     "cat": "letter",
     "name": "Letter Scrap #45 - Raton Canyon",
-    "lat": 80.05804956215623,
-    "lng": -140.1416015625,
+    "lat": 54.47871286450765,
+    "lng": -56.46359880544921,
     "notes": "[Helicopter Required] This Letter is on top of a small rock that can only be accessed by a helicopter. Once you’re up there, it’s very easy to spot.",
     "counts_for": [
       "100%",
@@ -2103,8 +2103,8 @@
     "id": "letter-46",
     "cat": "letter",
     "name": "Letter Scrap #46 - Mount Chiliad",
-    "lat": 80.17871349622823,
-    "lng": -124.4091796875,
+    "lat": 55.58745459852814,
+    "lng": -13.172861273381443,
     "notes": "On the small hill sticking out into the sea, this one is located down next to the sea. ",
     "counts_for": [
       "100%",
@@ -2115,8 +2115,8 @@
     "id": "letter-47",
     "cat": "letter",
     "name": "Letter Scrap #47 - Chiliad Mountain State Wilderness",
-    "lat": 80.96300406055933,
-    "lng": -134.2529296875,
+    "lat": 62.355745276504756,
+    "lng": -40.259803192887546,
     "notes": "This is located in the Altruist’s camp. Once inside, climb up the stairs cut into the side of the hill and go up the trail to the hut. Climb up the two ladders and this will be on a ledge next to you.",
     "counts_for": [
       "100%",
@@ -2127,8 +2127,8 @@
     "id": "letter-48",
     "cat": "letter",
     "name": "Letter Scrap #48 - Paleto Forest",
-    "lat": 81.88605575260925,
-    "lng": -130.166015625,
+    "lat": 69.29174990094734,
+    "lng": -29.013885342378302,
     "notes": "By the side of the road is a rock and a few trees together. Between two of the tress is this Letter.",
     "counts_for": [
       "100%",
@@ -2139,8 +2139,8 @@
     "id": "letter-49",
     "cat": "letter",
     "name": "Letter Scrap #49 - Mount Chiliad",
-    "lat": 82.02137801950887,
-    "lng": -120.146484375,
+    "lat": 70.21229017168807,
+    "lng": -1.4432480314524696,
     "notes": "This Letter is located on the floor of the cable car station at the very summit of Mount Chiliad.",
     "counts_for": [
       "100%",
@@ -2151,8 +2151,8 @@
     "id": "letter-50",
     "cat": "letter",
     "name": "Letter Scrap #50 - Paleto Bay / Proccopio Dr",
-    "lat": 82.96189798993065,
-    "lng": -128.8037109375,
+    "lat": 75.93198911209622,
+    "lng": -25.26524605887525,
     "notes": "This Letter is on the roof of the house. Use the steps to get up there and it’ll be on the floor near a table with an umbrella over it.",
     "counts_for": [
       "100%",
@@ -2163,8 +2163,8 @@
     "id": "knife-01",
     "cat": "knife",
     "name": "Knife Flight #1",
-    "lat": 69.80172356231073,
-    "lng": -122.32177734375,
+    "lat": -43.04043582260548,
+    "lng": -7.428978500271882,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2174,8 +2174,8 @@
     "id": "knife-02",
     "cat": "knife",
     "name": "Knife Flight #2",
-    "lat": 69.61885926881004,
-    "lng": -120.9375,
+    "lat": -44.091821547570206,
+    "lng": -3.619877292841352,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2185,8 +2185,8 @@
     "id": "knife-03",
     "cat": "knife",
     "name": "Knife Flight #3",
-    "lat": 67.13582938531948,
-    "lng": -123.2666015625,
+    "lat": -55.937350969270874,
+    "lng": -10.028841229153073,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2196,8 +2196,8 @@
     "id": "knife-04",
     "cat": "knife",
     "name": "Knife Flight #4",
-    "lat": 66.95587684341999,
-    "lng": -125.3759765625,
+    "lat": -56.64200307428924,
+    "lng": -15.833185926190083,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2207,8 +2207,8 @@
     "id": "knife-05",
     "cat": "knife",
     "name": "Knife Flight #5",
-    "lat": 66.85244636494531,
-    "lng": -126.62841796875,
+    "lat": -57.038850811620726,
+    "lng": -19.27951559005581,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2218,8 +2218,8 @@
     "id": "knife-06",
     "cat": "knife",
     "name": "Knife Flight #6",
-    "lat": 66.56574650920783,
-    "lng": -127.28759765625,
+    "lat": -58.1086350809817,
+    "lng": -21.093373307879887,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2229,8 +2229,8 @@
     "id": "knife-07",
     "cat": "knife",
     "name": "Knife Flight #7",
-    "lat": 67.28901521116026,
-    "lng": -126.89208984375,
+    "lat": -55.32297748400664,
+    "lng": -20.005058677185446,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2240,8 +2240,8 @@
     "id": "knife-08",
     "cat": "knife",
     "name": "Knife Flight #8",
-    "lat": 67.50016133802775,
-    "lng": -131.41845703125,
+    "lat": -54.45361891622244,
+    "lng": -32.46021500624403,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2251,8 +2251,8 @@
     "id": "knife-09",
     "cat": "knife",
     "name": "Knife Flight #9",
-    "lat": 68.69650487125402,
-    "lng": -133.74755859375,
+    "lat": -48.99417152166511,
+    "lng": -38.86917894255575,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2262,8 +2262,8 @@
     "id": "knife-10",
     "cat": "knife",
     "name": "Knife Flight #10",
-    "lat": 68.41535220938925,
-    "lng": -135.90087890625,
+    "lat": -50.363361882572974,
+    "lng": -44.79444748744771,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2273,8 +2273,8 @@
     "id": "knife-11",
     "cat": "knife",
     "name": "Knife Flight #11",
-    "lat": 67.60084926188546,
-    "lng": -139.02099609375,
+    "lat": -54.02963928470963,
+    "lng": -53.38004068514829,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2284,8 +2284,8 @@
     "id": "knife-12",
     "cat": "knife",
     "name": "Knife Flight #12",
-    "lat": 67.7427590666639,
-    "lng": -139.59228515625,
+    "lat": -53.421520280872805,
+    "lng": -54.95205070726247,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2295,8 +2295,8 @@
     "id": "knife-13",
     "cat": "knife",
     "name": "Knife Flight #13",
-    "lat": 68.60852084639889,
-    "lng": -142.55859375,
+    "lat": -49.42864516476065,
+    "lng": -63.114410437470795,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2306,8 +2306,8 @@
     "id": "knife-14",
     "cat": "knife",
     "name": "Knife Flight #14",
-    "lat": 70.48089578887483,
-    "lng": -131.748046875,
+    "lat": -38.88802564328707,
+    "lng": -33.367143865156066,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2317,8 +2317,8 @@
     "id": "knife-15",
     "cat": "knife",
     "name": "Knife Flight #15",
-    "lat": 70.57611174177542,
-    "lng": -131.85791015625,
+    "lat": -38.27358909965521,
+    "lng": -33.66945348479342,
     "notes": "",
     "counts_for": [
       "100%"
@@ -2328,8 +2328,8 @@
     "id": "epsilon-01",
     "cat": "epsilon",
     "name": "Epsilon Tract #1",
-    "lat": 82.05333803276643,
-    "lng": -119.70703125,
+    "lat": 70.42609288856711,
+    "lng": -0.2340095529031032,
     "notes": "“We worship Kram where the earth reaches up to Kraff”.",
     "counts_for": [
       "100%"
@@ -2339,8 +2339,8 @@
     "id": "epsilon-02",
     "cat": "epsilon",
     "name": "Epsilon Tract #2",
-    "lat": 64.45384948864441,
-    "lng": -98.70117187500006,
+    "lat": -64.78386721324769,
+    "lng": 57.56758972175706,
     "notes": "“Where the first one of the fleet succumbed to the waves, there the message is seeded”.",
     "counts_for": [
       "100%"
@@ -2350,8 +2350,8 @@
     "id": "epsilon-03",
     "cat": "epsilon",
     "name": "Epsilon Tract #3",
-    "lat": 84.38877975103254,
-    "lng": -124.34326171875,
+    "lat": 82.44069422532776,
+    "lng": -12.99147550159904,
     "notes": "“When they sail from the North, they will find this offering”.",
     "counts_for": [
       "100%"
@@ -2361,8 +2361,8 @@
     "id": "epsilon-04",
     "cat": "epsilon",
     "name": "Epsilon Tract #4",
-    "lat": 80.78879540362863,
-    "lng": -126.903076171875,
+    "lat": 60.9199397383297,
+    "lng": -20.03528963914917,
     "notes": "“In the core of the mountain, where the blast is not felt, you shall find it”.",
     "counts_for": [
       "100%"
@@ -2372,8 +2372,8 @@
     "id": "epsilon-05",
     "cat": "epsilon",
     "name": "Epsilon Tract #5",
-    "lat": 67.25505812564363,
-    "lng": -131.978759765625,
+    "lat": -55.46033799786111,
+    "lng": -34.0019940663945,
     "notes": "“In the rubble of the old religion, will be the basis for the new”.",
     "counts_for": [
       "100%"
@@ -2383,8 +2383,8 @@
     "id": "epsilon-06",
     "cat": "epsilon",
     "name": "Epsilon Tract #6",
-    "lat": 81.59569894043715,
-    "lng": -140.2294921875,
+    "lat": 67.23315397305542,
+    "lng": -56.70544650115909,
     "notes": "“When the first fleet sailed, the new fleet will find the map”.",
     "counts_for": [
       "100%"
@@ -2394,8 +2394,8 @@
     "id": "epsilon-07",
     "cat": "epsilon",
     "name": "Epsilon Tract #7",
-    "lat": 70.96328094668633,
-    "lng": -142.09716796875,
+    "lat": -35.69008272421243,
+    "lng": -61.84471003499394,
     "notes": "“What dwelling is worthy of Kraff? He is humble, yet we exalt him”.",
     "counts_for": [
       "100%"
@@ -2405,8 +2405,8 @@
     "id": "epsilon-08",
     "cat": "epsilon",
     "name": "Epsilon Tract #8",
-    "lat": 82.07305902515627,
-    "lng": -119.8388671875,
+    "lat": 70.55733291571772,
+    "lng": -0.5967810964679074,
     "notes": "“We are not dinosaurs, or plants, but a tree in the jet stream may hold Kraff's true word”.",
     "counts_for": [
       "100%"
@@ -2416,8 +2416,8 @@
     "id": "epsilon-09",
     "cat": "epsilon",
     "name": "Epsilon Tract #9",
-    "lat": 66.72254132270652,
-    "lng": -125.31005859375,
+    "lat": -57.52901560283875,
+    "lng": -15.651800154407681,
     "notes": "“The tallest obelisk of glass and steel holds no comparison to the word of Kraff”.",
     "counts_for": [
       "100%"
@@ -2427,8 +2427,8 @@
     "id": "epsilon-10",
     "cat": "epsilon",
     "name": "Epsilon Tract #10",
-    "lat": 69.03321086259241,
-    "lng": -141.383056640625,
+    "lat": -47.279541848611,
+    "lng": -59.87969750735121,
     "notes": "“Where they discard their earthly prisons, there you may find the germ of higher civilization”.",
     "counts_for": [
       "100%"
@@ -2438,8 +2438,8 @@
     "id": "bridge-01",
     "cat": "bridge",
     "name": "Under the Bridge #1",
-    "lat": 82.83148023336858,
-    "lng": -105.3369140625,
+    "lat": 75.20894926432233,
+    "lng": 39.30808869566158,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2449,8 +2449,8 @@
     "id": "bridge-02",
     "cat": "bridge",
     "name": "Under the Bridge #2",
-    "lat": 81.18123079440416,
-    "lng": -97.14111328125,
+    "lat": 64.09822245390201,
+    "lng": 61.86038632060752,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2460,8 +2460,8 @@
     "id": "bridge-03",
     "cat": "bridge",
     "name": "Under the Bridge #3",
-    "lat": 80.99057261848947,
-    "lng": -98.45947265625,
+    "lat": 62.579332805440096,
+    "lng": 58.23267088495939,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2471,8 +2471,8 @@
     "id": "bridge-04",
     "cat": "bridge",
     "name": "Under the Bridge #4",
-    "lat": 77.49936407863743,
-    "lng": -101.18408203125,
+    "lat": 27.74021573228208,
+    "lng": 50.7353923179532,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2482,8 +2482,8 @@
     "id": "bridge-05",
     "cat": "bridge",
     "name": "Under the Bridge #5",
-    "lat": 75.92554305800908,
-    "lng": -99.73388671875,
+    "lat": 9.97722789913947,
+    "lng": 54.72587929716616,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2493,8 +2493,8 @@
     "id": "bridge-06",
     "cat": "bridge",
     "name": "Under the Bridge #6",
-    "lat": 75.50815837230884,
-    "lng": -106.80908203125,
+    "lat": 5.364613459832805,
+    "lng": 35.25713979252117,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2504,8 +2504,8 @@
     "id": "bridge-07",
     "cat": "bridge",
     "name": "Under the Bridge #7",
-    "lat": 73.27735320192473,
-    "lng": -101.689453125,
+    "lat": -17.217025092004235,
+    "lng": 49.34476806762143,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2515,8 +2515,8 @@
     "id": "bridge-08",
     "cat": "bridge",
     "name": "Under the Bridge #8",
-    "lat": 73.16317321504972,
-    "lng": -102.1728515625,
+    "lat": -18.253599365843193,
+    "lng": 48.01460574121711,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2526,8 +2526,8 @@
     "id": "bridge-09",
     "cat": "bridge",
     "name": "Under the Bridge #9",
-    "lat": 72.32245873268863,
-    "lng": -95.5810546875,
+    "lat": -25.485527162445575,
+    "lng": 66.15318291945778,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2537,8 +2537,8 @@
     "id": "bridge-10",
     "cat": "bridge",
     "name": "Under the Bridge #10",
-    "lat": 68.18788950166666,
-    "lng": -101.62353515625,
+    "lat": -51.43105608699648,
+    "lng": 49.52615383940386,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2548,8 +2548,8 @@
     "id": "bridge-11",
     "cat": "bridge",
     "name": "Under the Bridge #11",
-    "lat": 66.95587684341999,
-    "lng": -106.083984375,
+    "lat": -56.64200307428924,
+    "lng": 37.252383282127624,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2559,8 +2559,8 @@
     "id": "bridge-12",
     "cat": "bridge",
     "name": "Under the Bridge #12",
-    "lat": 68.84766505841037,
-    "lng": -114.0380859375,
+    "lat": -48.234709038555586,
+    "lng": 15.365166820383877,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2570,8 +2570,8 @@
     "id": "bridge-13",
     "cat": "bridge",
     "name": "Under the Bridge #13",
-    "lat": 68.53627641533488,
-    "lng": -114.609375,
+    "lat": -49.78128633953176,
+    "lng": 13.793156798269735,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2581,8 +2581,8 @@
     "id": "bridge-14",
     "cat": "bridge",
     "name": "Under the Bridge #14",
-    "lat": 68.07330474079025,
-    "lng": -117.509765625,
+    "lat": -51.95574733169314,
+    "lng": 5.812182839843814,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2592,8 +2592,8 @@
     "id": "bridge-15",
     "cat": "bridge",
     "name": "Under the Bridge #15",
-    "lat": 67.71777831266216,
-    "lng": -118.45458984375,
+    "lat": -53.52947494155128,
+    "lng": 3.2123201109626507,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2603,8 +2603,8 @@
     "id": "bridge-16",
     "cat": "bridge",
     "name": "Under the Bridge #16",
-    "lat": 66.58321725728173,
-    "lng": -118.828125,
+    "lat": -58.04469249676183,
+    "lng": 2.184467404195658,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2614,8 +2614,8 @@
     "id": "bridge-17",
     "cat": "bridge",
     "name": "Under the Bridge #17",
-    "lat": 66.60940033421895,
-    "lng": -114.8291015625,
+    "lat": -57.94856369855621,
+    "lng": 13.188537558995023,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2625,8 +2625,8 @@
     "id": "bridge-18",
     "cat": "bridge",
     "name": "Under the Bridge #18",
-    "lat": 66.07154649351561,
-    "lng": -114.47753906250006,
+    "lat": -59.853016806451045,
+    "lng": 14.15592834183434,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2636,8 +2636,8 @@
     "id": "bridge-19",
     "cat": "bridge",
     "name": "Under the Bridge #19",
-    "lat": 65.37599365291614,
-    "lng": -112.60986328125,
+    "lat": -62.11028903814801,
+    "lng": 19.29519187566939,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2647,8 +2647,8 @@
     "id": "bridge-20",
     "cat": "bridge",
     "name": "Under the Bridge #20",
-    "lat": 65.9016533861307,
-    "lng": -118.80615234375,
+    "lat": -60.42497313632344,
+    "lng": 2.244929328123135,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2658,8 +2658,8 @@
     "id": "bridge-21",
     "cat": "bridge",
     "name": "Under the Bridge #21",
-    "lat": 65.17380608397224,
-    "lng": -118.85009765625,
+    "lat": -62.72614841395576,
+    "lng": 2.1240054802682096,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2669,8 +2669,8 @@
     "id": "bridge-22",
     "cat": "bridge",
     "name": "Under the Bridge #22",
-    "lat": 64.19681461100494,
-    "lng": -118.36669921875,
+    "lat": -65.47045205119466,
+    "lng": 3.4541678066725297,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2680,8 +2680,8 @@
     "id": "bridge-23",
     "cat": "bridge",
     "name": "Under the Bridge #23",
-    "lat": 62.915233039476135,
-    "lng": -118.037109375,
+    "lat": -68.5588368282075,
+    "lng": 4.361096665584569,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2691,8 +2691,8 @@
     "id": "bridge-24",
     "cat": "bridge",
     "name": "Under the Bridge #24",
-    "lat": 61.48075950007598,
-    "lng": -118.32275390625,
+    "lat": -71.44846999211487,
+    "lng": 3.575091654527455,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2702,8 +2702,8 @@
     "id": "bridge-25",
     "cat": "bridge",
     "name": "Under the Bridge #25",
-    "lat": 59.33318942659219,
-    "lng": -118.6962890625,
+    "lat": -74.90157018681677,
+    "lng": 2.5472389477604906,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2713,8 +2713,8 @@
     "id": "bridge-26",
     "cat": "bridge",
     "name": "Under the Bridge #26",
-    "lat": 58.96133955528141,
-    "lng": -118.05908203125,
+    "lat": -75.41264076090219,
+    "lng": 4.300634741657063,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2724,8 +2724,8 @@
     "id": "bridge-27",
     "cat": "bridge",
     "name": "Under the Bridge #27",
-    "lat": 58.90464570302001,
-    "lng": -117.509765625,
+    "lat": -75.48858512663766,
+    "lng": 5.812182839843814,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2735,8 +2735,8 @@
     "id": "bridge-28",
     "cat": "bridge",
     "name": "Under the Bridge #28",
-    "lat": 58.73400476743346,
-    "lng": -116.8505859375,
+    "lat": -75.71410398485315,
+    "lng": 7.626040557667864,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2746,8 +2746,8 @@
     "id": "bridge-29",
     "cat": "bridge",
     "name": "Under the Bridge #29",
-    "lat": 60.22890276751329,
-    "lng": -121.13525390625,
+    "lat": -73.5719018881377,
+    "lng": -4.164034608188587,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2757,8 +2757,8 @@
     "id": "bridge-30",
     "cat": "bridge",
     "name": "Under the Bridge #30",
-    "lat": 60.261617082844616,
-    "lng": -122.45361328125,
+    "lat": -73.52052588171941,
+    "lng": -7.791750043836714,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2768,8 +2768,8 @@
     "id": "bridge-31",
     "cat": "bridge",
     "name": "Under the Bridge #31",
-    "lat": 60.06484046010452,
-    "lng": -128.2763671875,
+    "lat": -73.8264540097649,
+    "lng": -23.814159884615975,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2779,8 +2779,8 @@
     "id": "bridge-32",
     "cat": "bridge",
     "name": "Under the Bridge #32",
-    "lat": 61.53316997618228,
-    "lng": -124.07958984375,
+    "lat": -71.35204702969708,
+    "lng": -12.265932414469404,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2790,8 +2790,8 @@
     "id": "bridge-33",
     "cat": "bridge",
     "name": "Under the Bridge #33",
-    "lat": 62.62366757547449,
-    "lng": -126.5185546875,
+    "lat": -69.19072753237388,
+    "lng": -18.977205970418453,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2801,8 +2801,8 @@
     "id": "bridge-34",
     "cat": "bridge",
     "name": "Under the Bridge #34",
-    "lat": 63.174193604205094,
-    "lng": -128.14453125,
+    "lat": -67.97680499881223,
+    "lng": -23.45138834105117,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2812,8 +2812,8 @@
     "id": "bridge-35",
     "cat": "bridge",
     "name": "Under the Bridge #35",
-    "lat": 63.548552232036414,
-    "lng": -128.86962890625,
+    "lat": -67.09908446478701,
+    "lng": -25.44663183065765,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2823,8 +2823,8 @@
     "id": "bridge-36",
     "cat": "bridge",
     "name": "Under the Bridge #36",
-    "lat": 63.89873081524394,
-    "lng": -130.62744140625,
+    "lat": -66.23711111119954,
+    "lng": -30.283585744855145,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2834,8 +2834,8 @@
     "id": "bridge-37",
     "cat": "bridge",
     "name": "Under the Bridge #37",
-    "lat": 63.84066844285508,
-    "lng": -131.0009765625,
+    "lat": -66.38286796168096,
+    "lng": -31.311438451622138,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2845,8 +2845,8 @@
     "id": "bridge-38",
     "cat": "bridge",
     "name": "Under the Bridge #38",
-    "lat": 63.763065186029074,
-    "lng": -131.50634765625,
+    "lat": -66.57589958961185,
+    "lng": -32.702062701953906,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2856,8 +2856,8 @@
     "id": "bridge-39",
     "cat": "bridge",
     "name": "Under the Bridge #39",
-    "lat": 72.05361149670412,
-    "lng": -154.4677734375,
+    "lat": -27.64844945841961,
+    "lng": -95.88477320615895,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2867,8 +2867,8 @@
     "id": "bridge-40",
     "cat": "bridge",
     "name": "Under the Bridge #40",
-    "lat": 76.38296942847462,
-    "lng": -138.93310546875,
+    "lat": 15.109972645444373,
+    "lng": -53.13819298943841,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2878,8 +2878,8 @@
     "id": "bridge-41",
     "cat": "bridge",
     "name": "Under the Bridge #41",
-    "lat": 76.89074547194512,
-    "lng": -138.251953125,
+    "lat": 20.85784707364827,
+    "lng": -51.26387334768688,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2889,8 +2889,8 @@
     "id": "bridge-42",
     "cat": "bridge",
     "name": "Under the Bridge #42",
-    "lat": 77.39430022245843,
-    "lng": -126.27685546875,
+    "lat": 26.556632859312092,
+    "lng": -18.312124807216293,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2900,8 +2900,8 @@
     "id": "bridge-43",
     "cat": "bridge",
     "name": "Under the Bridge #43",
-    "lat": 77.61299649786253,
-    "lng": -128.56201171875,
+    "lat": 29.016878116539875,
+    "lng": -24.60016489567309,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2911,8 +2911,8 @@
     "id": "bridge-44",
     "cat": "bridge",
     "name": "Under the Bridge #44",
-    "lat": 76.84081641443098,
-    "lng": -150.46875,
+    "lat": 20.291796992820046,
+    "lng": -84.8807030513596,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2922,8 +2922,8 @@
     "id": "bridge-45",
     "cat": "bridge",
     "name": "Under the Bridge #45",
-    "lat": 78.43341771170695,
-    "lng": -123.3544921875,
+    "lat": 38.06986938894017,
+    "lng": -10.270688924862924,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2933,8 +2933,8 @@
     "id": "bridge-46",
     "cat": "bridge",
     "name": "Under the Bridge #46",
-    "lat": 78.52557254138317,
-    "lng": -123.22265625,
+    "lat": 39.06260465557092,
+    "lng": -9.90791738129812,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2944,8 +2944,8 @@
     "id": "bridge-47",
     "cat": "bridge",
     "name": "Under the Bridge #47",
-    "lat": 80.02765497223287,
-    "lng": -126.18896484375,
+    "lat": 54.19671668126815,
+    "lng": -18.070277111506442,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2955,8 +2955,8 @@
     "id": "bridge-48",
     "cat": "bridge",
     "name": "Under the Bridge #48",
-    "lat": 80.3164243776928,
-    "lng": -129.5947265625,
+    "lat": 56.83149754457608,
+    "lng": -27.441875320264103,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2966,8 +2966,8 @@
     "id": "bridge-49",
     "cat": "bridge",
     "name": "Under the Bridge #49",
-    "lat": 80.67911826095326,
-    "lng": -142.80029296875,
+    "lat": 59.995854474428015,
+    "lng": -63.779491600672955,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
@@ -2977,8 +2977,8 @@
     "id": "bridge-50",
     "cat": "bridge",
     "name": "Under the Bridge #50",
-    "lat": 80.83090675124559,
-    "lng": -134.6923828125,
+    "lat": 61.27063006275011,
+    "lng": -41.46904167143691,
     "notes": "The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
     "counts_for": [
       "100%"
