@@ -218,29 +218,50 @@ conventional progress bar rather than sitting next to one.
 
 ### Visual direction
 
-Palette, derived from the map tiles themselves:
+This is dense product UI, not a landing page: a tool kept open for hours while playing.
+The visual language comes from the game's own HUD, which is angular, dense, and uses one
+accent against neutrals.
+
+**Shape.** Square corners, radius 0, everywhere. It matches the HUD and it keeps the
+interface from reading as a generic rounded-card template.
+
+**Color.** One accent, orange, and warm neutrals. Semantic tokens carry the values so a
+theme swap changes one block of CSS and nothing else. The orange is darker in the light
+theme so white text on it passes contrast, and lighter in the dark theme so it reads
+against a dark surface. Both themes ship; the default follows `prefers-color-scheme`.
 
 ```
---sand     #EDE6D6   panel background
---asphalt  #1E2422   text and dark panel, a green-black rather than pure black
---teal     #35B0A7   primary accent, matching the map pins
---olive    #B9CE8E   complete
---freeway  #E9D48A   partial / attention
+light   --bg #f5f3ef  --surface #ffffff  --text #1b1b1a  --primary #c4550f
+dark    --bg #16171a  --surface #1e2023  --text #eceae6  --primary #f2802e
 ```
 
-The only additional saturated colors are the three protagonist colors (Michael blue,
-Franklin green, Trevor orange), applied only to missions and Strangers & Freaks, where
-character ownership is real information and the game's own categorization.
+No second accent anywhere. The earlier protagonist-color device is dropped: it collided
+with the orange and contradicted a single-accent palette.
 
-Type: **Archivo** for headings, uppercase with tight tracking; **Public Sans** for body
-text; **Martian Mono** for numerals only, with tabular figures so counters do not shift
-as they change.
+**Type.** Archivo for headings and category names, uppercase with tight tracking, for its
+signage feel. Geist for interface text. Geist Mono, tabular figures, for every number, so
+counters do not shift width as they change. Icons come from Phosphor; no hand-drawn SVG.
 
-Motion is limited to map fly-to easing and a 120ms fill on a tally cell. No ambient
-animation, no gradients, no diffuse shadows.
+**Motion.** Every animation names a purpose or it is not written.
 
-Quality floor: responsive down to mobile, where the panel becomes a bottom sheet;
-visible keyboard focus; `prefers-reduced-motion` respected.
+| Element | Purpose | Recipe |
+| --- | --- | --- |
+| Marker popup | spatial consistency | 160ms ease-out, opacity and scale 0.96, origin at the pin |
+| Tally cell fill | feedback | 120ms, color only |
+| Mobile panel | spatial consistency | 300ms drawer curve, transform only |
+| Fly-to from a tally cell | spatial consistency | 600ms, replaced by an instant jump under reduced motion |
+| Sign-in entry | first impression, once per session | opacity and 8px rise, 200ms, 40ms stagger |
+
+Deliberately not animated: counters counting up, which is decoration over data being read;
+category visibility toggles, which are used dozens of times per session and would grow
+tiresome; and anything looping. One delight moment is allowed, at 100% completion, because
+it happens once per save.
+
+Hover motion is gated behind `(hover: hover) and (pointer: fine)`. Reduced motion keeps
+opacity and color transitions and drops movement.
+
+Quality floor: responsive down to mobile, where the panel becomes a bottom sheet; visible
+keyboard focus on every control; WCAG AA contrast in both themes.
 
 ## Deployment
 

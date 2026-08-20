@@ -11,6 +11,13 @@
   --border: rgba(27, 27, 26, 0.18);
   --primary: #c4550f;
   --primary-ink: #ffffff;
+
+  --font-display: var(--font-archivo), system-ui, sans-serif;
+  --font-body: var(--font-geist-sans), system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-drawer: cubic-bezier(0.32, 0.72, 0, 1);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -35,7 +42,34 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--text);
-  font-family: system-ui, sans-serif;
+}
+
+body {
+  font-family: var(--font-body);
+  font-size: 14px;
+}
+
+/* Shape lock: the HUD this borrows from is angular, and square corners keep the
+   interface from reading as a generic rounded-card template. */
+button,
+input,
+.panel,
+.popup,
+.tally__cell {
+  border-radius: 0;
+}
+
+h1,
+h2,
+.category__name {
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.num {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
 }
 
 a {

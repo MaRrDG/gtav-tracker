@@ -26,7 +26,7 @@ Tracks GTA V 100% completion and achievements against a signed-in account.
 4. Fetch the map tiles, which are not committed:
 
        git clone --depth 1 https://github.com/meesvrh/GTAV-Map-Tiles /tmp/gtav-tiles
-       cp -r /tmp/gtav-tiles/tiles/atlas tiles
+       cp -r /tmp/gtav-tiles/tiles/atlas public/tiles
 
 ## Run
 
