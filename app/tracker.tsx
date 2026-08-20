@@ -7,6 +7,7 @@ import { indexCatalog } from '@/lib/catalog-index';
 import { isDone, setDone } from '@/lib/progress-state';
 import { putObjective } from '@/lib/progress-client';
 import { Panel } from '@/components/panel';
+import { PinSprite } from '@/components/pin-sprite';
 
 // Leaflet reaches for window at import time, so it never renders on the server.
 const MapView = dynamic(() => import('@/components/map-view'), { ssr: false });
@@ -62,6 +63,7 @@ export function Tracker({ catalog, initialProgress, email }: Props) {
 
   return (
     <div className="layout">
+      <PinSprite categoryIds={catalog.categories.map((category) => category.id)} />
       <Panel
         indexed={indexed}
         progress={progress}

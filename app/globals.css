@@ -178,17 +178,49 @@ a {
 }
 
 .pin__body {
-  display: block;
-  width: 14px;
-  height: 14px;
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 22px;
+  height: 22px;
   background: var(--primary);
-  border: 2px solid var(--surface);
+  border: 1px solid var(--surface);
+  color: var(--primary-ink);
+}
+
+/* The tip: a rotated square, so the pin points without a hand-drawn path. */
+.pin__body::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 50%;
+  width: 9px;
+  height: 9px;
+  margin-left: -4.5px;
+  background: var(--primary);
+  border-right: 1px solid var(--surface);
+  border-bottom: 1px solid var(--surface);
+  transform: rotate(45deg);
+}
+
+.pin__glyph {
+  width: 13px;
+  height: 13px;
+  position: relative;
+  z-index: 1;
 }
 
 .pin--done .pin__body {
-  background: transparent;
+  background: var(--surface);
   border-color: var(--primary);
-  opacity: 0.55;
+  color: var(--primary);
+  opacity: 0.6;
+}
+
+.pin--done .pin__body::after {
+  background: var(--surface);
+  border-right-color: var(--primary);
+  border-bottom-color: var(--primary);
 }
 
 /* Leaflet paints its own popup chrome; override it to the shape and colour locks. */

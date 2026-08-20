@@ -5,19 +5,21 @@ import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import type { Objective, ProgressMap } from '@/lib/types';
 import { isDone } from '@/lib/progress-state';
+import { symbolId } from '@/components/pin-sprite';
 
 const MIN_ZOOM = 0;
 const MAX_ZOOM = 5;
 const HOME: { center: L.LatLngExpression; zoom: number } = { center: [72, -122], zoom: 3 };
 
-// A square pin, matching the shape lock. Filled with the accent, hollow once done.
-function pinIcon(done: boolean) {
+// A square badge with a pointed tip, carrying the category glyph from the sprite.
+// Square rather than the usual teardrop, to hold the shape lock.
+function pinIcon(categoryId: string, done: boolean) {
   return L.divIcon({
     className: `pin${done ? ' pin--done' : ''}`,
-    html: '<span class="pin__body"></span>',
-    iconSize: [14, 14],
-    iconAnchor: [7, 7],
-    popupAnchor: [0, -8],
+    html: `<span class="pin__body"><svg class="pin__glyph" viewBox="0 0 256 256" aria-hidden="true"><use href="#${symbolId(categoryId)}"></use></svg></span>`,
+    iconSize: [22, 27],
+    iconAnchor: [11, 27],
+    popupAnchor: [0, -24],
   });
 }
 
@@ -100,7 +102,9 @@ export default function MapView({
       if (objective.lat === undefined || objective.lng === undefined) continue;
       if (markers.current.has(objective.id)) continue;
 
-      const marker = L.marker([objective.lat, objective.lng], { icon: pinIcon(false) });
+      const marker = L.marker([objective.lat, objective.lng], {
+        icon: pinIcon(objective.cat, false),
+      });
       marker.bindPopup(() => popupHtml(objective, isDone(latestProgress.current, objective.id)), {
         closeButton: false,
       });
@@ -138,7 +142,7 @@ export default function MapView({
       if (!marker) continue;
 
       const done = isDone(progress, objective.id);
-      marker.setIcon(pinIcon(done));
+      marker.setIcon(pinIcon(objective.cat, done));
 
       const layer = layers.current.get(objective.cat);
       if (!layer) continue;
