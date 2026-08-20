@@ -3,5 +3,7 @@
   { "id": "letter", "name": "Letter Scraps", "expected": 50 },
   { "id": "waste", "name": "Nuclear Waste", "expected": 30 },
   { "id": "stunt", "name": "Stunt Jumps", "expected": 50 },
-  { "id": "knife", "name": "Knife Flights", "expected": null }
+  { "id": "knife", "name": "Knife Flights", "expected": 15 },
+  { "id": "bridge", "name": "Under the Bridge", "expected": 50 },
+  { "id": "epsilon", "name": "Epsilon Tracts", "expected": 10 }
 ]

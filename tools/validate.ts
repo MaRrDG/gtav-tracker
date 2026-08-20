@@ -94,5 +94,8 @@ async function main(): Promise<void> {
 
 // tsx sets argv[1] to this file when it is run directly, not when it is imported.
 if (process.argv[1]?.endsWith('validate.ts')) {
-  await main();
+  main().catch((error: unknown) => {
+    console.error(error);
+    process.exit(1);
+  });
 }
