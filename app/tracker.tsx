@@ -6,6 +6,7 @@ import type { Catalog, ProgressMap } from '@/lib/types';
 import { indexCatalog } from '@/lib/catalog-index';
 import { isDone, setDone } from '@/lib/progress-state';
 import { putObjective } from '@/lib/progress-client';
+import { Panel } from '@/components/panel';
 
 // Leaflet reaches for window at import time, so it never renders on the server.
 const MapView = dynamic(() => import('@/components/map-view'), { ssr: false });
@@ -25,6 +26,9 @@ export function Tracker({ catalog, initialProgress, email }: Props) {
   const [hideCompleted, setHideCompleted] = useState(false);
   const [focusId, setFocusId] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
+  // The sheet starts closed on small screens so the map, which is the point of the
+  // screen, is what the user sees first. On desktop the class never applies.
+  const [collapsed, setCollapsed] = useState(true);
 
   // Read through a ref rather than a state updater: updaters run twice under StrictMode,
   // which would capture an already-changed map as the value to roll back to.
@@ -58,26 +62,19 @@ export function Tracker({ catalog, initialProgress, email }: Props) {
 
   return (
     <div className="layout">
-      {/* The panel arrives in the next task. */}
-      <aside className="panel">
-        <p>{email}</p>
-        <p>{indexed.categories.length} categories</p>
-        {error && <p role="alert">{error}</p>}
-        <button type="button" onClick={() => toggleCategory('spaceship')}>
-          Toggle spaceship
-        </button>
-        <label>
-          <input
-            type="checkbox"
-            checked={hideCompleted}
-            onChange={(event) => setHideCompleted(event.target.checked)}
-          />
-          Hide completed
-        </label>
-        <button type="button" onClick={() => setFocusId('spaceship-01')}>
-          Focus first
-        </button>
-      </aside>
+      <Panel
+        indexed={indexed}
+        progress={progress}
+        visible={visible}
+        hideCompleted={hideCompleted}
+        collapsed={collapsed}
+        email={email}
+        error={error}
+        onToggleCategory={toggleCategory}
+        onHideCompleted={setHideCompleted}
+        onCollapsedChange={setCollapsed}
+        onFocus={setFocusId}
+      />
       <MapView
         objectives={catalog.locations}
         visible={visible}
