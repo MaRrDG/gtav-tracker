@@ -3,6 +3,7 @@
 import { useState, type SyntheticEvent } from 'react';
 import { useRouter } from 'next/navigation';
 import { createBrowserSupabase } from '@/lib/supabase/client';
+import { SITE_URL } from '@/lib/env';
 
 type Mode = 'sign-in' | 'sign-up';
 
@@ -23,7 +24,11 @@ export function SignInForm() {
     const { data, error } =
       mode === 'sign-in'
         ? await supabase.auth.signInWithPassword({ email, password })
-        : await supabase.auth.signUp({ email, password });
+        : await supabase.auth.signUp({
+            email,
+            password,
+            options: { emailRedirectTo: `${SITE_URL}/auth/callback` },
+          });
 
     setBusy(false);
 
@@ -32,9 +37,9 @@ export function SignInForm() {
       return;
     }
 
-    // With email confirmation turned off, signing up returns a session straight away.
+    // Signing up returns no session until the emailed link is followed.
     if (!data.session) {
-      setMessage('Account created. Confirm the email address, then sign in.');
+      setMessage(`Account created. Open the confirmation link sent to ${email}.`);
       setMode('sign-in');
       return;
     }

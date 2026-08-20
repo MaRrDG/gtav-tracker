@@ -17,3 +17,6 @@ export const SUPABASE_KEY = required(
   'NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY',
   process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY,
 );
+
+/** Public origin of this deployment, used to build email confirmation return links. */
+export const SITE_URL = required('NEXT_PUBLIC_SITE_URL', process.env.NEXT_PUBLIC_SITE_URL);
